@@ -1,0 +1,1501 @@
+User_ID,Name,Age,Gender,Income,Annual_Family_Income,State,District,Education,Occupation,Category,Disability_Status,Rural_Urban,Employment_Status,Marital_Status,Farmer_Status,Student_Status,BPL_Status,Minority_Status
+USR0001,Aaradhya Sharma,47,female,5679,113889,uttar pradesh,prayagraj,primary,farmer,general,yes,rural,self-employed,married,yes,no,no,no
+USR0002,Atharva Pandey,37,male,4106,69735,tamil nadu,vellore,10th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0003,Prisha Tiwari,49,female,10392,131749,karnataka,dharwad,12th,laborer,st,no,urban,self-employed,married,no,no,no,no
+USR0004,Suresh Soni,62,male,12467,184935,bihar,muzaffarpur,illiterate,retired,ews,no,rural,retired,married,no,no,no,no
+USR0005,Swati Rao,36,female,49993,799103,west bengal,durgapur,post graduate,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0006,Vijay Deshmukh,36,male,7876,112976,rajasthan,kota,illiterate,laborer,ews,no,rural,self-employed,divorced,no,no,no,no
+USR0007,Sunita More,63,female,0,87452,gujarat,jamnagar,12th,unemployed,ews,no,rural,unemployed,married,no,no,yes,no
+USR0008,Dev Nair,51,male,5796,89568,madhya pradesh,satna,illiterate,farmer,obc,no,rural,self-employed,divorced,yes,no,yes,no
+USR0009,Sapna Kumar,32,female,11250,145573,kerala,kochi,10th,laborer,general,no,urban,employed,married,no,no,no,no
+USR0010,Harish Mehta,48,male,0,183080,andhra pradesh,vijayawada,10th,unemployed,obc,no,urban,unemployed,married,no,no,no,no
+USR0011,Poonam Kumar,33,female,62576,1031263,punjab,hoshiarpur,illiterate,business owner,st,no,rural,self-employed,married,no,no,no,no
+USR0012,Aditya Patel,33,male,51828,738410,maharashtra,amravati,graduate,government employee,obc,no,rural,employed,married,no,no,no,no
+USR0013,Sunita Pandey,43,female,9588,134795,uttar pradesh,agra,10th,laborer,obc,no,rural,employed,married,no,no,no,no
+USR0014,Dev Jha,18,male,0,751759,tamil nadu,trichy,10th,student,ews,yes,rural,student,single,no,yes,no,no
+USR0015,Priyanka Banerjee,18,female,0,688782,karnataka,hubli,10th,student,obc,no,rural,student,single,no,yes,no,no
+USR0016,Rohit Tiwari,31,male,22100,461718,bihar,ara,post graduate,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0017,Prisha Sen,24,female,0,560405,west bengal,asansol,graduate,student,ews,no,urban,student,married,no,yes,no,yes
+USR0018,Rakesh Yadav,44,male,6764,98514,rajasthan,jaipur,illiterate,laborer,sc,no,rural,employed,married,no,no,yes,no
+USR0019,Shweta Kumar,26,female,52388,759544,gujarat,jamnagar,graduate,private employee,obc,no,urban,employed,married,no,no,no,no
+USR0020,Atharva Patil,18,male,0,192133,madhya pradesh,gwalior,post graduate,unemployed,ews,yes,rural,unemployed,single,no,no,no,no
+USR0021,Aanya Sinha,61,female,7853,130697,kerala,kochi,illiterate,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR0022,Gaurav Soni,36,male,0,132361,andhra pradesh,kakinada,primary,unemployed,ews,no,rural,unemployed,married,no,no,no,no
+USR0023,Aadhya Kumar,41,female,6600,93008,punjab,moga,illiterate,laborer,ews,no,urban,employed,married,no,no,yes,no
+USR0024,Pankaj Shah,18,male,0,671542,maharashtra,mumbai,10th,student,general,no,rural,student,single,no,yes,no,yes
+USR0025,Sapna Joshi,31,female,109058,1418580,uttar pradesh,prayagraj,12th,private employee,general,no,rural,employed,single,no,no,no,no
+USR0026,Aditya Iyer,41,male,6143,100883,tamil nadu,salem,10th,farmer,general,no,rural,self-employed,single,yes,no,no,yes
+USR0027,Kiran Singh,22,female,0,245287,karnataka,dharwad,graduate,student,obc,yes,rural,student,married,no,yes,no,no
+USR0028,Vivaan Tiwari,45,male,10586,146517,bihar,muzaffarpur,10th,laborer,sc,no,urban,employed,married,no,no,no,no
+USR0029,Riya Mehta,30,female,10745,155203,west bengal,kharagpur,10th,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR0030,Deepak Tiwari,35,male,64219,803729,rajasthan,ajmer,graduate,government employee,obc,no,rural,employed,married,no,no,no,yes
+USR0031,Radha Sinha,30,female,6226,81601,gujarat,jamnagar,10th,laborer,sc,no,urban,self-employed,married,no,no,no,yes
+USR0032,Dinesh Gandhi,67,male,8789,128090,madhya pradesh,dewas,graduate,retired,st,no,rural,retired,married,no,no,no,no
+USR0033,Kiran Das,39,female,58279,882704,kerala,alappuzha,post graduate,private employee,obc,no,urban,employed,married,no,no,no,no
+USR0034,Vikram Gandhi,24,male,0,671343,andhra pradesh,kurnool,graduate,student,general,no,urban,student,married,no,yes,no,no
+USR0035,Jyoti Gowda,52,female,71346,1028191,punjab,ludhiana,12th,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0036,Ishaan Patel,21,male,0,753686,maharashtra,nashik,12th,student,obc,no,urban,student,single,no,yes,no,no
+USR0037,Priya Joshi,43,female,14015,182952,uttar pradesh,lucknow,12th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0038,Ajay Sen,18,male,0,95814,tamil nadu,madurai,10th,student,st,no,urban,student,single,no,yes,yes,no
+USR0039,Poonam Gill,20,female,0,217253,karnataka,bengaluru,12th,student,obc,no,urban,student,single,no,yes,no,no
+USR0040,Sandeep Nair,42,male,55861,797804,bihar,ara,post graduate,government employee,sc,no,urban,employed,married,no,no,no,no
+USR0041,Poonam More,51,female,108525,1397201,west bengal,asansol,12th,private employee,general,no,urban,employed,married,no,no,no,yes
+USR0042,Vijay Joshi,42,male,9421,158612,rajasthan,kota,12th,farmer,obc,yes,rural,self-employed,married,yes,no,no,no
+USR0043,Isha Soni,38,female,54139,897186,gujarat,jamnagar,10th,business owner,obc,no,urban,self-employed,married,no,no,no,no
+USR0044,Yash Chatterjee,35,male,11956,155374,madhya pradesh,satna,12th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0045,Anika Nair,18,female,0,57104,kerala,trivandrum,graduate,unemployed,general,no,rural,unemployed,single,no,no,yes,no
+USR0046,Ramesh Prasad,29,male,68065,956213,andhra pradesh,tirupati,post graduate,government employee,general,yes,rural,employed,married,no,no,no,no
+USR0047,Aadhya Singh,33,female,0,55342,punjab,ludhiana,primary,unemployed,obc,no,rural,unemployed,married,no,no,yes,no
+USR0048,Amit Chaudhary,55,male,7341,98188,maharashtra,nagpur,illiterate,laborer,ews,no,urban,self-employed,married,no,no,no,no
+USR0049,Aadhya Jha,45,female,13837,183977,uttar pradesh,agra,10th,farmer,sc,no,rural,self-employed,married,yes,no,no,no
+USR0050,Sai Sinha,18,male,0,530463,tamil nadu,tirunelveli,10th,student,sc,no,urban,student,single,no,yes,no,no
+USR0051,Kavya Iyer,44,female,11045,150781,karnataka,hubli,10th,laborer,st,no,rural,self-employed,married,no,no,no,no
+USR0052,Sunil Sen,34,male,46963,705376,bihar,gaya,graduate,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0053,Priyanka Banerjee,29,female,71655,1005245,west bengal,durgapur,post graduate,government employee,obc,no,urban,employed,married,no,no,no,no
+USR0054,Rahul Bhat,49,male,77402,1148143,rajasthan,sikar,primary,business owner,sc,no,rural,self-employed,married,no,no,no,no
+USR0055,Geeta Shah,55,female,60056,882215,gujarat,bhavnagar,graduate,business owner,st,no,rural,self-employed,married,no,no,no,no
+USR0056,Dev Reddy,53,male,85236,1091367,madhya pradesh,gwalior,post graduate,private employee,general,no,rural,employed,married,no,no,no,no
+USR0057,Nisha Patil,27,female,64816,855093,kerala,kochi,post graduate,government employee,general,yes,rural,employed,divorced,no,no,no,no
+USR0058,Shaurya More,35,male,0,124537,andhra pradesh,vijayawada,graduate,unemployed,obc,no,rural,unemployed,divorced,no,no,no,yes
+USR0059,Aaradhya Gupta,44,female,22026,354086,punjab,pathankot,graduate,business owner,general,no,urban,self-employed,married,no,no,no,yes
+USR0060,Yash Mukherjee,54,male,94049,1277667,maharashtra,thane,post graduate,government employee,obc,no,urban,employed,married,no,no,no,no
+USR0061,Mamta Yadav,32,female,7286,96361,uttar pradesh,agra,illiterate,laborer,ews,yes,rural,employed,married,no,no,yes,no
+USR0062,Sanjay Gill,37,male,9482,120664,tamil nadu,coimbatore,primary,laborer,obc,no,urban,self-employed,married,no,no,no,no
+USR0063,Riya Shah,23,female,0,581465,karnataka,belgaum,graduate,student,obc,no,urban,student,single,no,yes,no,no
+USR0064,Aditya Mukherjee,22,male,0,115632,bihar,patna,10th,unemployed,ews,no,urban,unemployed,single,no,no,yes,yes
+USR0065,Rekha Soni,52,female,96669,1258049,west bengal,kolkata,graduate,government employee,obc,no,rural,employed,married,no,no,no,no
+USR0066,Pranav Patel,60,male,15520,218198,rajasthan,sikar,10th,retired,ews,no,rural,retired,married,no,no,no,no
+USR0067,Sapna Singh,38,female,9296,129149,gujarat,junagadh,10th,farmer,st,no,rural,self-employed,married,yes,no,no,no
+USR0068,Pankaj Gill,55,male,14201,213081,madhya pradesh,dewas,10th,farmer,obc,no,rural,self-employed,divorced,yes,no,no,no
+USR0069,Priyanka Reddy,45,female,0,112730,kerala,trivandrum,graduate,unemployed,sc,no,rural,unemployed,married,no,no,no,no
+USR0070,Aryan Gill,30,male,10168,138573,andhra pradesh,vijayawada,10th,laborer,general,no,rural,employed,married,no,no,no,no
+USR0071,Nisha Sinha,45,female,0,158774,punjab,jalandhar,10th,unemployed,obc,no,rural,unemployed,married,no,no,no,yes
+USR0072,Gaurav Jha,63,male,78483,1082268,maharashtra,amravati,graduate,business owner,obc,no,rural,self-employed,single,no,no,no,no
+USR0073,Sheetal Prasad,39,female,0,61441,uttar pradesh,agra,12th,unemployed,obc,no,urban,unemployed,married,no,no,yes,no
+USR0074,Kabir More,63,male,15878,229034,tamil nadu,chennai,graduate,retired,general,no,urban,retired,married,no,no,no,yes
+USR0075,Kavya Gupta,18,female,96691,1284489,karnataka,bellary,graduate,private employee,obc,no,urban,employed,single,no,no,no,no
+USR0076,Sunil More,52,male,7863,111591,bihar,patna,10th,laborer,general,no,urban,employed,married,no,no,yes,yes
+USR0077,Isha Singh,41,female,81984,1062939,west bengal,durgapur,post graduate,government employee,obc,no,rural,employed,married,no,no,no,no
+USR0078,Dhruv Patel,35,male,7902,107379,rajasthan,alwar,primary,laborer,obc,no,urban,employed,married,no,no,yes,no
+USR0079,Kiran Rao,41,female,92014,1202589,gujarat,surat,graduate,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0080,Vijay Shinde,18,male,0,689704,madhya pradesh,indore,10th,student,obc,no,urban,student,single,no,yes,no,yes
+USR0081,Aarti Deshmukh,36,female,21428,545848,kerala,trivandrum,post graduate,business owner,obc,no,urban,self-employed,married,no,no,no,no
+USR0082,Yash Tiwari,45,male,11146,140343,andhra pradesh,nellore,primary,laborer,st,no,rural,employed,married,no,no,no,no
+USR0083,Anika Patel,62,female,10755,145639,punjab,bathinda,12th,retired,general,no,rural,retired,married,no,no,no,no
+USR0084,Amit Shinde,32,male,9836,124265,maharashtra,nashik,illiterate,laborer,general,no,urban,employed,divorced,no,no,no,no
+USR0085,Saanvi Gowda,27,female,74609,1011930,uttar pradesh,lucknow,12th,private employee,obc,no,urban,employed,single,no,no,no,no
+USR0086,Dev Shinde,32,male,10997,140590,tamil nadu,chennai,10th,laborer,obc,no,rural,self-employed,married,no,no,no,no
+USR0087,Aaradhya Nair,53,female,0,179138,karnataka,bengaluru,10th,unemployed,ews,no,rural,unemployed,divorced,no,no,no,no
+USR0088,Gaurav Joshi,44,male,8291,105028,bihar,ara,12th,laborer,obc,no,rural,self-employed,married,no,no,no,no
+USR0089,Swati Pandey,32,female,7109,103313,west bengal,durgapur,10th,farmer,st,no,rural,self-employed,married,yes,no,no,no
+USR0090,Vihaan Verma,47,male,13250,182448,rajasthan,bikaner,primary,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR0091,Kavya Mukherjee,41,female,32038,546070,gujarat,ahmedabad,12th,private employee,ews,no,rural,employed,married,no,no,no,yes
+USR0092,Rahul Jha,54,male,4858,76603,madhya pradesh,sagar,10th,farmer,sc,no,rural,self-employed,married,yes,no,yes,no
+USR0093,Prisha Pillai,29,female,0,186695,kerala,thrissur,illiterate,unemployed,obc,no,rural,unemployed,married,no,no,no,no
+USR0094,Rohit Yadav,35,male,8638,118622,andhra pradesh,rajahmundry,illiterate,laborer,ews,no,urban,employed,married,no,no,yes,no
+USR0095,Pooja Gill,34,female,14726,222844,punjab,pathankot,illiterate,farmer,sc,no,rural,self-employed,married,yes,no,no,no
+USR0096,Deepak Gowda,18,male,0,417730,maharashtra,solapur,10th,student,obc,no,rural,student,married,no,yes,no,yes
+USR0097,Aadhya Patel,44,female,10105,139787,uttar pradesh,kanpur,illiterate,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0098,Dinesh Iyer,43,male,0,131906,tamil nadu,chennai,graduate,unemployed,obc,no,rural,unemployed,married,no,no,no,no
+USR0099,Prisha Tiwari,40,female,13406,185693,karnataka,dharwad,10th,farmer,sc,no,urban,self-employed,married,yes,no,no,no
+USR0100,Rakesh Sharma,36,male,9062,141014,bihar,darbhanga,10th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0101,Isha Patel,18,female,0,565682,west bengal,asansol,10th,student,obc,no,urban,student,single,no,yes,no,no
+USR0102,Aditya Verma,33,male,5336,91864,rajasthan,udaipur,illiterate,farmer,obc,no,rural,self-employed,married,yes,no,yes,no
+USR0103,Radha Iyer,34,female,92743,1260483,gujarat,surat,post graduate,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0104,Ansh Shah,27,male,72938,948263,madhya pradesh,gwalior,post graduate,government employee,general,no,rural,employed,married,no,no,no,yes
+USR0105,Anita Sinha,37,female,11147,144992,kerala,alappuzha,illiterate,farmer,obc,yes,rural,self-employed,married,yes,no,no,no
+USR0106,Vikram Patil,46,male,37527,632361,andhra pradesh,vijayawada,graduate,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0107,Divya Jha,68,female,15167,216442,punjab,pathankot,12th,retired,obc,no,rural,retired,widowed,no,no,no,no
+USR0108,Harish Das,42,male,34358,494232,maharashtra,aurangabad,post graduate,private employee,ews,no,rural,employed,married,no,no,no,no
+USR0109,Priyanka Gill,43,female,11138,143835,uttar pradesh,aligarh,10th,laborer,ews,no,rural,self-employed,married,no,no,no,no
+USR0110,Harish Gupta,38,male,22456,416134,tamil nadu,salem,illiterate,business owner,sc,yes,urban,self-employed,married,no,no,no,no
+USR0111,Rashmi Prasad,18,female,0,133015,karnataka,bellary,10th,student,obc,no,urban,student,single,no,yes,no,no
+USR0112,Kabir Verma,39,male,5381,107638,bihar,begusarai,10th,farmer,obc,yes,rural,self-employed,married,yes,no,no,no
+USR0113,Mamta Rao,40,female,65779,916504,west bengal,durgapur,graduate,private employee,sc,no,rural,employed,married,no,no,no,no
+USR0114,Ramesh Yadav,76,male,24749,335603,rajasthan,alwar,post graduate,retired,ews,no,urban,retired,married,no,no,no,no
+USR0115,Aarti Nair,37,female,99343,1298224,gujarat,surat,graduate,private employee,sc,no,urban,employed,married,no,no,no,no
+USR0116,Alok Patel,44,male,62526,881279,madhya pradesh,dewas,illiterate,business owner,general,no,urban,self-employed,married,no,no,no,no
+USR0117,Anika Joshi,39,female,81543,1140013,kerala,kochi,12th,private employee,sc,no,rural,employed,married,no,no,no,no
+USR0118,Shaurya Mukherjee,22,male,0,279630,andhra pradesh,kurnool,graduate,student,sc,no,urban,student,single,no,yes,no,yes
+USR0119,Preeti Chaudhary,57,female,0,124692,punjab,patiala,graduate,unemployed,sc,no,rural,unemployed,divorced,no,no,no,no
+USR0120,Atharva Chaudhary,51,male,65052,962457,maharashtra,amravati,10th,business owner,obc,no,urban,self-employed,married,no,no,no,no
+USR0121,Babita Verma,51,female,0,76893,uttar pradesh,aligarh,graduate,unemployed,sc,no,rural,unemployed,married,no,no,yes,yes
+USR0122,Harish Joshi,26,male,11391,169602,tamil nadu,vellore,primary,farmer,st,no,rural,self-employed,married,yes,no,no,no
+USR0123,Saanvi Chaudhary,61,female,15986,227763,karnataka,mangalore,illiterate,retired,ews,no,rural,retired,married,no,no,no,no
+USR0124,Manoj Pillai,18,male,7766,111872,bihar,patna,10th,laborer,general,no,rural,employed,single,no,no,no,no
+USR0125,Aaradhya Verma,48,female,74914,935432,west bengal,asansol,post graduate,private employee,general,no,urban,employed,married,no,no,no,yes
+USR0126,Rahul Joshi,72,male,16561,216614,rajasthan,ajmer,graduate,retired,obc,no,urban,retired,married,no,no,no,no
+USR0127,Poonam Pandey,25,female,20706,435109,gujarat,ahmedabad,graduate,private employee,obc,no,urban,employed,married,no,no,no,no
+USR0128,Rahul Yadav,31,male,12945,187527,madhya pradesh,sagar,10th,farmer,sc,no,rural,self-employed,married,yes,no,no,no
+USR0129,Neha Nair,41,female,8403,109138,kerala,kochi,illiterate,laborer,ews,yes,urban,self-employed,married,no,no,yes,no
+USR0130,Amit Singh,32,male,100948,1318388,andhra pradesh,nellore,12th,private employee,general,no,rural,employed,married,no,no,no,no
+USR0131,Shweta Mishra,18,female,0,611691,punjab,jalandhar,10th,student,obc,no,rural,student,single,no,yes,no,yes
+USR0132,Rohit Mukherjee,41,male,28447,412353,maharashtra,nagpur,10th,business owner,obc,no,rural,self-employed,married,no,no,no,no
+USR0133,Anjali Tiwari,24,female,0,459685,uttar pradesh,aligarh,graduate,student,obc,no,urban,student,married,no,yes,no,no
+USR0134,Ajay Chaudhary,47,male,0,164864,tamil nadu,madurai,primary,unemployed,ews,no,rural,unemployed,married,no,no,no,no
+USR0135,Nisha Joshi,26,female,0,166376,karnataka,bellary,10th,unemployed,sc,no,rural,unemployed,married,no,no,no,no
+USR0136,Rahul Reddy,63,male,21965,286260,bihar,patna,12th,retired,st,no,urban,retired,married,no,no,no,no
+USR0137,Mamta Patil,28,female,5213,102181,west bengal,malda,primary,farmer,general,no,rural,self-employed,divorced,yes,no,no,no
+USR0138,Sai Saxena,35,male,0,95636,rajasthan,ajmer,primary,unemployed,sc,no,rural,unemployed,married,no,no,yes,yes
+USR0139,Isha Chaudhary,52,female,32009,594526,gujarat,bhavnagar,graduate,business owner,st,yes,rural,self-employed,married,no,no,no,no
+USR0140,Vikram Bhat,21,male,0,422427,madhya pradesh,indore,12th,student,obc,no,urban,student,single,no,yes,no,no
+USR0141,Sapna Jha,43,female,91704,1196359,kerala,kozhikode,graduate,government employee,st,yes,rural,employed,married,no,no,no,yes
+USR0142,Sunil Chatterjee,59,male,0,124461,andhra pradesh,kakinada,graduate,unemployed,sc,no,urban,unemployed,married,no,no,no,no
+USR0143,Jyoti Nair,18,female,0,266827,punjab,amritsar,10th,student,obc,no,rural,student,single,no,yes,no,no
+USR0144,Ramesh Soni,42,male,45646,583710,maharashtra,mumbai,graduate,government employee,st,no,rural,employed,married,no,no,no,no
+USR0145,Mamta Sharma,43,female,0,125935,uttar pradesh,aligarh,graduate,unemployed,obc,no,rural,unemployed,married,no,no,no,no
+USR0146,Deepak Gupta,51,male,11933,183633,tamil nadu,chennai,12th,farmer,general,no,rural,self-employed,divorced,yes,no,no,no
+USR0147,Anika Chaudhary,21,female,0,579131,karnataka,mysore,12th,student,general,no,rural,student,single,no,yes,no,no
+USR0148,Vikram Sen,20,male,0,131976,bihar,bhagalpur,post graduate,unemployed,ews,no,rural,unemployed,single,no,no,no,no
+USR0149,Saanvi Gowda,47,female,0,142509,west bengal,malda,primary,unemployed,ews,no,urban,unemployed,married,no,no,no,no
+USR0150,Aarav Yadav,44,male,9992,156331,rajasthan,alwar,10th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0151,Aadhya Prasad,43,female,116689,1519449,gujarat,junagadh,post graduate,government employee,obc,no,rural,employed,divorced,no,no,no,no
+USR0152,Kabir Das,45,male,20100,327123,madhya pradesh,dewas,illiterate,business owner,sc,no,rural,self-employed,single,no,no,no,yes
+USR0153,Deepa Nair,29,female,13727,196768,kerala,alappuzha,10th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0154,Vihaan Chaudhary,43,male,11941,162580,andhra pradesh,kakinada,10th,laborer,obc,yes,rural,self-employed,married,no,no,no,no
+USR0155,Kirti Soni,44,female,10294,138833,punjab,patiala,primary,laborer,sc,no,rural,employed,married,no,no,no,no
+USR0156,Karan Reddy,29,male,10861,150256,maharashtra,thane,10th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0157,Aanya Nair,67,female,20675,275318,uttar pradesh,agra,post graduate,retired,obc,no,rural,retired,married,no,no,no,no
+USR0158,Amit Nair,47,male,8571,149426,tamil nadu,erode,primary,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR0159,Priyanka Gandhi,22,female,0,376741,karnataka,bellary,graduate,student,general,no,urban,student,single,no,yes,no,no
+USR0160,Kabir Patil,49,male,25358,415093,bihar,patna,post graduate,private employee,st,no,urban,employed,married,no,no,no,no
+USR0161,Rekha Saxena,25,female,7972,108990,west bengal,siliguri,primary,farmer,obc,no,rural,self-employed,married,yes,no,no,yes
+USR0162,Manoj Yadav,51,male,10666,169167,rajasthan,udaipur,primary,farmer,obc,no,urban,self-employed,married,yes,no,no,no
+USR0163,Saanvi Soni,57,female,19888,528053,gujarat,rajkot,post graduate,business owner,st,no,urban,self-employed,married,no,no,no,no
+USR0164,Ajay More,27,male,0,59821,madhya pradesh,jabalpur,10th,unemployed,general,no,urban,unemployed,married,no,no,yes,no
+USR0165,Priyanka Nair,54,female,58343,762712,kerala,kannur,12th,private employee,sc,no,urban,employed,married,no,no,no,yes
+USR0166,Sanjay Soni,46,male,11007,175853,andhra pradesh,nellore,12th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0167,Geeta Kumar,52,female,49995,706349,punjab,bathinda,graduate,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0168,Arjun Reddy,68,male,21466,296923,maharashtra,amravati,12th,retired,st,no,urban,retired,married,no,no,no,no
+USR0169,Swati Nair,36,female,11834,162047,uttar pradesh,agra,primary,farmer,obc,no,rural,self-employed,single,yes,no,no,no
+USR0170,Rahul Mukherjee,28,male,62419,819502,tamil nadu,coimbatore,graduate,business owner,st,no,urban,self-employed,married,no,no,no,no
+USR0171,Kiran Joshi,26,female,72912,925415,karnataka,hubli,post graduate,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0172,Arjun Gill,27,male,88912,1132079,bihar,bhagalpur,12th,business owner,obc,no,rural,self-employed,married,no,no,no,yes
+USR0173,Diya Banerjee,38,female,5044,105993,west bengal,howrah,10th,farmer,st,no,rural,self-employed,married,yes,no,no,no
+USR0174,Vikram Mehta,45,male,84081,1155800,rajasthan,udaipur,post graduate,government employee,obc,no,urban,employed,married,no,no,no,no
+USR0175,Kiran Nair,44,female,12664,170313,gujarat,bhavnagar,12th,farmer,sc,no,rural,self-employed,married,yes,no,no,yes
+USR0176,Pankaj Iyer,52,male,95375,1219871,madhya pradesh,dewas,graduate,government employee,general,no,urban,employed,married,no,no,no,no
+USR0177,Preeti Nair,40,female,5653,116760,kerala,trivandrum,illiterate,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR0178,Dev Pandey,61,male,9591,141603,andhra pradesh,nellore,illiterate,retired,st,no,urban,retired,married,no,no,no,no
+USR0179,Deepa Sen,36,female,0,186642,punjab,bathinda,post graduate,unemployed,ews,yes,urban,unemployed,divorced,no,no,no,no
+USR0180,Rakesh More,80,male,0,149917,maharashtra,mumbai,post graduate,unemployed,sc,no,rural,unemployed,married,no,no,no,yes
+USR0181,Kiran Shinde,49,female,53920,782654,uttar pradesh,agra,post graduate,government employee,obc,yes,rural,employed,married,no,no,no,no
+USR0182,Vijay Sen,27,male,11369,170746,tamil nadu,salem,illiterate,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR0183,Aadhya Das,23,female,0,439138,karnataka,mangalore,graduate,student,obc,no,rural,student,single,no,yes,no,no
+USR0184,Manoj Sen,47,male,87362,1152653,bihar,muzaffarpur,12th,private employee,sc,no,rural,employed,married,no,no,no,no
+USR0185,Rashmi More,36,female,9246,134264,west bengal,malda,12th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0186,Amit Saxena,50,male,58236,779130,rajasthan,alwar,12th,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0187,Babita More,47,female,61160,828291,gujarat,junagadh,post graduate,business owner,general,no,rural,self-employed,single,no,no,no,no
+USR0188,Alok Singh,38,male,0,62717,madhya pradesh,indore,post graduate,unemployed,sc,no,urban,unemployed,married,no,no,yes,no
+USR0189,Rashmi Gill,27,female,14801,219584,kerala,alappuzha,12th,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR0190,Sanjay Sharma,18,male,6789,95059,andhra pradesh,kurnool,illiterate,laborer,ews,no,urban,employed,single,no,no,yes,no
+USR0191,Aarti Gill,33,female,0,128636,punjab,patiala,primary,unemployed,obc,no,urban,unemployed,married,no,no,no,no
+USR0192,Aditya Gowda,52,male,22355,455179,maharashtra,solapur,graduate,private employee,ews,no,rural,employed,married,no,no,no,no
+USR0193,Prisha Dubey,43,female,8441,114343,uttar pradesh,lucknow,12th,farmer,st,no,rural,self-employed,married,yes,no,no,no
+USR0194,Dhruv Gandhi,21,male,0,154410,tamil nadu,chennai,primary,unemployed,st,no,urban,unemployed,single,no,no,no,no
+USR0195,Kiran Mishra,42,female,45279,638987,karnataka,davangere,graduate,government employee,sc,no,rural,employed,married,no,no,no,no
+USR0196,Yash Nair,45,male,0,57766,bihar,ara,10th,unemployed,obc,no,rural,unemployed,married,no,no,yes,no
+USR0197,Neha Jha,26,female,8037,111261,west bengal,kharagpur,10th,farmer,ews,no,rural,self-employed,married,yes,no,no,no
+USR0198,Krishna Patel,42,male,0,144350,rajasthan,jaipur,12th,unemployed,sc,no,rural,unemployed,married,no,no,no,no
+USR0199,Rashmi Bhat,40,female,13080,173059,gujarat,surat,10th,farmer,obc,no,rural,self-employed,married,yes,no,no,yes
+USR0200,Aditya Saxena,22,male,0,267820,madhya pradesh,gwalior,graduate,student,obc,no,rural,student,single,no,yes,no,no
+USR0201,Riya Iyer,45,female,25082,415650,kerala,kollam,graduate,private employee,ews,no,urban,employed,married,no,no,no,no
+USR0202,Anil Kumar,48,male,64792,883891,andhra pradesh,kurnool,post graduate,private employee,obc,no,urban,employed,married,no,no,no,no
+USR0203,Jyoti Gandhi,56,female,67198,940036,punjab,patiala,primary,business owner,general,no,rural,self-employed,married,no,no,no,no
+USR0204,Vijay Deshmukh,55,male,41188,669504,maharashtra,solapur,post graduate,private employee,st,no,urban,employed,married,no,no,no,yes
+USR0205,Sunita Pillai,19,female,11513,151336,uttar pradesh,prayagraj,12th,laborer,ews,no,rural,employed,single,no,no,no,no
+USR0206,Sandeep Mukherjee,25,male,81402,1268912,tamil nadu,erode,graduate,business owner,st,no,rural,self-employed,married,no,no,no,no
+USR0207,Kiran Mukherjee,47,female,14774,210553,karnataka,mysore,primary,farmer,general,no,rural,self-employed,divorced,yes,no,no,no
+USR0208,Rohit Yadav,47,male,12366,192391,bihar,patna,primary,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0209,Kirti Sinha,47,female,78277,986730,west bengal,darjeeling,12th,private employee,general,no,rural,employed,married,no,no,no,no
+USR0210,Dinesh Shah,80,male,22075,290724,rajasthan,bikaner,primary,retired,obc,no,urban,retired,widowed,no,no,no,no
+USR0211,Ananya Reddy,48,female,56542,805561,gujarat,ahmedabad,graduate,government employee,general,no,rural,employed,single,no,no,no,no
+USR0212,Ajay Mehta,57,male,11030,151828,madhya pradesh,jabalpur,illiterate,laborer,general,no,urban,employed,married,no,no,no,no
+USR0213,Aadhya Soni,54,female,82945,1068067,kerala,kochi,graduate,government employee,general,no,urban,employed,divorced,no,no,no,no
+USR0214,Yash Prasad,49,male,61135,1005267,andhra pradesh,kurnool,10th,business owner,obc,no,urban,self-employed,single,no,no,no,no
+USR0215,Anika Gandhi,35,female,6999,118452,punjab,amritsar,illiterate,farmer,obc,no,rural,self-employed,married,yes,no,no,yes
+USR0216,Dhruv More,51,male,52858,721073,maharashtra,nagpur,12th,business owner,general,no,urban,self-employed,married,no,no,no,no
+USR0217,Priya Prasad,28,female,69477,970077,uttar pradesh,aligarh,graduate,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0218,Rajesh Chatterjee,36,male,13267,201664,tamil nadu,salem,12th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0219,Swati Pandey,32,female,106611,1337976,karnataka,bengaluru,post graduate,government employee,st,no,urban,employed,married,no,no,no,no
+USR0220,Vivaan Pillai,41,male,72549,921360,bihar,darbhanga,12th,private employee,sc,no,urban,employed,married,no,no,no,no
+USR0221,Mamta Iyer,74,female,11781,177764,west bengal,darjeeling,primary,retired,ews,no,rural,retired,married,no,no,no,no
+USR0222,Sanjay Soni,18,male,0,74962,rajasthan,ajmer,post graduate,unemployed,general,no,rural,unemployed,single,no,no,yes,no
+USR0223,Anika Sen,50,female,10009,127437,gujarat,vadodara,12th,laborer,obc,no,rural,self-employed,married,no,no,no,no
+USR0224,Aditya Gowda,18,male,0,476999,madhya pradesh,ujjain,10th,student,obc,no,urban,student,single,no,yes,no,no
+USR0225,Saanvi Gill,32,female,0,154258,kerala,alappuzha,graduate,unemployed,general,no,rural,unemployed,married,no,no,no,no
+USR0226,Karan Nair,56,male,41021,535303,andhra pradesh,rajahmundry,graduate,government employee,obc,no,rural,employed,married,no,no,no,no
+USR0227,Sneha Kumar,40,female,14649,205571,punjab,pathankot,primary,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR0228,Ishaan Verma,23,male,0,335517,maharashtra,solapur,graduate,student,obc,no,rural,student,single,no,yes,no,no
+USR0229,Kirti Chatterjee,29,female,5975,109376,uttar pradesh,aligarh,10th,farmer,obc,no,rural,self-employed,married,yes,no,no,yes
+USR0230,Krishna Gandhi,50,male,0,150328,tamil nadu,tirunelveli,primary,unemployed,sc,no,rural,unemployed,married,no,no,no,no
+USR0231,Poonam Soni,29,female,11918,151506,karnataka,bengaluru,10th,laborer,obc,no,rural,employed,single,no,no,no,no
+USR0232,Krishna Nair,43,male,61076,895473,bihar,gaya,12th,business owner,obc,no,rural,self-employed,married,no,no,no,yes
+USR0233,Nisha Mukherjee,40,female,74537,951372,west bengal,siliguri,graduate,government employee,obc,no,urban,employed,married,no,no,no,no
+USR0234,Rahul More,30,male,14454,222371,rajasthan,alwar,12th,farmer,general,yes,rural,self-employed,married,yes,no,no,no
+USR0235,Sheetal Bhat,72,female,20434,280451,gujarat,bhavnagar,primary,retired,general,yes,rural,retired,married,no,no,no,no
+USR0236,Ajay Sinha,49,male,9469,130126,madhya pradesh,ujjain,12th,laborer,obc,no,rural,employed,married,no,no,no,yes
+USR0237,Saanvi Sinha,18,female,9200,125008,kerala,thrissur,10th,laborer,obc,no,urban,employed,single,no,no,no,yes
+USR0238,Rahul Verma,42,male,5900,110512,andhra pradesh,nellore,12th,farmer,obc,yes,rural,self-employed,married,yes,no,no,no
+USR0239,Diya Nair,30,female,12568,194712,punjab,ludhiana,10th,farmer,sc,no,rural,self-employed,married,yes,no,no,yes
+USR0240,Rajesh Reddy,52,male,50649,765113,maharashtra,mumbai,graduate,private employee,general,no,rural,employed,married,no,no,no,no
+USR0241,Priyanka Soni,28,female,28487,512291,uttar pradesh,varanasi,graduate,private employee,obc,no,urban,employed,single,no,no,no,yes
+USR0242,Rahul Singh,38,male,38456,490742,tamil nadu,erode,12th,private employee,obc,no,urban,employed,married,no,no,no,no
+USR0243,Preeti Gandhi,47,female,50650,703603,karnataka,belgaum,post graduate,government employee,obc,yes,rural,employed,married,no,no,no,no
+USR0244,Ajay Gupta,52,male,0,135799,bihar,begusarai,10th,unemployed,general,no,rural,unemployed,married,no,no,no,no
+USR0245,Geeta Gill,21,female,0,607326,west bengal,durgapur,12th,student,st,no,urban,student,single,no,yes,no,no
+USR0246,Kabir Kumar,34,male,14419,183656,rajasthan,alwar,10th,farmer,st,yes,rural,self-employed,married,yes,no,no,no
+USR0247,Prisha Banerjee,32,female,33661,497286,gujarat,rajkot,12th,private employee,general,no,rural,employed,married,no,no,no,no
+USR0248,Aditya Jha,30,male,66688,869872,madhya pradesh,indore,post graduate,business owner,obc,yes,urban,self-employed,married,no,no,no,yes
+USR0249,Deepa Gowda,66,female,12654,164295,kerala,alappuzha,10th,retired,st,no,urban,retired,widowed,no,no,no,yes
+USR0250,Sandeep Gill,46,male,61961,817962,andhra pradesh,kakinada,post graduate,private employee,obc,no,urban,employed,married,no,no,no,yes
+USR0251,Jyoti Mukherjee,21,female,0,433716,punjab,ludhiana,12th,student,general,no,rural,student,single,no,yes,no,yes
+USR0252,Dhruv Sharma,53,male,0,194210,maharashtra,solapur,graduate,unemployed,general,no,rural,unemployed,married,no,no,no,yes
+USR0253,Anita Nair,71,female,26015,514832,uttar pradesh,agra,post graduate,business owner,obc,no,rural,self-employed,widowed,no,no,no,no
+USR0254,Sandeep Nair,55,male,0,82119,tamil nadu,coimbatore,10th,unemployed,general,no,urban,unemployed,married,no,no,yes,no
+USR0255,Divya Mehta,18,female,0,286242,karnataka,dharwad,10th,student,general,no,urban,student,single,no,yes,no,no
+USR0256,Pranav Bhat,32,male,10275,142293,bihar,begusarai,10th,farmer,obc,no,rural,self-employed,single,yes,no,no,no
+USR0257,Shweta Tiwari,59,female,60093,1010368,west bengal,malda,12th,business owner,obc,no,rural,self-employed,married,no,no,no,yes
+USR0258,Vihaan Deshmukh,29,male,104393,1329565,rajasthan,jaipur,post graduate,government employee,sc,no,urban,employed,married,no,no,no,yes
+USR0259,Rekha Pandey,46,female,110457,1466437,gujarat,ahmedabad,graduate,government employee,st,no,urban,employed,married,no,no,no,no
+USR0260,Rahul Jha,51,male,112537,1384141,madhya pradesh,sagar,post graduate,government employee,sc,no,urban,employed,divorced,no,no,no,yes
+USR0261,Kiran Shah,26,female,22362,379324,kerala,kozhikode,illiterate,business owner,obc,yes,rural,self-employed,married,no,no,no,no
+USR0262,Shaurya Mishra,39,male,0,65612,andhra pradesh,guntur,10th,unemployed,general,no,urban,unemployed,divorced,no,no,yes,no
+USR0263,Aarti Jha,18,female,0,428273,punjab,amritsar,10th,student,ews,no,urban,student,single,no,yes,no,no
+USR0264,Dhruv Saxena,24,male,0,707558,maharashtra,aurangabad,graduate,student,sc,no,urban,student,married,no,yes,no,no
+USR0265,Diya Soni,36,female,0,58488,uttar pradesh,bareilly,graduate,unemployed,ews,no,urban,unemployed,married,no,no,yes,yes
+USR0266,Ramesh Gupta,21,male,0,425039,tamil nadu,trichy,12th,student,general,no,urban,student,single,no,yes,no,no
+USR0267,Anjali Kumar,64,female,7221,108136,karnataka,belgaum,post graduate,retired,ews,yes,rural,retired,divorced,no,no,no,no
+USR0268,Pranav Prasad,18,male,0,196355,bihar,purnia,10th,student,sc,no,urban,student,single,no,yes,no,no
+USR0269,Anjali Gupta,33,female,49226,638165,west bengal,kolkata,graduate,private employee,ews,no,urban,employed,single,no,no,no,no
+USR0270,Ramesh Mukherjee,41,male,10975,151277,rajasthan,sikar,primary,laborer,obc,yes,rural,employed,married,no,no,no,no
+USR0271,Sapna Pandey,61,female,12783,166538,gujarat,gandhinagar,10th,retired,general,no,rural,retired,married,no,no,no,no
+USR0272,Sanjay Mukherjee,18,male,0,116985,madhya pradesh,satna,10th,student,general,no,rural,student,single,no,yes,no,yes
+USR0273,Komal More,57,female,7029,118663,kerala,kollam,12th,farmer,st,no,rural,self-employed,married,yes,no,no,no
+USR0274,Dev Deshmukh,40,male,5404,97378,andhra pradesh,visakhapatnam,illiterate,farmer,sc,no,rural,self-employed,married,yes,no,yes,yes
+USR0275,Poonam Bhat,25,female,77424,1057430,punjab,moga,primary,business owner,general,no,urban,self-employed,single,no,no,no,no
+USR0276,Aryan Pillai,46,male,0,105545,maharashtra,nagpur,primary,unemployed,sc,no,rural,unemployed,married,no,no,no,no
+USR0277,Kavya Mukherjee,42,female,23783,328209,uttar pradesh,prayagraj,post graduate,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0278,Aarav Nair,30,male,6428,124268,tamil nadu,vellore,primary,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0279,Prisha Patil,41,female,0,150412,karnataka,dharwad,10th,unemployed,obc,no,rural,unemployed,married,no,no,no,yes
+USR0280,Abhishek Mukherjee,34,male,7892,107934,bihar,ara,10th,farmer,sc,no,rural,self-employed,married,yes,no,no,yes
+USR0281,Jyoti Shah,41,female,64878,826150,west bengal,siliguri,graduate,government employee,obc,no,urban,employed,married,no,no,no,no
+USR0282,Yash Patel,49,male,78499,1097385,rajasthan,kota,graduate,private employee,sc,no,rural,employed,married,no,no,no,yes
+USR0283,Rashmi Gowda,63,female,23634,294556,gujarat,vadodara,graduate,retired,general,no,rural,retired,married,no,no,no,yes
+USR0284,Suresh Das,21,male,0,576768,madhya pradesh,ujjain,12th,student,obc,no,rural,student,single,no,yes,no,yes
+USR0285,Nisha Pillai,71,female,87264,1188855,kerala,kozhikode,graduate,business owner,obc,no,rural,self-employed,widowed,no,no,no,no
+USR0286,Vihaan Prasad,18,male,0,690056,andhra pradesh,visakhapatnam,10th,student,sc,no,rural,student,single,no,yes,no,no
+USR0287,Preeti Sinha,37,female,0,52332,punjab,ludhiana,post graduate,unemployed,obc,no,rural,unemployed,married,no,no,yes,no
+USR0288,Anil Deshmukh,48,male,0,170323,maharashtra,solapur,10th,unemployed,general,no,urban,unemployed,married,no,no,no,no
+USR0289,Rashmi Chaudhary,44,female,78142,974438,uttar pradesh,prayagraj,12th,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0290,Anil Das,30,male,22441,530430,tamil nadu,madurai,primary,business owner,sc,no,rural,self-employed,married,no,no,no,no
+USR0291,Isha More,36,female,68031,938155,karnataka,belgaum,graduate,private employee,sc,no,urban,employed,married,no,no,no,no
+USR0292,Dev Pandey,32,male,0,143977,bihar,begusarai,post graduate,unemployed,obc,no,urban,unemployed,married,no,no,no,no
+USR0293,Prisha Shinde,31,female,11568,158554,west bengal,darjeeling,primary,laborer,obc,no,rural,employed,married,no,no,no,no
+USR0294,Ramesh Chaudhary,52,male,30437,538592,rajasthan,ajmer,12th,business owner,general,no,urban,self-employed,married,no,no,no,no
+USR0295,Aaradhya Prasad,45,female,33004,468554,gujarat,gandhinagar,12th,private employee,obc,no,urban,employed,married,no,no,no,no
+USR0296,Dhruv Patel,29,male,56079,859278,madhya pradesh,satna,12th,private employee,general,no,rural,employed,married,no,no,no,no
+USR0297,Riya More,53,female,14379,210689,kerala,kochi,12th,farmer,obc,no,rural,self-employed,married,yes,no,no,yes
+USR0298,Suresh Kumar,44,male,37348,566878,andhra pradesh,kakinada,graduate,government employee,general,no,urban,employed,married,no,no,no,no
+USR0299,Rashmi Jha,52,female,8885,135679,punjab,bathinda,illiterate,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0300,Shaurya Mishra,49,male,36611,565078,maharashtra,amravati,12th,private employee,ews,no,rural,employed,married,no,no,no,yes
+USR0301,Aaradhya Chaudhary,27,female,48526,742489,uttar pradesh,lucknow,post graduate,private employee,obc,no,rural,employed,married,no,no,no,yes
+USR0302,Arjun Reddy,31,male,86733,1127049,tamil nadu,vellore,12th,private employee,obc,no,urban,employed,married,no,no,no,no
+USR0303,Prisha Dubey,51,female,6859,95689,karnataka,belgaum,12th,laborer,sc,no,rural,employed,married,no,no,yes,no
+USR0304,Amit Dubey,49,male,53712,706584,bihar,muzaffarpur,graduate,private employee,general,no,urban,employed,married,no,no,no,no
+USR0305,Saanvi Reddy,39,female,12383,163514,west bengal,malda,illiterate,farmer,sc,no,rural,self-employed,divorced,yes,no,no,no
+USR0306,Amit Gill,41,male,4646,84794,rajasthan,jaipur,primary,farmer,obc,no,rural,self-employed,single,yes,no,yes,no
+USR0307,Anika Rao,59,female,96501,1248347,gujarat,bhavnagar,graduate,private employee,sc,no,urban,employed,married,no,no,no,no
+USR0308,Deepak Deshmukh,31,male,11315,155298,madhya pradesh,dewas,12th,laborer,sc,no,urban,employed,single,no,no,no,yes
+USR0309,Prisha Bhat,48,female,58758,815223,kerala,kannur,post graduate,government employee,obc,no,rural,employed,married,no,no,no,no
+USR0310,Shaurya Shinde,36,male,11220,147652,andhra pradesh,rajahmundry,12th,farmer,general,yes,rural,self-employed,married,yes,no,no,no
+USR0311,Sheetal Chatterjee,36,female,27483,493264,punjab,hoshiarpur,post graduate,business owner,obc,no,rural,self-employed,married,no,no,no,no
+USR0312,Rakesh Nair,56,male,12283,188151,maharashtra,mumbai,primary,farmer,sc,no,rural,self-employed,married,yes,no,no,no
+USR0313,Rekha Verma,52,female,67858,1078494,uttar pradesh,agra,12th,business owner,general,no,urban,self-employed,divorced,no,no,no,no
+USR0314,Sunil Reddy,52,male,9377,118111,tamil nadu,erode,12th,laborer,obc,yes,rural,employed,married,no,no,no,no
+USR0315,Jyoti Sinha,59,female,8976,126233,karnataka,mangalore,10th,laborer,ews,no,urban,employed,married,no,no,no,no
+USR0316,Suresh Pillai,40,male,4035,80791,bihar,gaya,primary,farmer,obc,no,rural,self-employed,married,yes,no,yes,no
+USR0317,Riya More,50,female,49019,651558,west bengal,darjeeling,post graduate,government employee,obc,no,urban,employed,married,no,no,no,no
+USR0318,Atharva Mishra,35,male,118000,1555768,rajasthan,jodhpur,graduate,government employee,obc,no,urban,employed,married,no,no,no,no
+USR0319,Rashmi Nair,44,female,13064,195132,gujarat,junagadh,illiterate,farmer,sc,no,rural,self-employed,married,yes,no,no,no
+USR0320,Gaurav Mehta,38,male,12259,182317,madhya pradesh,jabalpur,10th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0321,Meena Patil,41,female,89099,1178162,kerala,kannur,graduate,government employee,sc,no,rural,employed,single,no,no,no,no
+USR0322,Atharva Banerjee,48,male,11819,157479,andhra pradesh,tirupati,primary,laborer,st,no,rural,self-employed,married,no,no,no,no
+USR0323,Radha Saxena,27,female,69719,1063376,punjab,moga,post graduate,business owner,sc,no,rural,self-employed,married,no,no,no,no
+USR0324,Alok Yadav,71,male,6854,98798,maharashtra,mumbai,illiterate,retired,general,no,urban,retired,married,no,no,yes,yes
+USR0325,Sunita Pandey,24,female,0,564579,uttar pradesh,lucknow,graduate,student,general,no,urban,student,married,no,yes,no,no
+USR0326,Rahul Sinha,21,male,0,139261,tamil nadu,salem,12th,student,st,no,urban,student,single,no,yes,no,no
+USR0327,Sapna Verma,57,female,7847,114097,karnataka,bengaluru,12th,laborer,obc,no,rural,employed,married,no,no,no,no
+USR0328,Atharva Das,51,male,24760,366134,bihar,darbhanga,post graduate,private employee,st,no,rural,employed,married,no,no,no,yes
+USR0329,Babita Nair,49,female,15739,325523,west bengal,darjeeling,10th,business owner,obc,no,rural,self-employed,married,no,no,no,no
+USR0330,Abhishek Shah,49,male,44552,667388,rajasthan,sikar,post graduate,government employee,sc,no,urban,employed,married,no,no,no,no
+USR0331,Riya Bhat,39,female,7495,121690,gujarat,jamnagar,primary,farmer,obc,no,urban,self-employed,married,yes,no,no,no
+USR0332,Rakesh Kumar,26,male,6326,92094,madhya pradesh,indore,primary,laborer,st,no,urban,employed,married,no,no,yes,no
+USR0333,Isha Dubey,41,female,73400,1058412,kerala,alappuzha,graduate,business owner,general,no,rural,self-employed,single,no,no,no,no
+USR0334,Pankaj Pandey,29,male,11614,151318,andhra pradesh,visakhapatnam,primary,laborer,sc,no,urban,employed,married,no,no,no,no
+USR0335,Divya Gupta,54,female,4620,71175,punjab,jalandhar,10th,farmer,ews,no,rural,self-employed,married,yes,no,yes,no
+USR0336,Sandeep Gowda,37,male,103250,1290013,maharashtra,solapur,graduate,private employee,obc,no,urban,employed,married,no,no,no,no
+USR0337,Aadhya Tiwari,27,female,54498,832983,uttar pradesh,kanpur,post graduate,private employee,general,no,rural,employed,married,no,no,no,no
+USR0338,Manoj Rao,35,male,12941,184623,tamil nadu,trichy,12th,farmer,st,no,rural,self-employed,married,yes,no,no,no
+USR0339,Swati Kumar,46,female,13383,209698,karnataka,hubli,illiterate,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0340,Dinesh Banerjee,31,male,0,87343,bihar,ara,graduate,unemployed,ews,no,rural,unemployed,divorced,no,no,yes,no
+USR0341,Sapna Gupta,27,female,11944,157840,west bengal,siliguri,primary,laborer,obc,no,rural,employed,married,no,no,no,no
+USR0342,Abhishek Gupta,43,male,58036,878002,rajasthan,kota,graduate,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0343,Divya Rao,43,female,108349,1488179,gujarat,ahmedabad,12th,private employee,obc,no,rural,employed,divorced,no,no,no,no
+USR0344,Sandeep Tiwari,32,male,38038,675683,madhya pradesh,ujjain,illiterate,business owner,obc,no,urban,self-employed,married,no,no,no,yes
+USR0345,Babita Gupta,32,female,0,58177,kerala,kochi,graduate,unemployed,sc,no,urban,unemployed,married,no,no,yes,yes
+USR0346,Pankaj Shinde,43,male,92280,1203643,andhra pradesh,guntur,12th,private employee,general,no,rural,employed,married,no,no,no,no
+USR0347,Geeta Nair,18,female,7304,95583,punjab,jalandhar,12th,laborer,obc,no,urban,employed,married,no,no,yes,no
+USR0348,Vivaan Chatterjee,18,male,0,367198,maharashtra,amravati,10th,student,obc,yes,rural,student,single,no,yes,no,no
+USR0349,Komal Gill,29,female,5691,112460,uttar pradesh,lucknow,10th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0350,Vijay Prasad,36,male,82720,1108591,tamil nadu,tirunelveli,illiterate,business owner,obc,no,rural,self-employed,divorced,no,no,no,no
+USR0351,Komal Mukherjee,44,female,72658,965308,karnataka,bengaluru,primary,business owner,general,no,rural,self-employed,married,no,no,no,yes
+USR0352,Yash Reddy,62,male,8713,130334,bihar,muzaffarpur,10th,retired,obc,no,urban,retired,married,no,no,no,no
+USR0353,Geeta Singh,52,female,32658,606926,west bengal,darjeeling,primary,business owner,obc,no,rural,self-employed,divorced,no,no,no,yes
+USR0354,Yash Soni,37,male,0,124305,rajasthan,jaipur,post graduate,unemployed,st,no,urban,unemployed,married,no,no,no,no
+USR0355,Anita Bhat,39,female,116685,1516681,gujarat,vadodara,graduate,government employee,obc,no,urban,employed,married,no,no,no,no
+USR0356,Sai Chatterjee,24,male,0,203844,madhya pradesh,dewas,graduate,student,general,no,urban,student,married,no,yes,no,no
+USR0357,Neha Shinde,39,female,0,181944,kerala,trivandrum,graduate,unemployed,sc,no,urban,unemployed,married,no,no,no,no
+USR0358,Aarav Iyer,35,male,106441,1436180,andhra pradesh,kurnool,12th,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0359,Sheetal Yadav,44,female,7809,109201,punjab,pathankot,12th,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR0360,Karan Dubey,27,male,41924,733381,maharashtra,pune,12th,business owner,sc,no,rural,self-employed,married,no,no,no,no
+USR0361,Babita Pandey,47,female,51118,841832,uttar pradesh,bareilly,graduate,business owner,obc,no,urban,self-employed,married,no,no,no,no
+USR0362,Rakesh Saxena,62,male,23928,308419,tamil nadu,erode,10th,retired,sc,no,rural,retired,married,no,no,no,no
+USR0363,Anita Pillai,38,female,9544,160610,karnataka,hubli,12th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0364,Aditya Joshi,46,male,0,73105,bihar,begusarai,12th,unemployed,ews,no,rural,unemployed,married,no,no,yes,no
+USR0365,Poonam Patil,50,female,0,179595,west bengal,kolkata,primary,unemployed,obc,no,urban,unemployed,married,no,no,no,no
+USR0366,Vivaan Mukherjee,33,male,7959,111239,rajasthan,kota,10th,laborer,ews,no,urban,employed,married,no,no,yes,no
+USR0367,Poonam Kumar,43,female,0,124578,gujarat,surat,graduate,unemployed,sc,no,urban,unemployed,married,no,no,no,no
+USR0368,Dev Mukherjee,40,male,15609,305755,madhya pradesh,gwalior,12th,business owner,general,no,rural,self-employed,married,no,no,no,no
+USR0369,Rashmi Kulkarni,41,female,7992,113314,kerala,kollam,12th,laborer,obc,no,urban,self-employed,married,no,no,yes,no
+USR0370,Amit Gupta,28,male,8586,114789,andhra pradesh,kurnool,primary,laborer,st,no,rural,self-employed,married,no,no,no,no
+USR0371,Saanvi Gowda,40,female,11807,172253,punjab,hoshiarpur,primary,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0372,Atharva More,47,male,8348,123727,maharashtra,thane,primary,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR0373,Saanvi More,61,female,6384,114395,uttar pradesh,lucknow,graduate,retired,obc,no,rural,retired,divorced,no,no,no,no
+USR0374,Pranav Mehta,54,male,31809,415902,tamil nadu,salem,post graduate,private employee,obc,no,urban,employed,married,no,no,no,yes
+USR0375,Neha Gill,72,female,15343,216700,karnataka,mysore,12th,retired,general,no,rural,retired,married,no,no,no,no
+USR0376,Dhruv Saxena,28,male,14044,201013,bihar,darbhanga,12th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0377,Aarti Deshmukh,53,female,13435,186199,west bengal,malda,primary,farmer,sc,no,rural,self-employed,single,yes,no,no,no
+USR0378,Kabir Joshi,42,male,90249,1178471,rajasthan,sikar,graduate,government employee,general,no,urban,employed,married,no,no,no,no
+USR0379,Priyanka Shah,72,female,6563,101810,gujarat,gandhinagar,graduate,retired,ews,no,rural,retired,widowed,no,no,no,no
+USR0380,Ramesh Kulkarni,27,male,48779,695562,madhya pradesh,sagar,post graduate,private employee,ews,no,urban,employed,married,no,no,no,no
+USR0381,Kiran Mehta,27,female,81904,1130641,kerala,kollam,post graduate,private employee,sc,no,rural,employed,married,no,no,no,no
+USR0382,Kabir Rao,31,male,89925,1205208,andhra pradesh,kakinada,post graduate,private employee,sc,yes,rural,employed,married,no,no,no,no
+USR0383,Pooja Deshmukh,18,female,0,556509,punjab,pathankot,10th,student,sc,no,urban,student,single,no,yes,no,no
+USR0384,Ishaan Mehta,32,male,14846,204643,maharashtra,mumbai,primary,farmer,st,no,rural,self-employed,married,yes,no,no,yes
+USR0385,Aadhya Shinde,28,female,12584,166463,uttar pradesh,lucknow,12th,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR0386,Sanjay Pillai,42,male,4468,65919,tamil nadu,madurai,primary,farmer,obc,no,rural,self-employed,married,yes,no,yes,no
+USR0387,Rekha Saxena,45,female,13680,213323,karnataka,bellary,primary,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0388,Pankaj Shah,68,male,7934,119686,bihar,purnia,primary,retired,obc,no,rural,retired,married,no,no,no,yes
+USR0389,Anika Tiwari,54,female,79478,1251975,west bengal,siliguri,illiterate,business owner,sc,no,urban,self-employed,married,no,no,no,no
+USR0390,Aarav Saxena,31,male,10467,151981,rajasthan,bikaner,12th,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR0391,Geeta Dubey,26,female,84722,1107134,gujarat,gandhinagar,post graduate,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0392,Abhishek Pillai,47,male,6158,81388,madhya pradesh,ujjain,10th,laborer,general,no,rural,employed,married,no,no,yes,no
+USR0393,Anita Patel,20,female,0,317738,kerala,kozhikode,12th,student,obc,no,urban,student,single,no,yes,no,no
+USR0394,Vivaan Mishra,67,male,8366,136109,andhra pradesh,vijayawada,illiterate,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR0395,Aaradhya Sen,57,female,67396,935433,punjab,pathankot,post graduate,government employee,st,no,urban,employed,married,no,no,no,yes
+USR0396,Ansh Shinde,32,male,7299,102896,maharashtra,solapur,10th,laborer,sc,no,rural,employed,married,no,no,no,yes
+USR0397,Jyoti Das,18,female,0,79603,uttar pradesh,meerut,primary,unemployed,general,yes,urban,unemployed,single,no,no,yes,no
+USR0398,Vivaan Jha,60,male,17169,241285,tamil nadu,erode,primary,retired,ews,no,urban,retired,single,no,no,no,no
+USR0399,Aanya Tiwari,38,female,9996,128764,karnataka,hubli,primary,laborer,obc,no,urban,employed,single,no,no,no,no
+USR0400,Vihaan Prasad,58,male,9975,136277,bihar,purnia,illiterate,laborer,obc,no,urban,employed,married,no,no,no,no
+USR0401,Radha Gandhi,18,female,0,717761,west bengal,malda,10th,student,st,no,rural,student,single,no,yes,no,yes
+USR0402,Amit Pandey,31,male,81316,1125155,rajasthan,bikaner,post graduate,business owner,sc,no,urban,self-employed,married,no,no,no,no
+USR0403,Deepa Gupta,40,female,13035,176521,gujarat,jamnagar,12th,farmer,obc,no,rural,self-employed,married,yes,no,no,yes
+USR0404,Sai Singh,40,male,7310,104735,madhya pradesh,jabalpur,illiterate,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0405,Poonam Nair,33,female,13927,181768,kerala,kollam,primary,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR0406,Arjun Chaudhary,49,male,115862,1455184,andhra pradesh,kurnool,graduate,government employee,obc,no,urban,employed,married,no,no,no,yes
+USR0407,Poonam Yadav,23,female,0,647487,punjab,amritsar,graduate,student,obc,no,urban,student,married,no,yes,no,no
+USR0408,Rakesh Saxena,37,male,11525,150815,maharashtra,solapur,10th,laborer,sc,no,rural,employed,married,no,no,no,no
+USR0409,Rashmi Mishra,41,female,73066,1171508,uttar pradesh,varanasi,graduate,business owner,obc,no,urban,self-employed,married,no,no,no,no
+USR0410,Rohit Gandhi,47,male,64160,1020645,tamil nadu,trichy,primary,business owner,obc,no,rural,self-employed,single,no,no,no,no
+USR0411,Ananya Patil,50,female,15860,319050,karnataka,bengaluru,10th,business owner,st,no,rural,self-employed,divorced,no,no,no,no
+USR0412,Rakesh Sinha,23,male,0,572732,bihar,bhagalpur,graduate,student,obc,no,rural,student,single,no,yes,no,no
+USR0413,Jyoti Patel,18,female,0,317999,west bengal,kharagpur,10th,student,sc,no,urban,student,single,no,yes,no,yes
+USR0414,Karan Yadav,59,male,5285,77084,rajasthan,ajmer,12th,farmer,st,no,rural,self-employed,married,yes,no,yes,no
+USR0415,Anita Mukherjee,44,female,8496,115543,gujarat,ahmedabad,illiterate,laborer,general,no,rural,employed,married,no,no,no,no
+USR0416,Ajay Pillai,28,male,10460,145220,madhya pradesh,indore,10th,farmer,ews,no,rural,self-employed,married,yes,no,no,no
+USR0417,Rashmi Iyer,63,female,23327,296415,kerala,kozhikode,12th,retired,obc,no,rural,retired,married,no,no,no,no
+USR0418,Rahul Sen,41,male,57390,888179,andhra pradesh,vijayawada,graduate,private employee,st,no,urban,employed,married,no,no,no,no
+USR0419,Deepa Tiwari,57,female,80838,1080825,punjab,ludhiana,graduate,government employee,sc,no,urban,employed,single,no,no,no,no
+USR0420,Atharva Chaudhary,41,male,49728,723674,maharashtra,nagpur,graduate,government employee,general,no,urban,employed,married,no,no,no,no
+USR0421,Aaradhya Shah,70,female,11848,176424,uttar pradesh,aligarh,10th,retired,obc,no,rural,retired,married,no,no,no,no
+USR0422,Kabir Sharma,66,male,22262,278568,tamil nadu,vellore,post graduate,retired,ews,no,urban,retired,married,no,no,no,no
+USR0423,Diya Gupta,36,female,6883,87908,karnataka,davangere,10th,laborer,general,no,urban,employed,divorced,no,no,yes,no
+USR0424,Yash Pandey,54,male,13186,169640,bihar,gaya,12th,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR0425,Radha Tiwari,49,female,5015,87067,west bengal,siliguri,10th,farmer,sc,no,rural,self-employed,married,yes,no,yes,no
+USR0426,Kabir Mishra,60,male,17524,237350,rajasthan,alwar,illiterate,retired,st,no,urban,retired,married,no,no,no,no
+USR0427,Kavya Iyer,25,female,0,167747,gujarat,gandhinagar,10th,unemployed,obc,no,rural,unemployed,married,no,no,no,no
+USR0428,Shaurya Shah,50,male,101013,1380226,madhya pradesh,jabalpur,12th,private employee,st,no,urban,employed,married,no,no,no,no
+USR0429,Deepa Joshi,55,female,88903,1136596,kerala,trivandrum,post graduate,government employee,obc,no,urban,employed,married,no,no,no,no
+USR0430,Atharva Yadav,18,male,0,731709,andhra pradesh,guntur,10th,student,obc,no,urban,student,single,no,yes,no,no
+USR0431,Isha Tiwari,22,female,0,589753,punjab,amritsar,graduate,student,general,no,urban,student,single,no,yes,no,no
+USR0432,Manoj Nair,18,male,0,123795,maharashtra,nagpur,10th,student,obc,no,urban,student,single,no,yes,no,no
+USR0433,Priya Banerjee,35,female,14109,211416,uttar pradesh,kanpur,12th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0434,Yash Prasad,50,male,89964,1255230,tamil nadu,tirunelveli,post graduate,private employee,obc,no,urban,employed,married,no,no,no,yes
+USR0435,Sneha Singh,62,female,6286,103706,karnataka,mangalore,12th,retired,obc,no,urban,retired,divorced,no,no,yes,no
+USR0436,Deepak Rao,41,male,105433,1420716,bihar,ara,12th,private employee,st,no,urban,employed,married,no,no,no,yes
+USR0437,Neha Jha,64,female,19774,248104,west bengal,darjeeling,10th,retired,general,no,rural,retired,married,no,no,no,no
+USR0438,Ishaan Reddy,19,male,0,561228,rajasthan,jodhpur,12th,student,obc,no,urban,student,married,no,yes,no,no
+USR0439,Mamta Rao,18,female,0,136038,gujarat,jamnagar,10th,student,sc,no,urban,student,single,no,yes,no,no
+USR0440,Kabir Mehta,39,male,73491,977594,madhya pradesh,bhopal,graduate,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0441,Babita Kumar,45,female,86237,1296513,kerala,kannur,12th,business owner,general,no,rural,self-employed,married,no,no,no,no
+USR0442,Vikram Pillai,39,male,11077,148223,andhra pradesh,vijayawada,10th,laborer,obc,no,rural,employed,married,no,no,no,yes
+USR0443,Ananya Joshi,18,female,0,722590,punjab,ludhiana,10th,student,general,yes,rural,student,single,no,yes,no,yes
+USR0444,Abhishek Mukherjee,38,male,0,144421,maharashtra,nagpur,post graduate,unemployed,st,no,rural,unemployed,married,no,no,no,no
+USR0445,Aadhya Iyer,20,female,0,231081,uttar pradesh,kanpur,12th,student,general,no,rural,student,single,no,yes,no,no
+USR0446,Arjun Yadav,50,male,52642,793653,tamil nadu,coimbatore,post graduate,business owner,obc,no,rural,self-employed,married,no,no,no,no
+USR0447,Anika Nair,45,female,80239,1141975,karnataka,bellary,post graduate,business owner,sc,no,rural,self-employed,married,no,no,no,no
+USR0448,Aryan Sharma,25,male,11040,144273,bihar,begusarai,primary,laborer,obc,no,urban,employed,married,no,no,no,no
+USR0449,Priya Patil,32,female,74358,988708,west bengal,siliguri,post graduate,government employee,obc,no,rural,employed,married,no,no,no,no
+USR0450,Karan Nair,24,male,8768,121233,rajasthan,jaipur,10th,laborer,obc,no,rural,employed,married,no,no,no,yes
+USR0451,Sneha Pandey,39,female,22342,537021,gujarat,bhavnagar,12th,business owner,obc,no,urban,self-employed,married,no,no,no,no
+USR0452,Karan Mishra,54,male,8595,115182,madhya pradesh,sagar,primary,farmer,obc,no,rural,self-employed,married,yes,no,no,yes
+USR0453,Neha Mukherjee,25,female,0,132444,kerala,kochi,10th,unemployed,sc,no,rural,unemployed,married,no,no,no,no
+USR0454,Anil Banerjee,47,male,4612,78588,andhra pradesh,tirupati,10th,farmer,st,no,rural,self-employed,married,yes,no,yes,no
+USR0455,Komal Dubey,32,female,47878,712295,punjab,bathinda,graduate,government employee,st,no,urban,employed,married,no,no,no,no
+USR0456,Vijay Dubey,28,male,13736,180538,maharashtra,pune,illiterate,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0457,Isha Soni,38,female,7577,100619,uttar pradesh,prayagraj,primary,laborer,ews,no,rural,employed,married,no,no,no,yes
+USR0458,Aarav Nair,24,male,0,457335,tamil nadu,coimbatore,graduate,student,obc,no,urban,student,married,no,yes,no,no
+USR0459,Riya Gupta,31,female,6415,84111,karnataka,belgaum,12th,laborer,general,yes,rural,employed,married,no,no,yes,no
+USR0460,Gaurav Pillai,22,male,0,297772,bihar,purnia,graduate,student,sc,no,rural,student,single,no,yes,no,no
+USR0461,Sneha Soni,69,female,20344,257315,west bengal,darjeeling,post graduate,retired,obc,no,urban,retired,widowed,no,no,no,no
+USR0462,Dev Joshi,40,male,0,98064,rajasthan,ajmer,12th,unemployed,obc,no,urban,unemployed,married,no,no,yes,no
+USR0463,Komal Reddy,29,female,51996,875263,gujarat,bhavnagar,primary,business owner,obc,no,rural,self-employed,married,no,no,no,no
+USR0464,Krishna Gandhi,43,male,87535,1157822,madhya pradesh,indore,post graduate,government employee,obc,no,rural,employed,married,no,no,no,no
+USR0465,Meena Banerjee,38,female,109345,1445336,kerala,palakkad,post graduate,government employee,obc,no,rural,employed,married,no,no,no,no
+USR0466,Karan More,36,male,57647,887276,andhra pradesh,vijayawada,12th,business owner,general,no,rural,self-employed,married,no,no,no,no
+USR0467,Nisha Prasad,49,female,23058,350428,punjab,hoshiarpur,post graduate,business owner,ews,no,urban,self-employed,married,no,no,no,no
+USR0468,Kabir Pillai,51,male,73610,954612,maharashtra,nashik,post graduate,private employee,general,no,rural,employed,married,no,no,no,no
+USR0469,Divya Tiwari,32,female,81902,1138781,uttar pradesh,kanpur,graduate,business owner,sc,no,rural,self-employed,single,no,no,no,no
+USR0470,Rakesh Tiwari,31,male,0,111667,tamil nadu,coimbatore,illiterate,unemployed,obc,no,urban,unemployed,married,no,no,yes,no
+USR0471,Sunita Mehta,35,female,9902,156167,karnataka,bellary,12th,farmer,general,no,rural,self-employed,married,yes,no,no,yes
+USR0472,Pranav Iyer,18,male,0,763440,bihar,bhagalpur,10th,student,sc,no,urban,student,married,no,yes,no,no
+USR0473,Mamta Mehta,18,female,0,668866,west bengal,malda,10th,student,sc,no,rural,student,single,no,yes,no,no
+USR0474,Pranav Sen,60,male,23885,308644,rajasthan,ajmer,graduate,retired,ews,no,rural,retired,single,no,no,no,no
+USR0475,Kavya Dubey,64,female,22149,304948,gujarat,gandhinagar,illiterate,retired,obc,no,urban,retired,married,no,no,no,no
+USR0476,Pankaj Jha,36,male,9840,130518,madhya pradesh,ujjain,illiterate,laborer,obc,no,urban,self-employed,divorced,no,no,no,no
+USR0477,Pooja Rao,48,female,11955,161321,kerala,trivandrum,10th,laborer,obc,yes,rural,employed,married,no,no,no,yes
+USR0478,Sanjay Nair,44,male,31622,532002,andhra pradesh,visakhapatnam,12th,private employee,general,no,urban,employed,married,no,no,no,no
+USR0479,Aaradhya Mukherjee,80,female,0,167087,punjab,jalandhar,primary,unemployed,obc,no,urban,unemployed,widowed,no,no,no,no
+USR0480,Alok Singh,56,male,0,90409,maharashtra,aurangabad,primary,unemployed,sc,no,rural,unemployed,married,no,no,yes,no
+USR0481,Riya Banerjee,38,female,5900,84242,uttar pradesh,meerut,10th,farmer,ews,no,rural,self-employed,married,yes,no,yes,no
+USR0482,Vijay Shinde,25,male,4194,79254,tamil nadu,salem,12th,farmer,st,no,rural,self-employed,married,yes,no,no,no
+USR0483,Kiran Tiwari,18,female,0,773740,karnataka,davangere,10th,student,sc,no,rural,student,single,no,yes,no,yes
+USR0484,Ajay Gill,43,male,10259,133636,bihar,muzaffarpur,primary,laborer,obc,no,rural,employed,married,no,no,no,yes
+USR0485,Aadhya Kumar,28,female,11306,168708,west bengal,kharagpur,illiterate,farmer,ews,no,rural,self-employed,single,yes,no,no,yes
+USR0486,Yash Reddy,18,male,0,724059,rajasthan,jodhpur,10th,student,general,no,urban,student,single,no,yes,no,no
+USR0487,Neha Kulkarni,30,female,74433,1185075,gujarat,gandhinagar,illiterate,business owner,st,no,urban,self-employed,married,no,no,no,no
+USR0488,Amit Rao,23,male,0,155417,madhya pradesh,indore,graduate,student,obc,no,rural,student,single,no,yes,no,no
+USR0489,Anjali Gupta,65,female,6923,125323,kerala,kannur,12th,farmer,general,no,rural,self-employed,married,yes,no,no,yes
+USR0490,Amit Yadav,53,male,11305,146889,andhra pradesh,visakhapatnam,10th,farmer,st,no,rural,self-employed,married,yes,no,no,no
+USR0491,Rekha Joshi,39,female,0,50970,punjab,hoshiarpur,graduate,unemployed,obc,no,rural,unemployed,married,no,no,yes,no
+USR0492,Sai Pandey,62,male,20796,263523,maharashtra,thane,post graduate,retired,obc,no,rural,retired,married,no,no,no,no
+USR0493,Saanvi Chaudhary,41,female,8750,128311,uttar pradesh,meerut,12th,farmer,ews,no,rural,self-employed,divorced,yes,no,no,no
+USR0494,Pranav Patel,27,male,6207,91276,tamil nadu,erode,primary,laborer,st,no,rural,employed,married,no,no,yes,no
+USR0495,Anjali Sharma,62,female,6402,100111,karnataka,bengaluru,10th,retired,general,no,rural,retired,single,no,no,no,no
+USR0496,Gaurav Chatterjee,48,male,12010,155369,bihar,gaya,primary,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0497,Neha Verma,24,female,11007,139880,west bengal,siliguri,12th,laborer,sc,yes,urban,employed,married,no,no,no,yes
+USR0498,Abhishek Chatterjee,37,male,79216,1086959,rajasthan,jodhpur,post graduate,government employee,sc,no,rural,employed,married,no,no,no,yes
+USR0499,Kiran Nair,26,female,40975,599436,gujarat,bhavnagar,graduate,government employee,ews,no,urban,employed,married,no,no,no,yes
+USR0500,Ishaan Pillai,19,male,6818,99776,madhya pradesh,gwalior,primary,laborer,sc,no,urban,employed,single,no,no,yes,no
+USR0501,Neha Patel,53,female,105748,1322240,kerala,kollam,graduate,private employee,general,no,rural,employed,single,no,no,no,no
+USR0502,Yash Mehta,68,male,14869,199826,andhra pradesh,rajahmundry,illiterate,retired,obc,no,rural,retired,married,no,no,no,no
+USR0503,Mamta Chaudhary,19,female,0,746895,punjab,patiala,12th,student,obc,no,rural,student,single,no,yes,no,no
+USR0504,Manoj More,48,male,4885,92487,maharashtra,nagpur,illiterate,farmer,general,no,rural,self-employed,married,yes,no,yes,yes
+USR0505,Kiran Mehta,30,female,102489,1275080,uttar pradesh,varanasi,post graduate,government employee,general,no,rural,employed,married,no,no,no,no
+USR0506,Sunil Chatterjee,32,male,46079,681107,tamil nadu,coimbatore,12th,private employee,sc,no,rural,employed,married,no,no,no,no
+USR0507,Divya Joshi,31,female,0,96677,karnataka,mangalore,12th,unemployed,obc,no,urban,unemployed,married,no,no,yes,no
+USR0508,Shaurya Singh,27,male,76018,1052429,bihar,patna,12th,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0509,Mamta Rao,40,female,7546,139321,west bengal,asansol,12th,farmer,obc,no,rural,self-employed,single,yes,no,no,no
+USR0510,Sunil Iyer,27,male,0,89051,rajasthan,kota,graduate,unemployed,st,no,rural,unemployed,married,no,no,yes,no
+USR0511,Rashmi Singh,44,female,27844,502732,gujarat,jamnagar,12th,business owner,obc,no,urban,self-employed,married,no,no,no,no
+USR0512,Ansh Nair,39,male,26892,346879,madhya pradesh,sagar,post graduate,private employee,obc,no,urban,employed,married,no,no,no,no
+USR0513,Isha Gill,36,female,59241,844420,kerala,kannur,post graduate,government employee,sc,no,urban,employed,married,no,no,no,yes
+USR0514,Vijay Mishra,26,male,106495,1458503,andhra pradesh,visakhapatnam,graduate,private employee,obc,no,urban,employed,single,no,no,no,yes
+USR0515,Rashmi Chaudhary,31,female,11624,152166,punjab,ludhiana,10th,farmer,obc,no,rural,self-employed,married,yes,no,no,yes
+USR0516,Ansh Nair,51,male,14633,216954,maharashtra,aurangabad,illiterate,farmer,sc,no,rural,self-employed,married,yes,no,no,no
+USR0517,Anita Gandhi,47,female,0,160868,uttar pradesh,meerut,graduate,unemployed,ews,no,rural,unemployed,married,no,no,no,no
+USR0518,Pankaj Pandey,25,male,23601,382587,tamil nadu,salem,10th,business owner,st,no,rural,self-employed,married,no,no,no,no
+USR0519,Aadhya Yadav,41,female,34392,562813,karnataka,hubli,post graduate,private employee,ews,no,rural,employed,married,no,no,no,no
+USR0520,Shaurya Shinde,51,male,99500,1219631,bihar,purnia,post graduate,private employee,general,yes,urban,employed,divorced,no,no,no,no
+USR0521,Preeti Jha,18,female,0,432157,west bengal,durgapur,10th,student,obc,no,rural,student,single,no,yes,no,no
+USR0522,Karan Nair,48,male,7715,134315,rajasthan,ajmer,10th,farmer,obc,no,rural,self-employed,married,yes,no,no,yes
+USR0523,Riya Nair,30,female,11800,157951,gujarat,vadodara,primary,laborer,st,no,rural,employed,single,no,no,no,yes
+USR0524,Sandeep Kulkarni,48,male,14904,209619,madhya pradesh,sagar,illiterate,farmer,st,no,rural,self-employed,married,yes,no,no,no
+USR0525,Aaradhya Sharma,28,female,0,170072,kerala,palakkad,primary,unemployed,st,no,urban,unemployed,married,no,no,no,no
+USR0526,Sanjay Shinde,18,male,0,88557,andhra pradesh,tirupati,post graduate,unemployed,sc,no,urban,unemployed,single,no,no,yes,yes
+USR0527,Ananya Nair,18,female,0,511139,punjab,amritsar,10th,student,obc,no,rural,student,single,no,yes,no,no
+USR0528,Atharva Jha,40,male,60652,760779,maharashtra,thane,post graduate,government employee,general,no,urban,employed,married,no,no,no,no
+USR0529,Priyanka Gandhi,43,female,0,154217,uttar pradesh,lucknow,10th,unemployed,general,no,rural,unemployed,married,no,no,no,no
+USR0530,Sandeep Saxena,26,male,10809,168707,tamil nadu,coimbatore,12th,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR0531,Kirti Mukherjee,49,female,11776,185738,karnataka,mysore,10th,farmer,st,yes,urban,self-employed,married,yes,no,no,no
+USR0532,Vikram Deshmukh,18,male,0,574567,bihar,ara,10th,student,sc,no,rural,student,single,no,yes,no,no
+USR0533,Sapna More,39,female,111704,1410282,west bengal,kolkata,post graduate,government employee,obc,no,rural,employed,married,no,no,no,no
+USR0534,Anil Shinde,21,male,0,391663,rajasthan,jodhpur,12th,student,obc,no,urban,student,single,no,yes,no,no
+USR0535,Rekha More,30,female,77978,1133997,gujarat,surat,10th,business owner,obc,no,urban,self-employed,married,no,no,no,no
+USR0536,Suresh Sinha,40,male,111238,1372525,madhya pradesh,bhopal,graduate,government employee,general,no,urban,employed,married,no,no,no,no
+USR0537,Swati Bhat,27,female,12677,167158,kerala,alappuzha,10th,farmer,obc,no,rural,self-employed,married,yes,no,no,yes
+USR0538,Pankaj Gandhi,34,male,70580,966802,andhra pradesh,kakinada,post graduate,government employee,obc,no,rural,employed,married,no,no,no,no
+USR0539,Anika Dubey,55,female,69000,937211,punjab,bathinda,graduate,private employee,st,no,rural,employed,married,no,no,no,no
+USR0540,Rakesh Nair,31,male,30278,417737,maharashtra,pune,12th,private employee,st,no,rural,employed,married,no,no,no,no
+USR0541,Nisha Dubey,52,female,4471,71424,uttar pradesh,meerut,10th,farmer,general,no,rural,self-employed,married,yes,no,yes,yes
+USR0542,Aryan Gupta,23,male,40736,537095,tamil nadu,chennai,12th,private employee,general,no,rural,employed,single,no,no,no,no
+USR0543,Jyoti Kumar,47,female,112018,1492334,karnataka,mysore,graduate,government employee,general,no,rural,employed,married,no,no,no,yes
+USR0544,Rajesh Jha,61,male,12924,181632,bihar,purnia,graduate,retired,obc,no,urban,retired,married,no,no,no,yes
+USR0545,Priya Patil,18,female,0,75869,west bengal,darjeeling,illiterate,unemployed,st,no,urban,unemployed,single,no,no,yes,no
+USR0546,Krishna Mehta,28,male,0,106170,rajasthan,bikaner,12th,unemployed,obc,no,urban,unemployed,married,no,no,yes,no
+USR0547,Priyanka Chaudhary,48,female,25780,445373,gujarat,gandhinagar,illiterate,business owner,obc,no,rural,self-employed,married,no,no,no,no
+USR0548,Sandeep Chatterjee,36,male,39744,515175,madhya pradesh,dewas,graduate,private employee,st,no,urban,employed,married,no,no,no,no
+USR0549,Priyanka Yadav,45,female,103672,1286347,kerala,palakkad,post graduate,private employee,general,no,urban,employed,married,no,no,no,no
+USR0550,Ishaan Gupta,30,male,0,102497,andhra pradesh,kakinada,10th,unemployed,obc,no,rural,unemployed,married,no,no,no,no
+USR0551,Rekha Jha,41,female,81674,1072455,punjab,bathinda,post graduate,government employee,obc,no,urban,employed,married,no,no,no,no
+USR0552,Deepak Yadav,37,male,45254,727771,maharashtra,pune,graduate,private employee,st,yes,urban,employed,married,no,no,no,no
+USR0553,Isha Mehta,57,female,11095,148351,uttar pradesh,bareilly,10th,laborer,ews,no,urban,employed,married,no,no,no,no
+USR0554,Pranav More,43,male,86646,1094384,tamil nadu,salem,graduate,business owner,st,yes,rural,self-employed,married,no,no,no,no
+USR0555,Deepa Prasad,45,female,38182,654110,karnataka,bellary,illiterate,business owner,obc,no,urban,self-employed,married,no,no,no,yes
+USR0556,Anil Prasad,33,male,107585,1410853,bihar,begusarai,post graduate,government employee,obc,no,urban,employed,married,no,no,no,yes
+USR0557,Babita More,32,female,8625,109506,west bengal,kharagpur,10th,laborer,ews,no,rural,employed,married,no,no,no,no
+USR0558,Ramesh Prasad,33,male,68992,939987,rajasthan,jodhpur,graduate,private employee,general,no,rural,employed,married,no,no,no,no
+USR0559,Aadhya Shah,45,female,85571,1132341,gujarat,surat,12th,private employee,general,no,rural,employed,married,no,no,no,no
+USR0560,Vihaan Shinde,33,male,0,199514,madhya pradesh,bhopal,12th,unemployed,obc,no,urban,unemployed,married,no,no,no,yes
+USR0561,Meena More,44,female,9952,157997,kerala,alappuzha,10th,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR0562,Amit Verma,71,male,27053,562778,andhra pradesh,tirupati,primary,business owner,sc,no,rural,self-employed,married,no,no,no,yes
+USR0563,Komal Iyer,53,female,100398,1303903,punjab,patiala,12th,private employee,obc,no,urban,employed,married,no,no,no,no
+USR0564,Amit Nair,35,male,11143,150239,maharashtra,amravati,illiterate,laborer,obc,no,rural,employed,married,no,no,no,no
+USR0565,Sneha Deshmukh,58,female,0,65697,uttar pradesh,bareilly,post graduate,unemployed,obc,no,rural,unemployed,married,no,no,yes,no
+USR0566,Rohit Bhat,33,male,0,103361,tamil nadu,tirunelveli,illiterate,unemployed,sc,no,rural,unemployed,married,no,no,no,yes
+USR0567,Geeta Gowda,18,female,0,291238,karnataka,mangalore,10th,student,general,no,rural,student,single,no,yes,no,no
+USR0568,Vivaan Das,24,male,0,120557,bihar,bhagalpur,graduate,student,general,no,rural,student,divorced,no,yes,no,no
+USR0569,Isha Verma,18,female,0,402453,west bengal,howrah,10th,student,sc,no,rural,student,single,no,yes,no,no
+USR0570,Aditya Gowda,34,male,12551,198650,rajasthan,udaipur,illiterate,farmer,st,no,rural,self-employed,married,yes,no,no,no
+USR0571,Aaradhya Gandhi,40,female,65924,876514,gujarat,bhavnagar,post graduate,government employee,general,no,rural,employed,married,no,no,no,no
+USR0572,Gaurav Verma,65,male,8701,124782,madhya pradesh,satna,post graduate,retired,obc,no,rural,retired,married,no,no,no,no
+USR0573,Kavya Chaudhary,44,female,11287,155275,kerala,kannur,illiterate,laborer,obc,no,urban,self-employed,married,no,no,no,no
+USR0574,Rahul Kulkarni,36,male,62560,950353,andhra pradesh,kurnool,post graduate,private employee,general,no,urban,employed,divorced,no,no,no,no
+USR0575,Babita Shah,52,female,0,127967,punjab,amritsar,primary,unemployed,general,no,urban,unemployed,married,no,no,no,no
+USR0576,Vikram Singh,18,male,69127,936745,maharashtra,nashik,graduate,private employee,sc,no,urban,employed,single,no,no,no,no
+USR0577,Rashmi Gupta,43,female,86791,1147152,uttar pradesh,meerut,post graduate,private employee,obc,yes,rural,employed,married,no,no,no,no
+USR0578,Shaurya Kumar,51,male,9140,157416,tamil nadu,vellore,10th,farmer,ews,no,urban,self-employed,married,yes,no,no,no
+USR0579,Nisha Bhat,18,female,0,229995,karnataka,dharwad,10th,student,general,no,urban,student,single,no,yes,no,no
+USR0580,Dhruv Gowda,57,male,0,108847,bihar,ara,graduate,unemployed,ews,no,urban,unemployed,married,no,no,yes,yes
+USR0581,Babita Rao,45,female,93694,1212526,west bengal,kolkata,graduate,private employee,general,no,rural,employed,married,no,no,no,no
+USR0582,Alok Iyer,33,male,50533,665819,rajasthan,sikar,post graduate,government employee,sc,no,urban,employed,married,no,no,no,no
+USR0583,Priyanka Prasad,49,female,93654,1200357,gujarat,vadodara,12th,private employee,st,no,urban,employed,married,no,no,no,no
+USR0584,Kabir Sharma,74,male,8068,131040,madhya pradesh,ujjain,12th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0585,Aarti Banerjee,42,female,6598,85737,kerala,palakkad,10th,laborer,obc,yes,urban,employed,married,no,no,yes,no
+USR0586,Yash Singh,43,male,64930,878460,andhra pradesh,visakhapatnam,post graduate,private employee,st,no,rural,employed,married,no,no,no,no
+USR0587,Neha Kulkarni,33,female,76352,1000805,punjab,jalandhar,10th,business owner,general,no,rural,self-employed,married,no,no,no,no
+USR0588,Shaurya More,27,male,8156,112914,maharashtra,nashik,10th,laborer,sc,no,rural,self-employed,married,no,no,no,no
+USR0589,Priyanka Joshi,52,female,4894,83792,uttar pradesh,aligarh,primary,farmer,general,no,rural,self-employed,married,yes,no,yes,no
+USR0590,Sandeep Tiwari,27,male,34405,495275,tamil nadu,erode,illiterate,business owner,obc,no,rural,self-employed,married,no,no,no,no
+USR0591,Rekha Soni,41,female,83945,1258364,karnataka,mangalore,illiterate,business owner,obc,no,rural,self-employed,married,no,no,no,no
+USR0592,Ramesh Sharma,32,male,9060,123392,bihar,darbhanga,12th,laborer,st,no,rural,employed,married,no,no,no,yes
+USR0593,Komal Gill,47,female,58178,759630,west bengal,siliguri,illiterate,business owner,obc,no,rural,self-employed,married,no,no,no,no
+USR0594,Karan Nair,45,male,0,124174,rajasthan,kota,post graduate,unemployed,obc,yes,rural,unemployed,married,no,no,no,no
+USR0595,Aarti Kulkarni,55,female,5461,76876,gujarat,vadodara,12th,farmer,sc,no,rural,self-employed,married,yes,no,yes,no
+USR0596,Aryan Shah,32,male,114103,1416444,madhya pradesh,satna,post graduate,government employee,obc,no,rural,employed,married,no,no,no,no
+USR0597,Shweta Shinde,35,female,26825,570209,kerala,kollam,12th,business owner,obc,no,rural,self-employed,married,no,no,no,no
+USR0598,Harish Mishra,25,male,10057,134322,andhra pradesh,rajahmundry,primary,laborer,obc,no,rural,employed,divorced,no,no,no,no
+USR0599,Jyoti Joshi,33,female,10285,135427,punjab,jalandhar,primary,laborer,ews,yes,rural,employed,married,no,no,no,yes
+USR0600,Krishna Gill,45,male,25717,460578,maharashtra,nashik,post graduate,private employee,general,no,urban,employed,married,no,no,no,no
+USR0601,Preeti Shah,51,female,73975,1101228,uttar pradesh,meerut,12th,business owner,sc,no,urban,self-employed,married,no,no,no,no
+USR0602,Aditya Mukherjee,26,male,0,163717,tamil nadu,salem,illiterate,unemployed,obc,yes,rural,unemployed,married,no,no,no,yes
+USR0603,Aarti Mukherjee,53,female,62281,944005,karnataka,bellary,post graduate,private employee,st,no,urban,employed,married,no,no,no,yes
+USR0604,Atharva Reddy,60,male,5878,87392,bihar,patna,primary,retired,obc,no,rural,retired,married,no,no,yes,no
+USR0605,Saanvi Shah,46,female,4357,69916,west bengal,malda,12th,farmer,ews,no,urban,self-employed,married,yes,no,yes,no
+USR0606,Atharva Patil,68,male,8364,131025,rajasthan,alwar,illiterate,retired,sc,no,rural,retired,married,no,no,no,no
+USR0607,Sapna Patil,28,female,82286,1192369,gujarat,ahmedabad,12th,business owner,sc,no,urban,self-employed,married,no,no,no,no
+USR0608,Arjun Dubey,21,male,0,421192,madhya pradesh,bhopal,12th,student,obc,no,urban,student,single,no,yes,no,no
+USR0609,Mamta Tiwari,18,female,0,111817,kerala,kannur,10th,student,general,no,rural,student,single,no,yes,no,no
+USR0610,Ramesh Mukherjee,62,male,17791,237151,andhra pradesh,rajahmundry,10th,retired,sc,no,urban,retired,married,no,no,no,no
+USR0611,Riya Nair,49,female,26297,510428,punjab,patiala,post graduate,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0612,Pranav Shah,39,male,4297,85077,maharashtra,thane,illiterate,farmer,st,no,rural,self-employed,married,yes,no,yes,no
+USR0613,Aadhya Mishra,44,female,5977,118554,uttar pradesh,bareilly,primary,farmer,ews,no,rural,self-employed,divorced,yes,no,no,yes
+USR0614,Kabir Sinha,23,male,0,549094,tamil nadu,coimbatore,graduate,student,sc,no,urban,student,single,no,yes,no,no
+USR0615,Mamta Yadav,76,female,8868,144952,karnataka,bengaluru,primary,retired,ews,no,urban,retired,married,no,no,no,no
+USR0616,Krishna Joshi,41,male,31119,446352,bihar,purnia,12th,private employee,obc,no,urban,employed,married,no,no,no,no
+USR0617,Meena Patil,41,female,10799,163223,west bengal,darjeeling,10th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0618,Shaurya Iyer,50,male,0,185307,rajasthan,alwar,12th,unemployed,sc,no,rural,unemployed,married,no,no,no,yes
+USR0619,Poonam Gupta,47,female,36538,572245,gujarat,surat,graduate,private employee,general,no,urban,employed,married,no,no,no,no
+USR0620,Alok Patil,43,male,106853,1447361,madhya pradesh,dewas,post graduate,private employee,sc,no,rural,employed,married,no,no,no,no
+USR0621,Poonam Nair,28,female,10459,140737,kerala,kozhikode,primary,laborer,sc,no,urban,employed,married,no,no,no,no
+USR0622,Ajay Das,47,male,10389,142925,andhra pradesh,tirupati,10th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0623,Meena Rao,68,female,24415,311456,punjab,ludhiana,graduate,retired,general,no,urban,retired,widowed,no,no,no,yes
+USR0624,Suresh Kulkarni,60,male,9087,133748,maharashtra,aurangabad,post graduate,retired,general,no,urban,retired,single,no,no,no,no
+USR0625,Radha Shah,63,female,23768,317250,uttar pradesh,prayagraj,post graduate,retired,ews,no,rural,retired,married,no,no,no,no
+USR0626,Suresh Gill,32,male,10751,144382,tamil nadu,coimbatore,12th,farmer,general,no,rural,self-employed,married,yes,no,no,yes
+USR0627,Aarti Jha,25,female,0,180764,karnataka,davangere,graduate,unemployed,obc,no,urban,unemployed,married,no,no,no,no
+USR0628,Vikram Rao,38,male,74993,983833,bihar,bhagalpur,12th,business owner,st,no,rural,self-employed,married,no,no,no,no
+USR0629,Ananya Rao,40,female,0,157117,west bengal,durgapur,illiterate,unemployed,ews,no,rural,unemployed,married,no,no,no,yes
+USR0630,Suresh Shah,56,male,33630,659026,rajasthan,ajmer,primary,business owner,obc,yes,urban,self-employed,married,no,no,no,no
+USR0631,Priyanka Kumar,18,female,0,160846,gujarat,surat,10th,student,sc,no,urban,student,single,no,yes,no,no
+USR0632,Vijay Shinde,62,male,20103,276194,madhya pradesh,jabalpur,graduate,retired,obc,no,urban,retired,married,no,no,no,no
+USR0633,Mamta Bhat,37,female,9554,160102,kerala,palakkad,12th,farmer,general,no,rural,self-employed,married,yes,no,no,yes
+USR0634,Vihaan Soni,33,male,88315,1132102,andhra pradesh,tirupati,illiterate,business owner,general,no,urban,self-employed,married,no,no,no,yes
+USR0635,Priya Shinde,24,female,0,647695,punjab,ludhiana,graduate,student,ews,no,rural,student,divorced,no,yes,no,no
+USR0636,Aditya Pandey,18,male,0,137168,maharashtra,aurangabad,10th,student,obc,no,rural,student,single,no,yes,no,no
+USR0637,Poonam Gandhi,52,female,28019,498252,uttar pradesh,bareilly,12th,private employee,ews,no,rural,employed,married,no,no,no,no
+USR0638,Ishaan Verma,41,male,8882,142139,tamil nadu,tirunelveli,illiterate,farmer,ews,no,rural,self-employed,single,yes,no,no,no
+USR0639,Priya Sen,20,female,0,618924,karnataka,mangalore,12th,student,obc,no,rural,student,single,no,yes,no,no
+USR0640,Manoj Sharma,20,male,0,109527,bihar,ara,12th,student,general,no,rural,student,single,no,yes,no,no
+USR0641,Jyoti Soni,34,female,80592,1040439,west bengal,kharagpur,post graduate,private employee,sc,no,rural,employed,married,no,no,no,yes
+USR0642,Rohit Saxena,65,male,14478,205135,rajasthan,sikar,12th,retired,st,yes,urban,retired,married,no,no,no,no
+USR0643,Shweta Tiwari,36,female,51872,684387,gujarat,rajkot,graduate,business owner,general,yes,rural,self-employed,married,no,no,no,no
+USR0644,Rakesh Deshmukh,18,male,0,619342,madhya pradesh,dewas,10th,student,st,no,urban,student,single,no,yes,no,no
+USR0645,Anjali Deshmukh,36,female,9766,132014,kerala,thrissur,primary,laborer,obc,no,rural,employed,married,no,no,no,no
+USR0646,Aarav Kumar,35,male,107182,1434366,andhra pradesh,guntur,post graduate,private employee,sc,no,urban,employed,married,no,no,no,no
+USR0647,Isha Pillai,18,female,0,484659,punjab,amritsar,10th,student,sc,no,rural,student,single,no,yes,no,no
+USR0648,Aarav Reddy,39,male,73271,901706,maharashtra,amravati,12th,private employee,general,yes,rural,employed,married,no,no,no,no
+USR0649,Saanvi Nair,36,female,65704,883172,uttar pradesh,prayagraj,graduate,government employee,st,yes,rural,employed,married,no,no,no,no
+USR0650,Aarav Das,50,male,13324,202677,tamil nadu,vellore,10th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0651,Sheetal Mehta,67,female,7131,99747,karnataka,mysore,post graduate,retired,general,no,rural,retired,married,no,no,yes,no
+USR0652,Pankaj Nair,56,male,9498,129477,bihar,darbhanga,illiterate,laborer,obc,no,urban,self-employed,married,no,no,no,no
+USR0653,Preeti Deshmukh,35,female,10237,140279,west bengal,howrah,10th,laborer,general,yes,urban,employed,married,no,no,no,no
+USR0654,Ajay Das,23,male,0,689596,rajasthan,bikaner,graduate,student,sc,no,rural,student,married,no,yes,no,no
+USR0655,Geeta Das,78,female,8169,108941,gujarat,vadodara,illiterate,retired,obc,no,urban,retired,widowed,no,no,yes,no
+USR0656,Krishna Shinde,40,male,0,137448,madhya pradesh,gwalior,illiterate,unemployed,obc,no,rural,unemployed,married,no,no,no,no
+USR0657,Prisha Pillai,40,female,4546,89284,kerala,kochi,illiterate,farmer,obc,no,rural,self-employed,married,yes,no,yes,no
+USR0658,Anil Nair,39,male,13162,171365,andhra pradesh,kurnool,illiterate,farmer,ews,no,rural,self-employed,married,yes,no,no,no
+USR0659,Mamta Kumar,42,female,96292,1337831,punjab,moga,graduate,private employee,general,no,urban,employed,married,no,no,no,yes
+USR0660,Gaurav Das,37,male,13713,187244,maharashtra,pune,illiterate,farmer,st,no,rural,self-employed,married,yes,no,no,no
+USR0661,Mamta Pillai,31,female,4991,78259,uttar pradesh,varanasi,illiterate,farmer,obc,no,urban,self-employed,single,yes,no,yes,no
+USR0662,Kabir Shinde,31,male,10240,137488,tamil nadu,salem,illiterate,laborer,obc,no,rural,employed,married,no,no,no,no
+USR0663,Aanya Iyer,39,female,14494,197117,karnataka,dharwad,primary,farmer,sc,no,rural,self-employed,divorced,yes,no,no,no
+USR0664,Gaurav Soni,31,male,6858,94739,bihar,purnia,primary,laborer,sc,no,rural,employed,married,no,no,no,no
+USR0665,Sneha Nair,29,female,10158,145351,west bengal,asansol,10th,farmer,obc,no,rural,self-employed,married,yes,no,no,yes
+USR0666,Rakesh Reddy,41,male,97750,1346534,rajasthan,udaipur,12th,private employee,st,no,urban,employed,married,no,no,no,no
+USR0667,Anita Kulkarni,36,female,47239,633671,gujarat,vadodara,post graduate,private employee,ews,no,rural,employed,married,no,no,no,no
+USR0668,Aryan Mishra,62,male,17112,241869,madhya pradesh,gwalior,primary,retired,obc,no,rural,retired,married,no,no,no,no
+USR0669,Divya Gupta,18,female,0,227148,kerala,kochi,10th,student,sc,no,rural,student,single,no,yes,no,no
+USR0670,Rahul Singh,56,male,0,88945,andhra pradesh,nellore,10th,unemployed,obc,yes,urban,unemployed,divorced,no,no,yes,no
+USR0671,Sunita Patel,58,female,56945,780005,punjab,moga,graduate,government employee,obc,no,urban,employed,married,no,no,no,no
+USR0672,Dhruv Gandhi,18,male,0,596773,maharashtra,aurangabad,10th,student,sc,no,rural,student,married,no,yes,no,no
+USR0673,Kirti Singh,34,female,11406,162232,uttar pradesh,agra,primary,farmer,obc,no,rural,self-employed,divorced,yes,no,no,no
+USR0674,Amit Saxena,34,male,8834,145139,tamil nadu,coimbatore,illiterate,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0675,Anjali Gill,18,female,0,611711,karnataka,davangere,10th,student,obc,no,rural,student,single,no,yes,no,no
+USR0676,Dinesh Patel,28,male,71231,914622,bihar,darbhanga,graduate,government employee,general,yes,rural,employed,married,no,no,no,no
+USR0677,Meena Kulkarni,23,female,0,377796,west bengal,siliguri,graduate,student,general,no,urban,student,single,no,yes,no,no
+USR0678,Amit Kumar,66,male,18232,242079,rajasthan,ajmer,10th,retired,sc,no,rural,retired,married,no,no,no,no
+USR0679,Kavya Gowda,54,female,11773,166593,gujarat,rajkot,primary,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0680,Aditya Gandhi,59,male,69747,911905,madhya pradesh,gwalior,post graduate,private employee,obc,no,rural,employed,divorced,no,no,no,yes
+USR0681,Diya More,50,female,70799,1049356,kerala,alappuzha,graduate,private employee,sc,no,urban,employed,married,no,no,no,no
+USR0682,Karan Singh,23,male,0,436292,andhra pradesh,guntur,graduate,student,obc,no,urban,student,single,no,yes,no,no
+USR0683,Shweta Banerjee,32,female,7085,126135,punjab,pathankot,12th,farmer,general,no,rural,self-employed,married,yes,no,no,yes
+USR0684,Rakesh Mehta,47,male,38517,516674,maharashtra,mumbai,post graduate,government employee,general,no,rural,employed,married,no,no,no,no
+USR0685,Sneha Verma,21,female,0,270172,uttar pradesh,meerut,12th,student,obc,no,rural,student,single,no,yes,no,no
+USR0686,Vikram Shinde,50,male,32030,458276,tamil nadu,coimbatore,12th,private employee,obc,no,urban,employed,married,no,no,no,yes
+USR0687,Jyoti Jha,36,female,75156,1024077,karnataka,mangalore,post graduate,business owner,general,no,rural,self-employed,married,no,no,no,no
+USR0688,Rahul Dubey,34,male,0,170639,bihar,purnia,12th,unemployed,obc,yes,rural,unemployed,divorced,no,no,no,no
+USR0689,Jyoti Gowda,50,female,95967,1284870,west bengal,darjeeling,12th,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0690,Vivaan Sen,46,male,85482,1122301,rajasthan,udaipur,post graduate,private employee,obc,yes,urban,employed,divorced,no,no,no,no
+USR0691,Sapna Reddy,34,female,12264,178533,gujarat,bhavnagar,illiterate,farmer,obc,no,rural,self-employed,married,yes,no,no,yes
+USR0692,Deepak Prasad,57,male,6309,80883,madhya pradesh,sagar,12th,laborer,general,no,urban,self-employed,married,no,no,yes,no
+USR0693,Geeta Pillai,23,female,0,382701,kerala,kozhikode,graduate,student,sc,no,rural,student,single,no,yes,no,yes
+USR0694,Pankaj Gowda,49,male,8476,121771,andhra pradesh,guntur,illiterate,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0695,Anjali Verma,48,female,73194,912068,punjab,amritsar,graduate,private employee,obc,yes,rural,employed,married,no,no,no,no
+USR0696,Rahul Das,35,male,4238,82949,maharashtra,pune,illiterate,farmer,sc,no,rural,self-employed,married,yes,no,no,yes
+USR0697,Riya Rao,44,female,57879,799136,uttar pradesh,lucknow,12th,private employee,obc,no,rural,employed,single,no,no,no,no
+USR0698,Dev Banerjee,21,male,0,272055,tamil nadu,coimbatore,12th,student,general,yes,rural,student,single,no,yes,no,no
+USR0699,Rekha Nair,53,female,10735,158581,karnataka,dharwad,primary,farmer,sc,no,urban,self-employed,married,yes,no,no,no
+USR0700,Karan Rao,37,male,0,135027,bihar,darbhanga,graduate,unemployed,st,no,urban,unemployed,married,no,no,no,no
+USR0701,Meena Mehta,32,female,0,176387,west bengal,durgapur,post graduate,unemployed,ews,no,rural,unemployed,married,no,no,no,no
+USR0702,Harish Jha,55,male,9060,134212,rajasthan,jaipur,illiterate,farmer,sc,no,rural,self-employed,married,yes,no,no,yes
+USR0703,Pooja Das,29,female,19968,322023,gujarat,vadodara,post graduate,private employee,st,no,urban,employed,married,no,no,no,no
+USR0704,Rajesh Gandhi,18,male,0,525047,madhya pradesh,bhopal,10th,student,obc,no,rural,student,single,no,yes,no,no
+USR0705,Geeta Banerjee,18,female,0,108312,kerala,trivandrum,primary,unemployed,obc,no,rural,unemployed,single,no,no,no,no
+USR0706,Pranav Gupta,49,male,7345,106368,andhra pradesh,nellore,primary,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR0707,Sneha Shah,20,female,0,346822,punjab,jalandhar,12th,student,obc,no,rural,student,married,no,yes,no,no
+USR0708,Atharva Deshmukh,66,male,18049,238965,maharashtra,amravati,10th,retired,general,no,urban,retired,married,no,no,no,no
+USR0709,Komal Sharma,18,female,0,177275,uttar pradesh,bareilly,10th,student,sc,no,urban,student,single,no,yes,no,yes
+USR0710,Amit Prasad,65,male,17292,235924,tamil nadu,erode,10th,retired,obc,yes,rural,retired,widowed,no,no,no,no
+USR0711,Priya Kumar,43,female,0,148109,karnataka,bengaluru,post graduate,unemployed,obc,no,urban,unemployed,married,no,no,no,no
+USR0712,Pranav Shah,38,male,31315,496659,bihar,gaya,12th,private employee,st,no,urban,employed,married,no,no,no,no
+USR0713,Radha Sinha,31,female,11332,147297,west bengal,malda,illiterate,laborer,st,no,rural,employed,married,no,no,no,yes
+USR0714,Vihaan Joshi,45,male,8083,106049,rajasthan,ajmer,primary,laborer,obc,no,urban,self-employed,married,no,no,yes,no
+USR0715,Shweta Gowda,39,female,70436,938701,gujarat,surat,primary,business owner,sc,no,rural,self-employed,married,no,no,no,no
+USR0716,Vijay Jha,56,male,6895,98163,madhya pradesh,ujjain,illiterate,laborer,obc,no,urban,employed,married,no,no,yes,no
+USR0717,Jyoti Kumar,41,female,47697,611518,kerala,kozhikode,graduate,government employee,sc,no,rural,employed,married,no,no,no,no
+USR0718,Dhruv Chaudhary,42,male,10117,128210,andhra pradesh,guntur,primary,laborer,obc,no,rural,employed,married,no,no,no,yes
+USR0719,Priya Kulkarni,34,female,29312,538581,punjab,pathankot,post graduate,private employee,ews,no,rural,employed,married,no,no,no,no
+USR0720,Manoj More,39,male,4118,97587,maharashtra,pune,10th,farmer,sc,yes,rural,self-employed,married,yes,no,yes,no
+USR0721,Rekha More,44,female,79112,1027943,uttar pradesh,aligarh,post graduate,government employee,obc,no,rural,employed,married,no,no,no,no
+USR0722,Ajay Prasad,18,male,15404,324626,tamil nadu,chennai,12th,private employee,sc,no,urban,employed,single,no,no,no,no
+USR0723,Aaradhya Dubey,19,female,9702,131555,karnataka,belgaum,10th,laborer,obc,no,rural,employed,single,no,no,no,no
+USR0724,Sunil Sharma,51,male,0,135334,bihar,purnia,post graduate,unemployed,obc,no,rural,unemployed,married,no,no,no,no
+USR0725,Radha Iyer,42,female,0,76333,west bengal,malda,post graduate,unemployed,sc,no,rural,unemployed,married,no,no,yes,no
+USR0726,Harish Singh,37,male,54498,922172,rajasthan,udaipur,illiterate,business owner,obc,no,urban,self-employed,married,no,no,no,yes
+USR0727,Aaradhya Shinde,40,female,14809,193569,gujarat,rajkot,primary,farmer,general,yes,rural,self-employed,married,yes,no,no,no
+USR0728,Rajesh Chatterjee,45,male,11451,144636,madhya pradesh,ujjain,illiterate,laborer,st,no,rural,self-employed,married,no,no,no,no
+USR0729,Anita Soni,31,female,11356,151792,kerala,kochi,12th,laborer,sc,no,rural,employed,married,no,no,no,no
+USR0730,Sanjay Patel,28,male,5902,118365,andhra pradesh,vijayawada,primary,farmer,obc,no,urban,self-employed,married,yes,no,yes,yes
+USR0731,Kiran Das,42,female,0,145688,punjab,pathankot,10th,unemployed,sc,no,rural,unemployed,married,no,no,no,no
+USR0732,Krishna Gowda,25,male,56409,764840,maharashtra,mumbai,12th,business owner,sc,no,rural,self-employed,married,no,no,no,no
+USR0733,Pooja Joshi,46,female,80847,1200676,uttar pradesh,lucknow,10th,business owner,general,no,urban,self-employed,married,no,no,no,no
+USR0734,Pranav Patil,18,male,0,439327,tamil nadu,vellore,10th,student,general,no,urban,student,single,no,yes,no,no
+USR0735,Neha More,55,female,35865,456033,karnataka,davangere,post graduate,private employee,obc,no,urban,employed,married,no,no,no,no
+USR0736,Ajay Gupta,47,male,106895,1446397,bihar,darbhanga,12th,private employee,obc,no,urban,employed,married,no,no,no,no
+USR0737,Jyoti Gill,43,female,78234,1065113,west bengal,darjeeling,12th,business owner,st,no,urban,self-employed,married,no,no,no,no
+USR0738,Suresh Soni,54,male,9084,121005,rajasthan,jodhpur,primary,laborer,obc,no,rural,self-employed,married,no,no,no,no
+USR0739,Aanya Reddy,64,female,18238,236884,gujarat,bhavnagar,primary,retired,ews,no,urban,retired,married,no,no,no,no
+USR0740,Vijay Patel,55,male,0,150165,madhya pradesh,satna,post graduate,unemployed,general,no,rural,unemployed,married,no,no,no,yes
+USR0741,Rashmi Chatterjee,18,female,0,690446,kerala,trivandrum,10th,student,obc,no,rural,student,single,no,yes,no,no
+USR0742,Rohit Shah,20,male,0,156582,andhra pradesh,guntur,12th,student,sc,no,rural,student,single,no,yes,no,no
+USR0743,Aarti Saxena,30,female,7399,106477,punjab,moga,illiterate,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR0744,Shaurya Soni,40,male,6286,81818,maharashtra,thane,10th,laborer,st,no,rural,employed,single,no,no,yes,no
+USR0745,Geeta Shah,47,female,0,126912,uttar pradesh,lucknow,graduate,unemployed,obc,no,urban,unemployed,married,no,no,no,no
+USR0746,Dinesh Mukherjee,29,male,7942,100905,tamil nadu,trichy,illiterate,laborer,ews,no,urban,employed,married,no,no,yes,no
+USR0747,Anika Nair,42,female,8270,134260,karnataka,davangere,10th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0748,Kabir Pandey,28,male,14373,195100,bihar,muzaffarpur,10th,farmer,sc,no,rural,self-employed,married,yes,no,no,no
+USR0749,Kavya Gandhi,30,female,47440,609602,west bengal,kharagpur,post graduate,private employee,general,no,rural,employed,married,no,no,no,no
+USR0750,Ramesh Deshmukh,18,male,6080,79564,rajasthan,udaipur,10th,laborer,obc,no,rural,employed,single,no,no,yes,no
+USR0751,Jyoti Jha,26,female,13374,188968,gujarat,junagadh,10th,farmer,obc,no,rural,self-employed,divorced,yes,no,no,yes
+USR0752,Dhruv Tiwari,19,male,0,223769,madhya pradesh,dewas,12th,student,general,no,urban,student,single,no,yes,no,yes
+USR0753,Rekha Verma,25,female,11789,153968,kerala,alappuzha,12th,laborer,general,no,rural,employed,married,no,no,no,no
+USR0754,Dev Shah,55,male,0,131982,andhra pradesh,vijayawada,12th,unemployed,sc,no,rural,unemployed,married,no,no,no,no
+USR0755,Sheetal Verma,25,female,6087,84990,punjab,amritsar,12th,laborer,obc,no,rural,employed,married,no,no,yes,no
+USR0756,Pankaj Reddy,79,male,5238,96257,maharashtra,solapur,primary,retired,obc,no,rural,retired,married,no,no,no,no
+USR0757,Poonam Mukherjee,47,female,7432,95414,uttar pradesh,lucknow,primary,laborer,obc,no,rural,self-employed,married,no,no,yes,no
+USR0758,Aryan Mishra,42,male,73019,945441,tamil nadu,trichy,graduate,government employee,obc,no,rural,employed,married,no,no,no,no
+USR0759,Jyoti Sinha,27,female,0,177996,karnataka,bengaluru,graduate,unemployed,ews,no,rural,unemployed,married,no,no,no,yes
+USR0760,Dhruv Gowda,50,male,12061,167678,bihar,purnia,12th,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR0761,Babita Chatterjee,31,female,62775,885587,west bengal,malda,graduate,private employee,st,no,rural,employed,married,no,no,no,no
+USR0762,Sandeep Rao,41,male,15761,303303,rajasthan,udaipur,graduate,private employee,st,no,rural,employed,married,no,no,no,no
+USR0763,Preeti Mishra,78,female,20705,280258,gujarat,ahmedabad,primary,retired,st,no,rural,retired,married,no,no,no,no
+USR0764,Shaurya Gandhi,38,male,65967,876054,madhya pradesh,dewas,post graduate,business owner,general,no,rural,self-employed,married,no,no,no,yes
+USR0765,Geeta Verma,57,female,16052,326480,kerala,alappuzha,post graduate,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0766,Harish Mehta,29,male,49541,679334,andhra pradesh,nellore,12th,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0767,Rashmi Nair,39,female,7758,110990,punjab,jalandhar,primary,farmer,ews,no,rural,self-employed,married,yes,no,no,no
+USR0768,Aditya Verma,66,male,12583,168263,maharashtra,solapur,10th,retired,obc,no,rural,retired,widowed,no,no,no,no
+USR0769,Rekha Chaudhary,30,female,0,159595,uttar pradesh,prayagraj,post graduate,unemployed,general,no,rural,unemployed,married,no,no,no,no
+USR0770,Sanjay Shinde,67,male,7028,110868,tamil nadu,salem,12th,farmer,st,no,rural,self-employed,widowed,yes,no,no,yes
+USR0771,Sapna Nair,50,female,92189,1264906,karnataka,dharwad,graduate,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0772,Krishna Nair,31,male,7160,125133,bihar,gaya,primary,farmer,st,yes,rural,self-employed,married,yes,no,no,no
+USR0773,Priya Pandey,49,female,10851,176289,west bengal,darjeeling,primary,farmer,sc,no,rural,self-employed,married,yes,no,no,no
+USR0774,Dinesh Chaudhary,54,male,6554,91558,rajasthan,sikar,12th,laborer,obc,no,rural,employed,married,no,no,yes,no
+USR0775,Anika Patil,49,female,0,99857,gujarat,ahmedabad,illiterate,unemployed,sc,no,urban,unemployed,married,no,no,yes,no
+USR0776,Harish Prasad,18,male,0,374682,madhya pradesh,dewas,10th,student,ews,no,urban,student,married,no,yes,no,yes
+USR0777,Rashmi Gill,29,female,53844,736517,kerala,kollam,12th,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0778,Kabir Deshmukh,36,male,99202,1275699,andhra pradesh,guntur,12th,private employee,st,no,rural,employed,married,no,no,no,no
+USR0779,Swati Gandhi,38,female,0,119216,punjab,amritsar,graduate,unemployed,sc,no,urban,unemployed,married,no,no,yes,yes
+USR0780,Dinesh Chatterjee,49,male,12804,201872,maharashtra,nashik,illiterate,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR0781,Sapna Banerjee,42,female,7341,136211,uttar pradesh,aligarh,10th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0782,Rohit Chaudhary,19,male,7486,102358,tamil nadu,madurai,12th,laborer,general,no,rural,employed,single,no,no,no,no
+USR0783,Isha Shah,45,female,0,99243,karnataka,hubli,12th,unemployed,ews,no,urban,unemployed,married,no,no,no,yes
+USR0784,Aarav Mukherjee,49,male,29422,376616,bihar,gaya,12th,private employee,sc,no,rural,employed,married,no,no,no,no
+USR0785,Kavya Mukherjee,48,female,48938,688345,west bengal,kolkata,graduate,government employee,sc,no,urban,employed,married,no,no,no,no
+USR0786,Karan Pillai,56,male,35252,506937,rajasthan,udaipur,graduate,private employee,general,no,rural,employed,married,no,no,no,no
+USR0787,Pooja Yadav,52,female,4393,77571,gujarat,jamnagar,primary,farmer,obc,no,rural,self-employed,married,yes,no,yes,no
+USR0788,Aryan More,46,male,0,76669,madhya pradesh,jabalpur,primary,unemployed,st,no,rural,unemployed,single,no,no,yes,no
+USR0789,Ananya Mukherjee,38,female,13824,187773,kerala,kozhikode,10th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0790,Dinesh Yadav,18,male,0,119573,andhra pradesh,tirupati,10th,unemployed,sc,no,rural,unemployed,married,no,no,no,yes
+USR0791,Kavya Joshi,46,female,11838,156467,punjab,hoshiarpur,12th,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR0792,Vijay Tiwari,43,male,69256,1038815,maharashtra,aurangabad,12th,business owner,sc,no,urban,self-employed,married,no,no,no,no
+USR0793,Preeti Saxena,44,female,84792,1208068,uttar pradesh,aligarh,12th,business owner,sc,no,urban,self-employed,married,no,no,no,no
+USR0794,Dev Patel,20,male,0,303154,tamil nadu,trichy,12th,student,st,yes,urban,student,married,no,yes,no,no
+USR0795,Aanya Tiwari,23,female,9771,124613,karnataka,dharwad,10th,laborer,sc,no,urban,employed,single,no,no,no,no
+USR0796,Dev Verma,55,male,10184,133934,bihar,bhagalpur,primary,farmer,obc,no,rural,self-employed,married,yes,no,no,yes
+USR0797,Komal Mukherjee,39,female,6314,90944,west bengal,darjeeling,10th,farmer,ews,no,rural,self-employed,married,yes,no,yes,no
+USR0798,Alok Shah,50,male,73192,1067346,rajasthan,sikar,graduate,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0799,Neha Sinha,40,female,11443,183633,gujarat,vadodara,12th,farmer,sc,no,rural,self-employed,married,yes,no,no,no
+USR0800,Ishaan Deshmukh,40,male,42769,668191,madhya pradesh,indore,primary,business owner,obc,no,rural,self-employed,married,no,no,no,no
+USR0801,Aadhya Gill,54,female,68097,936901,kerala,kannur,post graduate,private employee,general,no,urban,employed,married,no,no,no,no
+USR0802,Sai Chaudhary,32,male,6666,125484,andhra pradesh,kakinada,10th,farmer,ews,yes,rural,self-employed,married,yes,no,no,no
+USR0803,Ananya Sen,41,female,13236,200538,punjab,bathinda,illiterate,farmer,ews,no,rural,self-employed,married,yes,no,no,no
+USR0804,Ajay Sinha,33,male,61640,793632,maharashtra,thane,graduate,private employee,sc,no,rural,employed,married,no,no,no,no
+USR0805,Kavya Sharma,33,female,53026,728575,uttar pradesh,bareilly,illiterate,business owner,general,no,rural,self-employed,single,no,no,no,no
+USR0806,Ishaan Sinha,35,male,59436,809474,tamil nadu,tirunelveli,12th,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0807,Shweta Sen,43,female,0,69660,karnataka,mangalore,graduate,unemployed,st,no,urban,unemployed,married,no,no,yes,yes
+USR0808,Anil Saxena,32,male,56119,767918,bihar,gaya,12th,business owner,st,no,rural,self-employed,married,no,no,no,no
+USR0809,Neha Gill,58,female,0,165879,west bengal,siliguri,10th,unemployed,obc,no,rural,unemployed,married,no,no,no,no
+USR0810,Sanjay Gowda,26,male,0,83812,rajasthan,alwar,post graduate,unemployed,obc,no,urban,unemployed,married,no,no,yes,yes
+USR0811,Anjali Kulkarni,37,female,11732,159239,gujarat,ahmedabad,primary,laborer,obc,no,rural,employed,married,no,no,no,no
+USR0812,Sai Chatterjee,33,male,0,74511,madhya pradesh,dewas,post graduate,unemployed,obc,no,rural,unemployed,married,no,no,yes,yes
+USR0813,Prisha Gowda,61,female,7112,105740,kerala,palakkad,10th,retired,obc,no,rural,retired,married,no,no,no,no
+USR0814,Deepak Singh,42,male,0,105959,andhra pradesh,guntur,primary,unemployed,obc,yes,urban,unemployed,married,no,no,yes,no
+USR0815,Divya Shinde,55,female,10929,158832,punjab,patiala,illiterate,farmer,ews,no,rural,self-employed,divorced,yes,no,no,yes
+USR0816,Vikram Dubey,18,male,0,362050,maharashtra,thane,10th,student,ews,no,rural,student,single,no,yes,no,no
+USR0817,Priya Tiwari,44,female,36061,665365,uttar pradesh,bareilly,graduate,business owner,obc,no,urban,self-employed,married,no,no,no,no
+USR0818,Yash Das,53,male,8652,119704,tamil nadu,coimbatore,primary,laborer,st,no,urban,employed,married,no,no,yes,no
+USR0819,Sneha Joshi,41,female,0,156531,karnataka,bellary,illiterate,unemployed,general,no,urban,unemployed,married,no,no,no,no
+USR0820,Gaurav Yadav,55,male,10884,176396,bihar,patna,primary,farmer,sc,no,rural,self-employed,married,yes,no,no,no
+USR0821,Sheetal Kumar,32,female,74576,1042438,west bengal,durgapur,graduate,government employee,obc,no,rural,employed,divorced,no,no,no,no
+USR0822,Vikram Tiwari,61,male,59017,787925,rajasthan,bikaner,graduate,business owner,st,no,rural,self-employed,married,no,no,no,no
+USR0823,Divya Prasad,74,female,0,164686,gujarat,gandhinagar,post graduate,unemployed,obc,no,urban,unemployed,widowed,no,no,no,no
+USR0824,Aditya Yadav,34,male,6849,95321,madhya pradesh,indore,12th,laborer,sc,no,rural,employed,married,no,no,yes,no
+USR0825,Pooja Bhat,33,female,13037,191418,kerala,thrissur,12th,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR0826,Ajay Kumar,61,male,14293,190285,andhra pradesh,kakinada,graduate,retired,sc,no,urban,retired,married,no,no,no,no
+USR0827,Geeta Kumar,63,female,10025,156203,punjab,pathankot,illiterate,retired,obc,no,urban,retired,married,no,no,no,no
+USR0828,Karan Iyer,32,male,40252,694574,maharashtra,thane,12th,business owner,obc,no,urban,self-employed,married,no,no,no,no
+USR0829,Shweta Mehta,33,female,0,91535,uttar pradesh,bareilly,graduate,unemployed,obc,no,urban,unemployed,married,no,no,yes,no
+USR0830,Amit Saxena,35,male,0,74446,tamil nadu,madurai,primary,unemployed,general,no,urban,unemployed,single,no,no,yes,no
+USR0831,Sheetal Prasad,19,female,0,226889,karnataka,bengaluru,12th,student,st,no,urban,student,single,no,yes,no,no
+USR0832,Dev Shah,26,male,64559,1026661,bihar,muzaffarpur,primary,business owner,general,yes,rural,self-employed,married,no,no,no,yes
+USR0833,Kirti Yadav,24,female,0,714840,west bengal,howrah,graduate,student,ews,no,rural,student,married,no,yes,no,yes
+USR0834,Ansh Gowda,28,male,69230,900047,rajasthan,jodhpur,illiterate,business owner,obc,no,rural,self-employed,divorced,no,no,no,no
+USR0835,Riya Mehta,39,female,14807,224862,gujarat,gandhinagar,primary,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0836,Abhishek Mukherjee,43,male,5992,94542,madhya pradesh,bhopal,10th,farmer,obc,no,rural,self-employed,married,yes,no,yes,no
+USR0837,Sunita Sharma,63,female,9147,128532,kerala,alappuzha,illiterate,retired,ews,no,urban,retired,married,no,no,no,no
+USR0838,Pranav Iyer,25,male,0,95340,andhra pradesh,kurnool,10th,unemployed,general,no,urban,unemployed,married,no,no,yes,no
+USR0839,Riya Banerjee,54,female,70540,1022804,punjab,moga,graduate,private employee,sc,no,urban,employed,married,no,no,no,no
+USR0840,Karan Tiwari,36,male,0,167808,maharashtra,aurangabad,illiterate,unemployed,ews,no,urban,unemployed,married,no,no,no,no
+USR0841,Poonam Tiwari,39,female,9286,149572,uttar pradesh,bareilly,primary,farmer,sc,no,rural,self-employed,married,yes,no,no,no
+USR0842,Sunil Reddy,50,male,108952,1413635,tamil nadu,chennai,12th,private employee,general,no,rural,employed,married,no,no,no,no
+USR0843,Pooja Mukherjee,23,female,0,197919,karnataka,mangalore,graduate,student,obc,no,urban,student,single,no,yes,no,no
+USR0844,Karan Bhat,45,male,40971,563326,bihar,ara,graduate,private employee,general,yes,rural,employed,married,no,no,no,yes
+USR0845,Nisha Gandhi,42,female,8670,115208,west bengal,kharagpur,illiterate,farmer,obc,no,urban,self-employed,married,yes,no,no,no
+USR0846,Ajay Singh,47,male,24103,432415,rajasthan,jaipur,12th,private employee,general,no,rural,employed,married,no,no,no,no
+USR0847,Sapna Gandhi,44,female,10041,139396,gujarat,junagadh,12th,laborer,obc,no,urban,employed,married,no,no,no,no
+USR0848,Dev Verma,76,male,19276,248728,madhya pradesh,bhopal,10th,retired,ews,no,rural,retired,married,no,no,no,no
+USR0849,Aanya Kulkarni,30,female,5229,90031,kerala,trivandrum,10th,farmer,obc,no,rural,self-employed,married,yes,no,yes,yes
+USR0850,Deepak Reddy,32,male,91563,1227098,andhra pradesh,guntur,12th,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0851,Priyanka Deshmukh,30,female,64600,817232,punjab,hoshiarpur,post graduate,government employee,general,no,rural,employed,single,no,no,no,no
+USR0852,Sai Gupta,31,male,14985,203984,maharashtra,amravati,illiterate,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0853,Poonam Sinha,30,female,94509,1249998,uttar pradesh,meerut,post graduate,government employee,general,no,urban,employed,married,no,no,no,no
+USR0854,Sandeep Nair,57,male,43996,594368,tamil nadu,trichy,graduate,government employee,obc,no,urban,employed,married,no,no,no,no
+USR0855,Sneha Yadav,61,female,11128,152277,karnataka,mysore,12th,retired,general,no,rural,retired,married,no,no,no,no
+USR0856,Rohit Banerjee,31,male,81574,1086375,bihar,bhagalpur,graduate,private employee,general,no,rural,employed,married,no,no,no,no
+USR0857,Divya Das,27,female,13732,192867,west bengal,siliguri,primary,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0858,Aryan Chatterjee,47,male,13424,188532,rajasthan,jodhpur,illiterate,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR0859,Aarti Yadav,31,female,10056,129042,gujarat,rajkot,10th,laborer,ews,no,urban,self-employed,married,no,no,no,no
+USR0860,Dhruv Sinha,49,male,7394,98890,madhya pradesh,satna,primary,laborer,obc,no,rural,self-employed,married,no,no,yes,no
+USR0861,Divya Mishra,43,female,5261,84320,kerala,trivandrum,10th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0862,Rahul Shinde,18,male,0,108235,andhra pradesh,vijayawada,10th,student,obc,no,urban,student,single,no,yes,yes,yes
+USR0863,Prisha Yadav,63,female,79312,1194371,punjab,bathinda,12th,business owner,obc,no,urban,self-employed,married,no,no,no,no
+USR0864,Dinesh Shah,66,male,0,176970,maharashtra,aurangabad,graduate,unemployed,general,no,rural,unemployed,married,no,no,no,no
+USR0865,Kavya Tiwari,30,female,9888,142176,uttar pradesh,aligarh,12th,farmer,sc,no,urban,self-employed,divorced,yes,no,no,no
+USR0866,Alok Mehta,34,male,0,136820,tamil nadu,salem,10th,unemployed,obc,no,urban,unemployed,married,no,no,no,no
+USR0867,Poonam Mishra,44,female,89273,1182239,karnataka,mysore,graduate,private employee,general,no,rural,employed,married,no,no,no,no
+USR0868,Kabir Dubey,45,male,9988,129578,bihar,darbhanga,10th,laborer,ews,no,rural,employed,married,no,no,no,no
+USR0869,Priyanka Shah,49,female,15084,214089,west bengal,kolkata,post graduate,private employee,ews,no,urban,employed,married,no,no,no,no
+USR0870,Kabir Patel,70,male,11446,161509,rajasthan,ajmer,post graduate,retired,obc,no,rural,retired,married,no,no,no,no
+USR0871,Shweta Iyer,37,female,0,118487,gujarat,jamnagar,illiterate,unemployed,st,no,rural,unemployed,single,no,no,no,no
+USR0872,Atharva Kulkarni,28,male,54460,753472,madhya pradesh,jabalpur,12th,private employee,general,no,rural,employed,divorced,no,no,no,no
+USR0873,Prisha Nair,19,female,0,618288,kerala,kannur,12th,student,st,no,rural,student,single,no,yes,no,no
+USR0874,Vikram Gill,29,male,0,160341,andhra pradesh,visakhapatnam,illiterate,unemployed,ews,no,urban,unemployed,married,no,no,no,no
+USR0875,Mamta Pandey,39,female,6063,109163,punjab,bathinda,12th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0876,Aditya Verma,66,male,0,137420,maharashtra,nashik,illiterate,unemployed,obc,no,urban,unemployed,married,no,no,no,no
+USR0877,Aaradhya Jha,32,female,7117,94066,uttar pradesh,lucknow,12th,laborer,st,no,rural,employed,divorced,no,no,yes,no
+USR0878,Abhishek Das,43,male,13892,184636,tamil nadu,coimbatore,primary,farmer,obc,no,rural,self-employed,married,yes,no,no,yes
+USR0879,Aarti Verma,39,female,39123,551060,karnataka,mysore,graduate,private employee,sc,no,urban,employed,single,no,no,no,no
+USR0880,Rohit Joshi,57,male,6797,125086,bihar,patna,primary,farmer,sc,no,rural,self-employed,married,yes,no,no,no
+USR0881,Kirti More,77,female,17642,244564,west bengal,durgapur,12th,retired,sc,no,urban,retired,widowed,no,no,no,yes
+USR0882,Aryan Soni,32,male,4558,93825,rajasthan,alwar,10th,farmer,general,no,rural,self-employed,divorced,yes,no,yes,no
+USR0883,Rashmi Sinha,32,female,83820,1128239,gujarat,rajkot,post graduate,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0884,Deepak Nair,55,male,86633,1078536,madhya pradesh,ujjain,post graduate,government employee,st,no,rural,employed,married,no,no,no,no
+USR0885,Sheetal Sinha,50,female,13647,211822,kerala,kollam,10th,farmer,obc,no,rural,self-employed,single,yes,no,no,yes
+USR0886,Dev Yadav,67,male,20611,267937,andhra pradesh,vijayawada,post graduate,retired,sc,no,urban,retired,widowed,no,no,no,no
+USR0887,Neha Prasad,48,female,0,115662,punjab,pathankot,illiterate,unemployed,general,yes,urban,unemployed,divorced,no,no,yes,no
+USR0888,Krishna Pillai,34,male,7206,113019,maharashtra,solapur,primary,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0889,Poonam Das,48,female,27609,434664,uttar pradesh,kanpur,post graduate,business owner,ews,yes,urban,self-employed,divorced,no,no,no,no
+USR0890,Dhruv Dubey,56,male,13344,201174,tamil nadu,erode,primary,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0891,Anjali Iyer,52,female,0,70484,karnataka,davangere,graduate,unemployed,general,no,rural,unemployed,married,no,no,yes,no
+USR0892,Sanjay Kulkarni,47,male,8359,106533,bihar,ara,primary,laborer,obc,no,rural,employed,married,no,no,no,no
+USR0893,Mamta Verma,56,female,18929,285608,west bengal,howrah,10th,business owner,obc,no,rural,self-employed,married,no,no,no,no
+USR0894,Rakesh Mishra,57,male,13238,208833,rajasthan,jaipur,illiterate,farmer,sc,no,rural,self-employed,single,yes,no,no,no
+USR0895,Sapna Shinde,60,female,8409,112074,gujarat,vadodara,illiterate,retired,obc,no,rural,retired,married,no,no,no,no
+USR0896,Dev Sharma,49,male,12752,202878,madhya pradesh,bhopal,primary,farmer,sc,no,rural,self-employed,married,yes,no,no,no
+USR0897,Shweta Nair,37,female,9587,121977,kerala,palakkad,illiterate,laborer,st,no,rural,employed,married,no,no,no,no
+USR0898,Arjun Sen,42,male,7721,129722,andhra pradesh,nellore,illiterate,farmer,sc,no,rural,self-employed,single,yes,no,no,no
+USR0899,Geeta Verma,58,female,6958,112016,punjab,amritsar,12th,farmer,ews,no,rural,self-employed,married,yes,no,no,no
+USR0900,Manoj Reddy,27,male,12108,178689,maharashtra,pune,primary,farmer,st,no,rural,self-employed,married,yes,no,no,no
+USR0901,Sapna Patil,45,female,56793,914432,uttar pradesh,agra,10th,business owner,obc,no,rural,self-employed,divorced,no,no,no,no
+USR0902,Rajesh Patel,34,male,0,110433,tamil nadu,trichy,graduate,unemployed,obc,no,rural,unemployed,married,no,no,no,no
+USR0903,Ananya Sen,40,female,6174,87262,karnataka,bellary,illiterate,laborer,sc,no,urban,employed,married,no,no,yes,no
+USR0904,Abhishek Prasad,59,male,10302,162723,bihar,begusarai,12th,farmer,ews,no,rural,self-employed,married,yes,no,no,yes
+USR0905,Kiran Tiwari,42,female,0,118821,west bengal,kolkata,10th,unemployed,sc,no,urban,unemployed,married,no,no,yes,no
+USR0906,Rohit Verma,40,male,52672,907118,rajasthan,jodhpur,post graduate,business owner,st,no,rural,self-employed,married,no,no,no,no
+USR0907,Babita Rao,19,female,0,339799,gujarat,jamnagar,12th,student,ews,no,urban,student,single,no,yes,no,yes
+USR0908,Pankaj Patil,51,male,50949,756204,madhya pradesh,sagar,illiterate,business owner,ews,no,urban,self-employed,married,no,no,no,yes
+USR0909,Deepa Kulkarni,49,female,72659,894233,kerala,kozhikode,12th,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0910,Arjun Jha,72,male,23069,297118,andhra pradesh,vijayawada,graduate,retired,st,no,rural,retired,widowed,no,no,no,no
+USR0911,Priyanka Nair,35,female,7906,101747,punjab,patiala,illiterate,laborer,obc,no,rural,employed,married,no,no,no,no
+USR0912,Rakesh Chatterjee,43,male,0,117487,maharashtra,mumbai,10th,unemployed,general,no,rural,unemployed,married,no,no,no,yes
+USR0913,Prisha Gupta,43,female,7882,117956,uttar pradesh,aligarh,illiterate,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0914,Sanjay Joshi,63,male,15976,215085,tamil nadu,chennai,10th,retired,st,no,urban,retired,married,no,no,no,no
+USR0915,Swati Singh,38,female,0,56693,karnataka,belgaum,graduate,unemployed,ews,no,urban,unemployed,married,no,no,yes,no
+USR0916,Ansh Prasad,44,male,6633,88275,bihar,patna,illiterate,laborer,obc,no,urban,employed,married,no,no,yes,no
+USR0917,Poonam Verma,49,female,8205,106655,west bengal,malda,10th,laborer,sc,no,rural,employed,married,no,no,no,no
+USR0918,Suresh Chatterjee,42,male,105842,1353292,rajasthan,sikar,12th,private employee,obc,no,rural,employed,married,no,no,no,yes
+USR0919,Aadhya Chaudhary,33,female,7882,108912,gujarat,junagadh,12th,laborer,sc,no,urban,employed,married,no,no,yes,no
+USR0920,Shaurya Mukherjee,42,male,76136,959093,madhya pradesh,ujjain,post graduate,government employee,general,no,urban,employed,married,no,no,no,no
+USR0921,Priya Mehta,56,female,10858,157556,kerala,kannur,illiterate,farmer,sc,no,rural,self-employed,divorced,yes,no,no,yes
+USR0922,Vihaan Rao,24,male,0,645021,andhra pradesh,vijayawada,graduate,student,st,no,rural,student,married,no,yes,no,no
+USR0923,Pooja Reddy,41,female,0,78251,punjab,hoshiarpur,10th,unemployed,st,yes,urban,unemployed,married,no,no,yes,no
+USR0924,Sandeep Iyer,29,male,59045,833397,maharashtra,nashik,graduate,government employee,sc,no,urban,employed,divorced,no,no,no,yes
+USR0925,Sneha Prasad,57,female,109703,1490597,uttar pradesh,meerut,post graduate,private employee,general,no,rural,employed,married,no,no,no,no
+USR0926,Alok Dubey,18,male,0,492724,tamil nadu,vellore,10th,student,obc,no,rural,student,single,no,yes,no,no
+USR0927,Sunita Iyer,31,female,56204,750522,karnataka,belgaum,graduate,business owner,obc,no,rural,self-employed,married,no,no,no,no
+USR0928,Ishaan Patil,45,male,0,110732,bihar,darbhanga,illiterate,unemployed,obc,no,rural,unemployed,married,no,no,no,no
+USR0929,Isha Mukherjee,63,female,0,101152,west bengal,kolkata,graduate,unemployed,general,yes,rural,unemployed,married,no,no,no,no
+USR0930,Sandeep Dubey,39,male,49367,716284,rajasthan,udaipur,post graduate,government employee,sc,no,rural,employed,married,no,no,no,no
+USR0931,Anika Deshmukh,31,female,0,108311,gujarat,surat,illiterate,unemployed,sc,no,rural,unemployed,married,no,no,no,no
+USR0932,Harish Gupta,68,male,5645,111903,madhya pradesh,sagar,12th,farmer,obc,no,rural,self-employed,widowed,yes,no,no,no
+USR0933,Diya Sen,18,female,0,320906,kerala,kozhikode,10th,student,obc,no,rural,student,single,no,yes,no,no
+USR0934,Sanjay Nair,18,male,0,183020,andhra pradesh,nellore,10th,student,st,no,urban,student,single,no,yes,no,yes
+USR0935,Sapna Nair,46,female,11024,143518,punjab,patiala,10th,laborer,obc,no,rural,employed,divorced,no,no,no,no
+USR0936,Dev Patil,32,male,66407,1003604,maharashtra,amravati,post graduate,business owner,obc,no,rural,self-employed,divorced,no,no,no,yes
+USR0937,Preeti Pillai,24,female,0,535503,uttar pradesh,meerut,graduate,student,general,no,rural,student,married,no,yes,no,no
+USR0938,Manoj More,50,male,10157,130408,tamil nadu,vellore,10th,laborer,st,no,rural,employed,married,no,no,no,no
+USR0939,Deepa Bhat,43,female,87255,1111230,karnataka,davangere,post graduate,government employee,st,no,urban,employed,married,no,no,no,no
+USR0940,Anil Pillai,31,male,12782,176897,bihar,ara,primary,farmer,sc,no,urban,self-employed,married,yes,no,no,no
+USR0941,Kiran Sharma,20,female,8889,124231,west bengal,kolkata,10th,laborer,sc,yes,rural,employed,single,no,no,no,no
+USR0942,Ishaan Pandey,53,male,0,126070,rajasthan,alwar,primary,unemployed,sc,no,rural,unemployed,married,no,no,no,no
+USR0943,Diya Singh,49,female,100732,1290942,gujarat,ahmedabad,graduate,government employee,sc,yes,rural,employed,married,no,no,no,yes
+USR0944,Rahul Singh,38,male,11368,147981,madhya pradesh,ujjain,12th,laborer,general,no,rural,self-employed,married,no,no,no,yes
+USR0945,Preeti Sharma,67,female,24820,312815,kerala,trivandrum,graduate,retired,general,no,urban,retired,married,no,no,no,no
+USR0946,Rohit Sinha,23,male,0,571197,andhra pradesh,visakhapatnam,graduate,student,ews,no,rural,student,single,no,yes,no,no
+USR0947,Preeti Saxena,18,female,0,649104,punjab,bathinda,10th,student,obc,no,urban,student,married,no,yes,no,no
+USR0948,Pankaj Yadav,29,male,10510,151331,maharashtra,amravati,illiterate,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0949,Saanvi Yadav,39,female,13722,191045,uttar pradesh,varanasi,12th,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR0950,Arjun More,43,male,59285,770902,tamil nadu,salem,post graduate,private employee,general,no,urban,employed,married,no,no,no,no
+USR0951,Sapna More,36,female,45898,655143,karnataka,bellary,post graduate,private employee,obc,no,urban,employed,married,no,no,no,no
+USR0952,Krishna Iyer,45,male,36245,591238,bihar,gaya,12th,private employee,sc,no,rural,employed,married,no,no,no,no
+USR0953,Divya More,21,female,0,640071,west bengal,darjeeling,12th,student,obc,no,rural,student,single,no,yes,no,no
+USR0954,Rohit Patil,61,male,17177,234598,rajasthan,ajmer,graduate,retired,obc,no,rural,retired,married,no,no,no,no
+USR0955,Swati Dubey,38,female,58276,992340,gujarat,gandhinagar,primary,business owner,sc,no,urban,self-employed,married,no,no,no,yes
+USR0956,Manoj Kumar,56,male,76668,957592,madhya pradesh,sagar,12th,private employee,st,yes,urban,employed,married,no,no,no,no
+USR0957,Sneha Mishra,45,female,13739,185121,kerala,kochi,12th,farmer,general,no,rural,self-employed,married,yes,no,no,yes
+USR0958,Sanjay Iyer,46,male,48390,747772,andhra pradesh,tirupati,graduate,private employee,obc,no,rural,employed,married,no,no,no,yes
+USR0959,Rekha Mehta,48,female,83461,1205493,punjab,bathinda,primary,business owner,obc,no,urban,self-employed,married,no,no,no,no
+USR0960,Abhishek Shinde,46,male,7546,106537,maharashtra,thane,primary,farmer,st,no,rural,self-employed,married,yes,no,no,no
+USR0961,Aadhya Verma,49,female,70758,1073380,uttar pradesh,varanasi,12th,business owner,obc,no,urban,self-employed,married,no,no,no,no
+USR0962,Vijay Shinde,59,male,56546,837668,tamil nadu,tirunelveli,post graduate,private employee,general,no,rural,employed,married,no,no,no,yes
+USR0963,Rekha Joshi,42,female,47838,803721,karnataka,davangere,12th,business owner,general,no,urban,self-employed,divorced,no,no,no,yes
+USR0964,Dinesh Iyer,50,male,9133,120726,bihar,muzaffarpur,primary,laborer,general,yes,rural,self-employed,married,no,no,no,no
+USR0965,Jyoti Mishra,38,female,0,181804,west bengal,howrah,10th,unemployed,st,no,rural,unemployed,married,no,no,no,no
+USR0966,Vivaan Kulkarni,61,male,5997,110248,rajasthan,ajmer,graduate,retired,sc,no,urban,retired,married,no,no,yes,yes
+USR0967,Kiran Yadav,29,female,108495,1362098,gujarat,ahmedabad,post graduate,private employee,sc,no,urban,employed,married,no,no,no,yes
+USR0968,Aryan Verma,67,male,15296,196746,madhya pradesh,satna,illiterate,retired,sc,no,urban,retired,married,no,no,no,no
+USR0969,Meena Gandhi,39,female,0,146011,kerala,kozhikode,graduate,unemployed,obc,no,rural,unemployed,married,no,no,no,no
+USR0970,Sai Das,18,male,0,178047,andhra pradesh,guntur,10th,student,ews,no,urban,student,single,no,yes,no,no
+USR0971,Diya Shah,41,female,59754,889273,punjab,bathinda,illiterate,business owner,obc,no,urban,self-employed,married,no,no,no,no
+USR0972,Aditya Mehta,29,male,6774,91972,maharashtra,pune,illiterate,farmer,ews,no,rural,self-employed,married,yes,no,yes,no
+USR0973,Priya Nair,52,female,6916,111274,uttar pradesh,prayagraj,10th,farmer,ews,no,rural,self-employed,married,yes,no,no,no
+USR0974,Sanjay Kulkarni,30,male,61550,910301,tamil nadu,erode,graduate,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0975,Riya Singh,33,female,11108,166031,karnataka,davangere,primary,farmer,obc,no,rural,self-employed,divorced,yes,no,no,no
+USR0976,Aditya Sinha,18,male,0,580406,bihar,muzaffarpur,10th,student,general,no,urban,student,single,no,yes,no,no
+USR0977,Deepa Chaudhary,33,female,11744,147641,west bengal,kharagpur,10th,laborer,obc,no,rural,self-employed,married,no,no,no,no
+USR0978,Krishna Mehta,18,male,0,579518,rajasthan,bikaner,10th,student,obc,no,rural,student,single,no,yes,no,no
+USR0979,Divya Gowda,18,female,63918,944549,gujarat,junagadh,post graduate,private employee,obc,no,rural,employed,single,no,no,no,no
+USR0980,Harish Yadav,51,male,90692,1213358,madhya pradesh,dewas,graduate,private employee,obc,no,rural,employed,married,no,no,no,no
+USR0981,Poonam Das,51,female,4881,74496,kerala,kozhikode,10th,farmer,obc,no,rural,self-employed,married,yes,no,yes,yes
+USR0982,Kabir Das,46,male,39195,552254,andhra pradesh,guntur,12th,private employee,sc,no,urban,employed,married,no,no,no,yes
+USR0983,Swati Kumar,25,female,11713,186589,punjab,moga,illiterate,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR0984,Rahul Yadav,39,male,10551,158049,maharashtra,solapur,primary,farmer,st,no,rural,self-employed,married,yes,no,no,no
+USR0985,Aadhya Tiwari,39,female,7816,113301,uttar pradesh,aligarh,illiterate,laborer,obc,no,rural,self-employed,married,no,no,no,no
+USR0986,Abhishek Mukherjee,22,male,0,86196,tamil nadu,vellore,primary,unemployed,obc,yes,rural,unemployed,single,no,no,yes,no
+USR0987,Kavya Patil,62,female,6141,92245,karnataka,belgaum,12th,retired,st,no,rural,retired,married,no,no,yes,no
+USR0988,Aditya Tiwari,53,male,7317,98030,bihar,gaya,illiterate,laborer,general,no,rural,employed,married,no,no,yes,no
+USR0989,Aanya Shah,36,female,30198,540615,west bengal,kharagpur,post graduate,private employee,sc,no,rural,employed,married,no,no,no,no
+USR0990,Pankaj Chaudhary,40,male,104692,1385867,rajasthan,jodhpur,post graduate,government employee,obc,no,rural,employed,divorced,no,no,no,no
+USR0991,Priya Sinha,43,female,51924,653532,gujarat,junagadh,graduate,private employee,general,no,urban,employed,married,no,no,no,no
+USR0992,Ramesh Patil,18,male,0,277410,madhya pradesh,bhopal,10th,student,general,no,rural,student,single,no,yes,no,yes
+USR0993,Ananya Pandey,36,female,12765,169377,kerala,palakkad,illiterate,farmer,ews,no,rural,self-employed,married,yes,no,no,no
+USR0994,Abhishek Sen,29,male,10107,133793,andhra pradesh,rajahmundry,10th,farmer,general,no,rural,self-employed,single,yes,no,no,no
+USR0995,Meena Shah,24,female,0,282864,punjab,pathankot,graduate,student,st,no,urban,student,married,no,yes,no,no
+USR0996,Rohit Reddy,35,male,82376,1179848,maharashtra,thane,10th,business owner,sc,no,urban,self-employed,married,no,no,no,no
+USR0997,Divya Deshmukh,66,female,6498,107788,uttar pradesh,varanasi,post graduate,retired,obc,no,rural,retired,widowed,no,no,no,yes
+USR0998,Vikram Nair,49,male,98211,1281935,tamil nadu,salem,post graduate,private employee,general,no,urban,employed,married,no,no,no,no
+USR0999,Nisha Gill,31,female,9896,132888,karnataka,davangere,12th,laborer,ews,no,rural,employed,married,no,no,no,no
+USR1000,Ansh Pandey,48,male,11412,155907,bihar,bhagalpur,illiterate,laborer,obc,yes,rural,employed,married,no,no,no,no
+USR1001,Poonam Chaudhary,60,female,19794,269630,west bengal,siliguri,10th,retired,obc,no,urban,retired,married,no,no,no,no
+USR1002,Vikram Sharma,53,male,45765,697558,rajasthan,ajmer,12th,business owner,st,no,urban,self-employed,married,no,no,no,no
+USR1003,Sunita Banerjee,40,female,35855,681291,gujarat,surat,primary,business owner,sc,no,rural,self-employed,married,no,no,no,no
+USR1004,Vikram Mukherjee,30,male,97611,1219024,madhya pradesh,ujjain,graduate,private employee,obc,no,urban,employed,married,no,no,no,no
+USR1005,Kiran Gowda,50,female,0,171612,kerala,thrissur,12th,unemployed,general,no,urban,unemployed,married,no,no,no,no
+USR1006,Ramesh Gill,45,male,9426,124834,andhra pradesh,guntur,12th,laborer,ews,no,urban,employed,married,no,no,no,no
+USR1007,Sheetal Bhat,53,female,36818,611056,punjab,ludhiana,12th,private employee,obc,no,urban,employed,married,no,no,no,yes
+USR1008,Vijay Saxena,49,male,0,170001,maharashtra,thane,primary,unemployed,obc,no,rural,unemployed,divorced,no,no,no,no
+USR1009,Anika Patil,55,female,0,170895,uttar pradesh,kanpur,primary,unemployed,obc,no,rural,unemployed,married,no,no,no,no
+USR1010,Deepak Sinha,31,male,55875,732594,tamil nadu,coimbatore,post graduate,government employee,obc,no,rural,employed,married,no,no,no,yes
+USR1011,Poonam Shinde,59,female,8260,144335,karnataka,davangere,12th,farmer,general,no,rural,self-employed,married,yes,no,no,yes
+USR1012,Arjun Patil,42,male,82628,1073890,bihar,ara,graduate,government employee,sc,no,urban,employed,married,no,no,no,no
+USR1013,Kavya Kulkarni,71,female,18529,253861,west bengal,howrah,10th,retired,obc,no,urban,retired,widowed,no,no,no,no
+USR1014,Sai Gill,29,male,79884,1027312,rajasthan,sikar,post graduate,government employee,obc,no,rural,employed,married,no,no,no,no
+USR1015,Ananya Nair,66,female,12242,185745,gujarat,vadodara,illiterate,retired,obc,no,rural,retired,widowed,no,no,no,no
+USR1016,Anil Shinde,42,male,7200,101352,madhya pradesh,satna,primary,laborer,ews,no,rural,employed,married,no,no,no,no
+USR1017,Kirti Kumar,30,female,82740,1119269,kerala,kollam,post graduate,private employee,obc,no,urban,employed,married,no,no,no,no
+USR1018,Harish Gandhi,32,male,99984,1264142,andhra pradesh,kakinada,graduate,private employee,sc,no,rural,employed,married,no,no,no,no
+USR1019,Aadhya Mishra,35,female,34672,509022,punjab,patiala,12th,private employee,obc,no,rural,employed,married,no,no,no,no
+USR1020,Karan Kumar,46,male,9264,126430,maharashtra,thane,illiterate,laborer,ews,yes,urban,employed,married,no,no,no,no
+USR1021,Saanvi Verma,47,female,47072,681991,uttar pradesh,aligarh,primary,business owner,sc,no,urban,self-employed,married,no,no,no,no
+USR1022,Deepak Mehta,31,male,0,194697,tamil nadu,chennai,10th,unemployed,general,no,urban,unemployed,married,no,no,no,no
+USR1023,Jyoti Verma,39,female,11606,155712,karnataka,mangalore,12th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR1024,Aryan Pillai,72,male,22772,302576,bihar,gaya,illiterate,retired,general,no,urban,retired,widowed,no,no,no,no
+USR1025,Anjali Das,65,female,50486,784965,west bengal,malda,12th,business owner,obc,no,rural,self-employed,married,no,no,no,no
+USR1026,Amit Pandey,46,male,88566,1214666,rajasthan,kota,post graduate,private employee,obc,no,urban,employed,married,no,no,no,no
+USR1027,Deepa Sinha,40,female,23593,532460,gujarat,junagadh,primary,business owner,obc,no,urban,self-employed,married,no,no,no,no
+USR1028,Pankaj Mehta,41,male,62946,825617,madhya pradesh,gwalior,graduate,government employee,obc,no,rural,employed,married,no,no,no,yes
+USR1029,Mamta Banerjee,49,female,66935,868250,kerala,kozhikode,12th,private employee,sc,no,rural,employed,divorced,no,no,no,no
+USR1030,Rajesh Chatterjee,24,male,0,408366,andhra pradesh,tirupati,graduate,student,obc,no,urban,student,married,no,yes,no,no
+USR1031,Jyoti Iyer,36,female,87963,1092805,punjab,pathankot,graduate,government employee,st,no,urban,employed,married,no,no,no,no
+USR1032,Vihaan Das,18,male,0,358361,maharashtra,thane,10th,student,ews,no,urban,student,single,no,yes,no,no
+USR1033,Priya Banerjee,45,female,0,69510,uttar pradesh,aligarh,illiterate,unemployed,ews,no,urban,unemployed,married,no,no,yes,no
+USR1034,Vijay More,49,male,91823,1220184,tamil nadu,trichy,post graduate,private employee,general,yes,rural,employed,married,no,no,no,no
+USR1035,Pooja Reddy,32,female,9317,148921,karnataka,bellary,illiterate,farmer,sc,no,rural,self-employed,married,yes,no,no,no
+USR1036,Sandeep Sen,63,male,13543,190757,bihar,purnia,post graduate,retired,obc,no,rural,retired,married,no,no,no,no
+USR1037,Deepa Chaudhary,21,female,0,315247,west bengal,malda,12th,student,general,no,rural,student,single,no,yes,no,no
+USR1038,Amit Mukherjee,18,male,0,763437,rajasthan,jaipur,10th,student,obc,no,rural,student,single,no,yes,no,yes
+USR1039,Rashmi Chaudhary,43,female,81088,1251928,gujarat,ahmedabad,illiterate,business owner,sc,no,rural,self-employed,married,no,no,no,no
+USR1040,Sai Soni,55,male,0,189398,madhya pradesh,indore,illiterate,unemployed,general,no,urban,unemployed,married,no,no,no,no
+USR1041,Priya Gupta,65,female,34949,639897,kerala,palakkad,12th,business owner,obc,no,urban,self-employed,married,no,no,no,no
+USR1042,Rohit Sharma,33,male,66111,848279,andhra pradesh,kurnool,illiterate,business owner,general,no,rural,self-employed,married,no,no,no,no
+USR1043,Deepa Pandey,56,female,11856,161480,punjab,moga,10th,laborer,obc,no,rural,employed,married,no,no,no,no
+USR1044,Pankaj Mukherjee,39,male,44078,601856,maharashtra,mumbai,post graduate,government employee,sc,no,urban,employed,married,no,no,no,no
+USR1045,Rekha Chatterjee,37,female,52997,780997,uttar pradesh,agra,graduate,government employee,st,no,urban,employed,married,no,no,no,no
+USR1046,Ansh Prasad,53,male,41035,566325,tamil nadu,chennai,graduate,private employee,sc,no,rural,employed,married,no,no,no,no
+USR1047,Kirti Dubey,49,female,5971,113706,karnataka,mysore,primary,farmer,sc,no,urban,self-employed,married,yes,no,yes,no
+USR1048,Harish Chaudhary,18,male,0,207432,bihar,begusarai,10th,student,st,yes,rural,student,married,no,yes,no,no
+USR1049,Prisha Tiwari,62,female,14682,205890,west bengal,durgapur,12th,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR1050,Rajesh Gandhi,60,male,10811,158232,rajasthan,jaipur,primary,retired,general,no,rural,retired,married,no,no,no,yes
+USR1051,Sunita Patil,30,female,7412,96805,gujarat,bhavnagar,12th,laborer,st,no,urban,self-employed,single,no,no,yes,no
+USR1052,Ishaan Sharma,45,male,14245,205396,madhya pradesh,satna,12th,farmer,st,no,rural,self-employed,married,yes,no,no,no
+USR1053,Komal Singh,47,female,0,191420,kerala,kozhikode,illiterate,unemployed,obc,no,rural,unemployed,married,no,no,no,yes
+USR1054,Dev Patel,43,male,0,174699,andhra pradesh,kurnool,illiterate,unemployed,obc,no,urban,unemployed,single,no,no,no,no
+USR1055,Jyoti Shinde,31,female,0,83606,punjab,moga,10th,unemployed,obc,no,urban,unemployed,married,no,no,yes,yes
+USR1056,Karan Das,29,male,6336,100813,maharashtra,nagpur,primary,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR1057,Geeta Chatterjee,39,female,9384,152895,uttar pradesh,prayagraj,10th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR1058,Shaurya Gandhi,57,male,90938,1120227,tamil nadu,vellore,12th,private employee,sc,no,urban,employed,single,no,no,no,no
+USR1059,Kavya Singh,48,female,4191,97784,karnataka,mangalore,10th,farmer,obc,no,rural,self-employed,married,yes,no,yes,no
+USR1060,Ansh Gill,34,male,51609,841133,bihar,darbhanga,illiterate,business owner,sc,no,rural,self-employed,married,no,no,no,no
+USR1061,Priyanka Saxena,51,female,10252,132330,west bengal,malda,10th,laborer,ews,no,urban,employed,married,no,no,no,yes
+USR1062,Deepak Reddy,18,male,0,400078,rajasthan,jodhpur,10th,student,ews,no,urban,student,married,no,yes,no,no
+USR1063,Rashmi Mehta,57,female,53574,782990,gujarat,jamnagar,graduate,government employee,obc,no,rural,employed,married,no,no,no,no
+USR1064,Kabir Soni,18,male,45202,701588,madhya pradesh,bhopal,post graduate,private employee,ews,no,urban,employed,single,no,no,no,no
+USR1065,Kavya Pandey,34,female,0,62822,kerala,palakkad,10th,unemployed,st,no,rural,unemployed,divorced,no,no,no,no
+USR1066,Sunil Nair,23,male,0,353537,andhra pradesh,tirupati,graduate,student,sc,no,rural,student,single,no,yes,no,no
+USR1067,Aadhya Verma,20,female,0,594293,punjab,pathankot,12th,student,sc,no,urban,student,single,no,yes,no,no
+USR1068,Ishaan Bhat,57,male,60928,799625,maharashtra,solapur,primary,business owner,general,no,rural,self-employed,married,no,no,no,no
+USR1069,Kavya Banerjee,32,female,9365,123085,uttar pradesh,aligarh,10th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR1070,Dev Pillai,45,male,55142,700931,tamil nadu,salem,post graduate,government employee,st,no,urban,employed,single,no,no,no,no
+USR1071,Shweta Kulkarni,39,female,11814,158096,karnataka,mysore,primary,laborer,sc,no,rural,employed,married,no,no,no,no
+USR1072,Yash Mukherjee,47,male,11085,170654,bihar,purnia,12th,farmer,ews,no,rural,self-employed,divorced,yes,no,no,no
+USR1073,Preeti Kulkarni,41,female,11955,169368,west bengal,durgapur,illiterate,farmer,obc,no,rural,self-employed,divorced,yes,no,no,no
+USR1074,Rakesh Mukherjee,20,male,0,789984,rajasthan,alwar,12th,student,obc,no,urban,student,married,no,yes,no,no
+USR1075,Sheetal Yadav,54,female,0,144555,gujarat,surat,primary,unemployed,obc,no,urban,unemployed,married,no,no,no,no
+USR1076,Vivaan Tiwari,32,male,0,187039,madhya pradesh,satna,graduate,unemployed,ews,no,urban,unemployed,single,no,no,no,no
+USR1077,Sheetal Mehta,18,female,0,434941,kerala,trivandrum,10th,student,general,no,urban,student,single,no,yes,no,no
+USR1078,Dinesh Tiwari,33,male,57534,830523,andhra pradesh,nellore,12th,private employee,obc,no,urban,employed,married,no,no,no,yes
+USR1079,Sapna Gandhi,62,female,21378,294606,punjab,pathankot,primary,retired,ews,no,urban,retired,married,no,no,no,no
+USR1080,Anil Yadav,52,male,11238,142906,maharashtra,pune,12th,laborer,sc,no,urban,employed,married,no,no,no,no
+USR1081,Anjali Chaudhary,34,female,0,54175,uttar pradesh,varanasi,10th,unemployed,general,no,urban,unemployed,married,no,no,yes,no
+USR1082,Ajay Nair,34,male,13797,202082,tamil nadu,coimbatore,illiterate,farmer,sc,no,rural,self-employed,married,yes,no,no,no
+USR1083,Shweta Yadav,35,female,7841,106342,karnataka,belgaum,10th,laborer,sc,no,rural,self-employed,married,no,no,no,no
+USR1084,Dev Chatterjee,71,male,43307,607793,bihar,muzaffarpur,post graduate,business owner,ews,yes,urban,self-employed,married,no,no,no,no
+USR1085,Sapna Soni,45,female,91139,1218425,west bengal,asansol,post graduate,private employee,obc,no,urban,employed,married,no,no,no,no
+USR1086,Suresh Kulkarni,46,male,56963,845210,rajasthan,alwar,12th,private employee,obc,no,rural,employed,single,no,no,no,no
+USR1087,Kiran Jha,55,female,12771,183796,gujarat,vadodara,12th,farmer,general,no,rural,self-employed,single,yes,no,no,no
+USR1088,Deepak Deshmukh,43,male,80160,1166863,madhya pradesh,bhopal,12th,business owner,obc,no,rural,self-employed,married,no,no,no,no
+USR1089,Aanya Tiwari,36,female,0,66718,kerala,kannur,primary,unemployed,obc,yes,urban,unemployed,married,no,no,yes,no
+USR1090,Yash More,37,male,7762,108986,andhra pradesh,kurnool,12th,laborer,obc,no,urban,self-employed,divorced,no,no,yes,no
+USR1091,Kavya Pandey,38,female,0,63886,punjab,hoshiarpur,graduate,unemployed,sc,no,rural,unemployed,married,no,no,no,no
+USR1092,Ishaan Das,39,male,0,97510,maharashtra,thane,primary,unemployed,general,no,rural,unemployed,married,no,no,yes,no
+USR1093,Shweta Bhat,50,female,7499,96558,uttar pradesh,bareilly,10th,laborer,obc,no,rural,employed,married,no,no,yes,yes
+USR1094,Atharva Chatterjee,40,male,0,71382,tamil nadu,tirunelveli,post graduate,unemployed,obc,no,rural,unemployed,single,no,no,yes,no
+USR1095,Swati Yadav,50,female,4076,80333,karnataka,hubli,illiterate,farmer,obc,yes,rural,self-employed,single,yes,no,yes,no
+USR1096,Abhishek More,38,male,27709,611123,bihar,bhagalpur,10th,business owner,obc,no,rural,self-employed,married,no,no,no,yes
+USR1097,Neha Sinha,41,female,38976,579249,west bengal,darjeeling,post graduate,government employee,general,no,urban,employed,married,no,no,no,no
+USR1098,Sanjay Yadav,18,male,0,708771,rajasthan,bikaner,10th,student,obc,no,rural,student,married,no,yes,no,no
+USR1099,Meena Gill,53,female,107674,1330668,gujarat,jamnagar,graduate,government employee,obc,no,rural,employed,married,no,no,no,no
+USR1100,Ajay Singh,45,male,14807,226424,madhya pradesh,sagar,12th,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR1101,Kiran Dubey,54,female,72035,936404,kerala,palakkad,graduate,government employee,general,no,rural,employed,married,no,no,no,no
+USR1102,Vijay Patel,18,male,0,199385,andhra pradesh,rajahmundry,10th,student,obc,no,rural,student,single,no,yes,no,no
+USR1103,Pooja Verma,71,female,15063,219988,punjab,ludhiana,illiterate,retired,obc,no,rural,retired,married,no,no,no,no
+USR1104,Pankaj Sharma,37,male,0,99345,maharashtra,mumbai,12th,unemployed,obc,no,urban,unemployed,married,no,no,yes,no
+USR1105,Neha Sinha,56,female,6808,94187,uttar pradesh,meerut,primary,laborer,st,no,urban,employed,married,no,no,yes,no
+USR1106,Abhishek Kumar,24,male,8379,105625,tamil nadu,chennai,illiterate,laborer,st,no,urban,employed,married,no,no,yes,yes
+USR1107,Anita Chaudhary,49,female,13809,191841,karnataka,davangere,primary,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR1108,Anil Banerjee,24,male,0,100724,bihar,darbhanga,graduate,student,obc,no,rural,student,married,no,yes,no,no
+USR1109,Priyanka Kulkarni,30,female,7055,100521,west bengal,kolkata,12th,laborer,obc,yes,rural,employed,married,no,no,no,yes
+USR1110,Sai Mehta,68,male,13404,193159,rajasthan,bikaner,post graduate,retired,sc,no,rural,retired,married,no,no,no,no
+USR1111,Babita Yadav,37,female,26338,481480,gujarat,surat,12th,private employee,sc,no,rural,employed,married,no,no,no,yes
+USR1112,Aryan Chatterjee,43,male,45958,681443,madhya pradesh,bhopal,graduate,government employee,obc,yes,rural,employed,married,no,no,no,no
+USR1113,Anjali Mukherjee,53,female,7723,109552,kerala,trivandrum,primary,laborer,obc,no,urban,employed,divorced,no,no,yes,no
+USR1114,Deepak Das,47,male,53247,791502,andhra pradesh,visakhapatnam,12th,private employee,ews,no,urban,employed,single,no,no,no,no
+USR1115,Geeta Mukherjee,42,female,86712,1173788,punjab,bathinda,primary,business owner,general,no,rural,self-employed,married,no,no,no,no
+USR1116,Ishaan Gandhi,45,male,7828,104322,maharashtra,aurangabad,illiterate,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR1117,Anita Singh,76,female,23726,315840,uttar pradesh,kanpur,12th,retired,obc,no,rural,retired,widowed,no,no,no,no
+USR1118,Pranav Nair,39,male,74635,1041220,tamil nadu,salem,post graduate,private employee,st,no,rural,employed,married,no,no,no,no
+USR1119,Neha Prasad,43,female,0,55488,karnataka,belgaum,10th,unemployed,obc,no,rural,unemployed,divorced,no,no,yes,no
+USR1120,Shaurya Tiwari,55,male,0,159504,bihar,muzaffarpur,12th,unemployed,obc,no,urban,unemployed,married,no,no,no,no
+USR1121,Aarti Nair,56,female,13312,182497,west bengal,asansol,primary,farmer,st,no,rural,self-employed,married,yes,no,no,no
+USR1122,Vikram Chaudhary,57,male,11704,157568,rajasthan,ajmer,primary,farmer,obc,no,rural,self-employed,divorced,yes,no,no,no
+USR1123,Aanya Das,49,female,101461,1338271,gujarat,rajkot,12th,private employee,st,no,urban,employed,married,no,no,no,yes
+USR1124,Karan Mehta,22,male,0,90856,madhya pradesh,ujjain,graduate,unemployed,obc,no,urban,unemployed,single,no,no,yes,no
+USR1125,Anika More,64,female,22386,302726,kerala,alappuzha,graduate,retired,obc,yes,rural,retired,married,no,no,no,yes
+USR1126,Arjun Mishra,22,male,0,464023,andhra pradesh,vijayawada,graduate,student,ews,no,urban,student,single,no,yes,no,no
+USR1127,Kirti Pillai,44,female,52976,735204,punjab,moga,12th,private employee,general,no,rural,employed,married,no,no,no,no
+USR1128,Abhishek Bhat,28,male,76547,1152028,maharashtra,nagpur,post graduate,business owner,st,no,urban,self-employed,married,no,no,no,no
+USR1129,Kavya Pillai,39,female,84931,1111144,uttar pradesh,kanpur,graduate,government employee,obc,no,rural,employed,married,no,no,no,no
+USR1130,Sandeep Jha,44,male,79456,1149570,tamil nadu,madurai,12th,private employee,obc,no,urban,employed,married,no,no,no,no
+USR1131,Anika Nair,44,female,11479,145977,karnataka,belgaum,illiterate,laborer,st,no,urban,self-employed,married,no,no,no,no
+USR1132,Yash More,46,male,8991,126838,bihar,patna,primary,laborer,general,no,urban,employed,married,no,no,no,yes
+USR1133,Riya Verma,64,female,19710,260706,west bengal,asansol,10th,retired,obc,no,urban,retired,married,no,no,no,no
+USR1134,Ramesh Saxena,46,male,13398,172035,rajasthan,jaipur,illiterate,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR1135,Rekha Prasad,36,female,70641,974435,gujarat,bhavnagar,post graduate,private employee,sc,no,rural,employed,married,no,no,no,no
+USR1136,Sanjay Deshmukh,54,male,0,72228,madhya pradesh,indore,post graduate,unemployed,sc,no,urban,unemployed,married,no,no,yes,yes
+USR1137,Prisha Sen,57,female,6523,125756,kerala,kochi,illiterate,farmer,sc,no,rural,self-employed,married,yes,no,no,yes
+USR1138,Ramesh Nair,21,male,0,746541,andhra pradesh,vijayawada,12th,student,st,no,urban,student,single,no,yes,no,no
+USR1139,Mamta Reddy,48,female,7520,96742,punjab,ludhiana,illiterate,laborer,sc,no,rural,employed,married,no,no,yes,no
+USR1140,Vijay Gandhi,50,male,79920,1167757,maharashtra,thane,primary,business owner,sc,no,urban,self-employed,divorced,no,no,no,no
+USR1141,Neha Sinha,35,female,8313,119186,uttar pradesh,lucknow,primary,farmer,sc,no,rural,self-employed,married,yes,no,no,yes
+USR1142,Atharva Mehta,60,male,10322,146796,tamil nadu,tirunelveli,primary,retired,obc,no,urban,retired,married,no,no,no,no
+USR1143,Divya Kulkarni,37,female,8305,117018,karnataka,dharwad,10th,laborer,ews,no,urban,employed,married,no,no,yes,no
+USR1144,Sandeep Kumar,41,male,106498,1476517,bihar,gaya,graduate,private employee,obc,no,urban,employed,married,no,no,no,no
+USR1145,Radha Shinde,37,female,56087,866152,west bengal,durgapur,12th,business owner,st,no,urban,self-employed,married,no,no,no,yes
+USR1146,Deepak Gill,40,male,0,171536,rajasthan,bikaner,12th,unemployed,sc,no,rural,unemployed,married,no,no,no,no
+USR1147,Isha Nair,23,female,0,752902,gujarat,bhavnagar,graduate,student,ews,no,urban,student,single,no,yes,no,no
+USR1148,Dhruv Banerjee,18,male,0,585230,madhya pradesh,indore,10th,student,ews,yes,rural,student,married,no,yes,no,no
+USR1149,Sapna Deshmukh,63,female,21355,280443,kerala,thrissur,graduate,retired,obc,no,rural,retired,married,no,no,no,no
+USR1150,Krishna Gupta,27,male,7926,108611,andhra pradesh,kakinada,primary,laborer,st,no,rural,employed,married,no,no,no,yes
+USR1151,Riya Mishra,25,female,10907,138004,punjab,bathinda,illiterate,laborer,obc,no,rural,employed,married,no,no,no,no
+USR1152,Karan Shinde,18,male,0,477982,maharashtra,pune,10th,student,obc,no,rural,student,single,no,yes,no,no
+USR1153,Deepa Shinde,30,female,58392,933766,uttar pradesh,prayagraj,graduate,business owner,general,no,rural,self-employed,single,no,no,no,no
+USR1154,Gaurav Nair,20,male,10614,140064,tamil nadu,trichy,12th,laborer,st,no,urban,employed,single,no,no,no,no
+USR1155,Deepa Patel,64,female,13716,176785,karnataka,bellary,post graduate,retired,obc,no,urban,retired,married,no,no,no,no
+USR1156,Arjun Shinde,55,male,9361,145673,bihar,muzaffarpur,illiterate,farmer,sc,no,rural,self-employed,married,yes,no,no,no
+USR1157,Deepa Mukherjee,29,female,113326,1469221,west bengal,asansol,graduate,government employee,general,no,urban,employed,married,no,no,no,no
+USR1158,Sanjay Sen,73,male,14770,195792,rajasthan,alwar,illiterate,retired,ews,yes,urban,retired,married,no,no,no,no
+USR1159,Kavya Pillai,54,female,73214,1127394,gujarat,jamnagar,graduate,business owner,obc,no,rural,self-employed,married,no,no,no,no
+USR1160,Sanjay Rao,35,male,31241,408634,madhya pradesh,jabalpur,12th,private employee,sc,no,rural,employed,married,no,no,no,no
+USR1161,Sapna Sharma,18,female,0,504751,kerala,palakkad,10th,student,general,no,urban,student,single,no,yes,no,no
+USR1162,Vivaan Sinha,74,male,9321,138127,andhra pradesh,visakhapatnam,post graduate,retired,ews,no,rural,retired,widowed,no,no,no,no
+USR1163,Swati Tiwari,19,female,0,450262,punjab,hoshiarpur,12th,student,sc,no,rural,student,single,no,yes,no,no
+USR1164,Ajay Joshi,18,male,30105,449615,maharashtra,pune,12th,private employee,ews,no,rural,employed,single,no,no,no,no
+USR1165,Komal Singh,55,female,6500,97022,uttar pradesh,lucknow,primary,farmer,obc,no,rural,self-employed,married,yes,no,yes,yes
+USR1166,Pranav Sharma,76,male,11557,168006,tamil nadu,vellore,illiterate,retired,ews,no,rural,retired,married,no,no,no,yes
+USR1167,Rashmi Rao,60,female,5240,102869,karnataka,davangere,graduate,retired,obc,no,rural,retired,married,no,no,no,no
+USR1168,Atharva Mukherjee,48,male,49123,712402,bihar,darbhanga,graduate,private employee,ews,yes,urban,employed,married,no,no,no,no
+USR1169,Aarti Banerjee,48,female,5748,92449,west bengal,darjeeling,12th,farmer,general,no,rural,self-employed,married,yes,no,yes,no
+USR1170,Suresh Gill,52,male,7776,106685,rajasthan,jaipur,10th,laborer,ews,no,urban,employed,married,no,no,yes,no
+USR1171,Deepa Gill,51,female,9933,133384,gujarat,jamnagar,12th,laborer,obc,no,urban,employed,married,no,no,no,no
+USR1172,Krishna Kumar,44,male,6000,81971,madhya pradesh,bhopal,10th,laborer,obc,no,urban,self-employed,married,no,no,yes,no
+USR1173,Divya Chaudhary,41,female,17935,313199,kerala,kochi,post graduate,private employee,sc,no,rural,employed,single,no,no,no,no
+USR1174,Aryan Sharma,39,male,5410,90308,andhra pradesh,rajahmundry,illiterate,farmer,obc,no,rural,self-employed,married,yes,no,yes,yes
+USR1175,Aadhya Joshi,28,female,4489,66303,punjab,patiala,12th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR1176,Sai Deshmukh,35,male,6199,90385,maharashtra,nashik,10th,laborer,general,no,rural,employed,divorced,no,no,yes,no
+USR1177,Sapna More,18,female,0,139591,uttar pradesh,agra,10th,student,ews,no,urban,student,single,no,yes,no,no
+USR1178,Suresh Saxena,38,male,60454,852141,tamil nadu,madurai,post graduate,private employee,general,no,rural,employed,married,no,no,no,no
+USR1179,Priyanka Pandey,25,female,26330,493810,karnataka,davangere,graduate,private employee,ews,no,urban,employed,married,no,no,no,no
+USR1180,Ishaan Singh,23,male,0,745425,bihar,purnia,graduate,student,ews,no,urban,student,single,no,yes,no,no
+USR1181,Sunita Gowda,42,female,100717,1309906,west bengal,howrah,graduate,government employee,general,no,rural,employed,married,no,no,no,no
+USR1182,Ishaan Chatterjee,60,male,17233,234767,rajasthan,bikaner,10th,retired,st,no,urban,retired,married,no,no,no,no
+USR1183,Preeti Yadav,53,female,11867,147413,gujarat,rajkot,primary,laborer,st,no,urban,employed,divorced,no,no,no,no
+USR1184,Rahul Gowda,18,male,0,75319,madhya pradesh,ujjain,post graduate,unemployed,st,no,rural,unemployed,single,no,no,yes,no
+USR1185,Aadhya Gupta,25,female,70301,1141305,kerala,kollam,illiterate,business owner,obc,no,urban,self-employed,married,no,no,no,no
+USR1186,Ansh Shah,54,male,11563,151806,andhra pradesh,kurnool,illiterate,laborer,st,no,rural,self-employed,married,no,no,no,no
+USR1187,Shweta Pandey,25,female,96295,1267566,punjab,amritsar,post graduate,private employee,st,no,urban,employed,single,no,no,no,no
+USR1188,Manoj Kulkarni,36,male,11449,172281,maharashtra,pune,illiterate,farmer,sc,no,urban,self-employed,married,yes,no,no,yes
+USR1189,Anjali Banerjee,48,female,13722,176514,uttar pradesh,bareilly,primary,farmer,st,no,rural,self-employed,married,yes,no,no,no
+USR1190,Vijay Pandey,25,male,106516,1433651,tamil nadu,chennai,12th,private employee,obc,no,rural,employed,married,no,no,no,yes
+USR1191,Meena Iyer,41,female,7631,104471,karnataka,mysore,illiterate,laborer,obc,yes,urban,self-employed,married,no,no,yes,no
+USR1192,Vivaan Shah,19,male,0,701917,bihar,bhagalpur,12th,student,sc,no,rural,student,single,no,yes,no,no
+USR1193,Prisha Rao,30,female,11177,176639,west bengal,darjeeling,illiterate,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR1194,Pankaj Yadav,44,male,72185,1062308,rajasthan,alwar,10th,business owner,sc,yes,rural,self-employed,married,no,no,no,no
+USR1195,Komal Gowda,18,female,6197,82018,gujarat,rajkot,illiterate,laborer,ews,no,urban,employed,single,no,no,yes,no
+USR1196,Dhruv Jha,46,male,7805,116927,madhya pradesh,dewas,illiterate,farmer,ews,no,rural,self-employed,married,yes,no,no,yes
+USR1197,Aaradhya Dubey,39,female,54759,937895,kerala,kollam,illiterate,business owner,sc,no,rural,self-employed,married,no,no,no,no
+USR1198,Manoj Shinde,48,male,10354,170491,andhra pradesh,rajahmundry,primary,farmer,obc,no,rural,self-employed,married,yes,no,no,yes
+USR1199,Rashmi Joshi,43,female,89207,1163667,punjab,amritsar,illiterate,business owner,general,no,urban,self-employed,married,no,no,no,no
+USR1200,Amit Bhat,60,male,15501,221591,maharashtra,mumbai,illiterate,retired,obc,no,urban,retired,married,no,no,no,no
+USR1201,Anita Nair,41,female,11292,154788,uttar pradesh,aligarh,12th,laborer,sc,no,urban,employed,married,no,no,no,no
+USR1202,Rohit Mukherjee,33,male,26120,371598,tamil nadu,chennai,post graduate,private employee,sc,yes,rural,employed,married,no,no,no,no
+USR1203,Meena Shah,41,female,0,184070,karnataka,dharwad,12th,unemployed,obc,no,urban,unemployed,married,no,no,no,no
+USR1204,Yash Mukherjee,48,male,79182,1089944,bihar,bhagalpur,illiterate,business owner,obc,no,rural,self-employed,divorced,no,no,no,no
+USR1205,Nisha Sinha,40,female,46380,724937,west bengal,asansol,graduate,private employee,general,no,rural,employed,married,no,no,no,no
+USR1206,Yash Iyer,40,male,73668,938915,rajasthan,kota,graduate,government employee,obc,no,rural,employed,married,no,no,no,no
+USR1207,Kirti Dubey,29,female,14462,199733,gujarat,vadodara,10th,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR1208,Rahul Gowda,30,male,10402,135417,madhya pradesh,satna,12th,laborer,general,no,urban,self-employed,single,no,no,no,no
+USR1209,Aadhya Das,18,female,91491,1190529,kerala,kollam,post graduate,private employee,obc,no,rural,employed,single,no,no,no,no
+USR1210,Pranav Mukherjee,66,male,15261,197045,andhra pradesh,vijayawada,12th,retired,ews,no,urban,retired,widowed,no,no,no,yes
+USR1211,Prisha Saxena,21,female,0,190548,punjab,bathinda,12th,student,st,no,rural,student,single,no,yes,no,no
+USR1212,Aarav Reddy,29,male,0,122659,maharashtra,aurangabad,post graduate,unemployed,ews,no,urban,unemployed,divorced,no,no,no,no
+USR1213,Geeta Joshi,29,female,43819,620875,uttar pradesh,lucknow,10th,business owner,sc,no,rural,self-employed,single,no,no,no,no
+USR1214,Karan Nair,53,male,47541,632761,tamil nadu,salem,graduate,government employee,sc,no,rural,employed,married,no,no,no,yes
+USR1215,Anita Deshmukh,35,female,11130,181547,karnataka,mysore,10th,farmer,sc,no,rural,self-employed,married,yes,no,no,no
+USR1216,Vikram Pillai,58,male,14077,203838,bihar,begusarai,12th,farmer,general,no,rural,self-employed,divorced,yes,no,no,no
+USR1217,Deepa Sharma,29,female,72958,1084500,west bengal,malda,12th,business owner,general,no,rural,self-employed,married,no,no,no,no
+USR1218,Ishaan Gowda,44,male,10637,155610,rajasthan,kota,10th,farmer,ews,no,rural,self-employed,married,yes,no,no,no
+USR1219,Sheetal Sen,27,female,65969,991484,gujarat,surat,illiterate,business owner,obc,no,rural,self-employed,single,no,no,no,no
+USR1220,Rohit Kulkarni,72,male,13515,187860,madhya pradesh,sagar,10th,retired,ews,no,rural,retired,widowed,no,no,no,no
+USR1221,Ananya Prasad,22,female,0,329683,kerala,alappuzha,graduate,student,general,no,urban,student,single,no,yes,no,yes
+USR1222,Amit Pillai,44,male,51505,686824,andhra pradesh,guntur,graduate,private employee,ews,no,rural,employed,married,no,no,no,yes
+USR1223,Neha Patil,49,female,0,111930,punjab,moga,primary,unemployed,general,no,rural,unemployed,married,no,no,no,no
+USR1224,Dhruv Pandey,46,male,58451,751429,maharashtra,pune,post graduate,government employee,obc,no,urban,employed,married,no,no,no,no
+USR1225,Rekha Sinha,37,female,66616,884768,uttar pradesh,lucknow,illiterate,business owner,general,no,urban,self-employed,married,no,no,no,no
+USR1226,Suresh Soni,38,male,37956,691649,tamil nadu,salem,12th,business owner,ews,no,urban,self-employed,married,no,no,no,yes
+USR1227,Diya Patil,40,female,66775,995561,karnataka,bellary,12th,business owner,obc,no,rural,self-employed,divorced,no,no,no,no
+USR1228,Yash Soni,37,male,56875,778449,bihar,ara,post graduate,government employee,sc,no,rural,employed,divorced,no,no,no,yes
+USR1229,Aaradhya Mukherjee,54,female,63971,793910,west bengal,kharagpur,graduate,private employee,obc,no,rural,employed,married,no,no,no,no
+USR1230,Kabir Pillai,73,male,17987,233855,rajasthan,udaipur,10th,retired,general,no,rural,retired,married,no,no,no,no
+USR1231,Swati Banerjee,31,female,8020,115777,gujarat,junagadh,illiterate,farmer,st,no,rural,self-employed,married,yes,no,no,yes
+USR1232,Vijay Iyer,19,male,0,462007,madhya pradesh,indore,12th,student,sc,no,rural,student,single,no,yes,no,no
+USR1233,Aadhya Tiwari,38,female,4181,66810,kerala,alappuzha,primary,farmer,general,no,rural,self-employed,married,yes,no,yes,no
+USR1234,Ajay Mishra,78,male,14336,194089,andhra pradesh,rajahmundry,10th,retired,general,no,rural,retired,married,no,no,no,no
+USR1235,Ananya Saxena,27,female,0,149070,punjab,amritsar,primary,unemployed,obc,no,urban,unemployed,married,no,no,no,no
+USR1236,Atharva Patel,64,male,6372,87906,maharashtra,solapur,primary,retired,obc,no,rural,retired,married,no,no,yes,no
+USR1237,Kavya Iyer,65,female,5085,81728,uttar pradesh,prayagraj,illiterate,farmer,sc,no,rural,self-employed,married,yes,no,yes,no
+USR1238,Pranav Reddy,31,male,11052,149550,tamil nadu,coimbatore,10th,laborer,st,no,urban,self-employed,married,no,no,no,no
+USR1239,Meena Gandhi,48,female,10864,148119,karnataka,hubli,10th,laborer,st,no,rural,self-employed,married,no,no,no,no
+USR1240,Harish Shah,64,male,54366,912545,bihar,begusarai,illiterate,business owner,sc,no,rural,self-employed,married,no,no,no,no
+USR1241,Geeta Gill,34,female,0,192136,west bengal,darjeeling,post graduate,unemployed,obc,no,rural,unemployed,married,no,no,no,no
+USR1242,Rahul Rao,36,male,0,67385,rajasthan,sikar,post graduate,unemployed,sc,no,rural,unemployed,married,no,no,yes,no
+USR1243,Isha Mishra,31,female,11971,185886,gujarat,bhavnagar,primary,farmer,st,no,rural,self-employed,married,yes,no,no,no
+USR1244,Rahul Nair,24,male,0,717029,madhya pradesh,jabalpur,graduate,student,obc,no,rural,student,married,no,yes,no,yes
+USR1245,Diya Joshi,30,female,34908,482359,kerala,palakkad,illiterate,business owner,ews,no,urban,self-employed,married,no,no,no,no
+USR1246,Dinesh Soni,21,male,0,414814,andhra pradesh,vijayawada,12th,student,obc,yes,urban,student,single,no,yes,no,no
+USR1247,Priya Rao,40,female,49095,654179,punjab,pathankot,post graduate,government employee,obc,no,rural,employed,married,no,no,no,no
+USR1248,Sai Gill,28,male,12133,195342,maharashtra,nashik,illiterate,farmer,ews,no,rural,self-employed,married,yes,no,no,yes
+USR1249,Anjali Tiwari,43,female,67572,940432,uttar pradesh,prayagraj,post graduate,private employee,sc,no,urban,employed,married,no,no,no,no
+USR1250,Rahul Gill,18,male,0,128585,tamil nadu,madurai,10th,student,general,no,rural,student,single,no,yes,no,no
+USR1251,Aadhya Patil,44,female,9566,126507,karnataka,dharwad,12th,laborer,general,no,urban,employed,single,no,no,no,no
+USR1252,Manoj Singh,52,male,9653,130165,bihar,purnia,primary,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR1253,Aarti Gandhi,18,female,0,432788,west bengal,malda,10th,student,sc,no,urban,student,single,no,yes,no,no
+USR1254,Dhruv Kumar,45,male,0,74436,rajasthan,udaipur,12th,unemployed,obc,no,rural,unemployed,married,no,no,yes,no
+USR1255,Rekha Das,58,female,97776,1287874,gujarat,vadodara,12th,private employee,sc,no,rural,employed,married,no,no,no,yes
+USR1256,Harish Das,21,male,0,780660,madhya pradesh,gwalior,12th,student,sc,no,rural,student,single,no,yes,no,no
+USR1257,Kirti Nair,65,female,6291,100399,kerala,thrissur,post graduate,retired,st,no,rural,retired,married,no,no,no,no
+USR1258,Sanjay Mishra,46,male,23231,423163,andhra pradesh,visakhapatnam,post graduate,private employee,sc,no,rural,employed,married,no,no,no,no
+USR1259,Deepa Jha,29,female,100466,1235739,punjab,patiala,graduate,private employee,sc,no,urban,employed,married,no,no,no,no
+USR1260,Dev Singh,39,male,0,112647,maharashtra,thane,12th,unemployed,obc,no,urban,unemployed,married,no,no,yes,no
+USR1261,Kiran Bhat,48,female,55134,913170,uttar pradesh,lucknow,post graduate,business owner,obc,yes,urban,self-employed,married,no,no,no,no
+USR1262,Sanjay Reddy,41,male,0,196998,tamil nadu,trichy,12th,unemployed,sc,no,urban,unemployed,married,no,no,no,yes
+USR1263,Meena Sen,48,female,8230,119837,karnataka,bellary,primary,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR1264,Ishaan Chaudhary,26,male,75565,1007862,bihar,gaya,post graduate,government employee,obc,no,rural,employed,married,no,no,no,yes
+USR1265,Diya Sen,42,female,58458,746355,west bengal,howrah,post graduate,government employee,sc,no,rural,employed,married,no,no,no,no
+USR1266,Harish Reddy,18,male,0,381819,rajasthan,sikar,10th,student,sc,no,rural,student,single,no,yes,no,yes
+USR1267,Kiran Kulkarni,38,female,0,72655,gujarat,ahmedabad,graduate,unemployed,st,no,rural,unemployed,married,no,no,yes,no
+USR1268,Dinesh Sharma,26,male,0,77150,madhya pradesh,sagar,12th,unemployed,sc,no,rural,unemployed,married,no,no,yes,no
+USR1269,Kirti Gupta,28,female,108067,1427839,kerala,thrissur,post graduate,government employee,obc,no,rural,employed,married,no,no,no,no
+USR1270,Atharva Kumar,58,male,14628,207734,andhra pradesh,kakinada,10th,farmer,obc,no,urban,self-employed,married,yes,no,no,no
+USR1271,Prisha Mukherjee,56,female,79794,1152647,punjab,amritsar,12th,business owner,st,no,rural,self-employed,married,no,no,no,no
+USR1272,Sunil Sen,49,male,53463,701763,maharashtra,nashik,12th,business owner,sc,yes,rural,self-employed,married,no,no,no,no
+USR1273,Babita Prasad,23,female,0,522044,uttar pradesh,varanasi,graduate,student,st,no,rural,student,single,no,yes,no,no
+USR1274,Vikram Sharma,35,male,0,98437,tamil nadu,chennai,10th,unemployed,sc,no,urban,unemployed,married,no,no,yes,no
+USR1275,Prisha Kulkarni,58,female,38936,638334,karnataka,dharwad,12th,private employee,general,no,rural,employed,married,no,no,no,no
+USR1276,Pankaj Patel,42,male,0,127999,bihar,darbhanga,post graduate,unemployed,general,no,rural,unemployed,married,no,no,no,no
+USR1277,Meena Deshmukh,74,female,24277,301455,west bengal,kolkata,illiterate,retired,general,no,rural,retired,widowed,no,no,no,no
+USR1278,Gaurav Saxena,45,male,7033,131686,rajasthan,kota,primary,farmer,sc,no,rural,self-employed,married,yes,no,no,no
+USR1279,Anika Rao,42,female,0,187094,gujarat,rajkot,illiterate,unemployed,sc,no,urban,unemployed,married,no,no,no,no
+USR1280,Rahul Verma,35,male,7153,130424,madhya pradesh,dewas,12th,farmer,ews,no,rural,self-employed,married,yes,no,no,no
+USR1281,Mamta Reddy,42,female,80231,983152,kerala,palakkad,post graduate,private employee,st,no,rural,employed,married,no,no,no,no
+USR1282,Dhruv Jha,37,male,0,84720,andhra pradesh,vijayawada,primary,unemployed,sc,no,rural,unemployed,married,no,no,yes,yes
+USR1283,Sunita Deshmukh,50,female,42551,748631,punjab,amritsar,post graduate,business owner,general,no,rural,self-employed,married,no,no,no,no
+USR1284,Aryan Chaudhary,54,male,0,186017,maharashtra,aurangabad,12th,unemployed,obc,no,rural,unemployed,married,no,no,no,no
+USR1285,Radha Das,28,female,72337,930871,uttar pradesh,agra,10th,business owner,general,no,rural,self-employed,married,no,no,no,no
+USR1286,Deepak Dubey,20,male,0,205780,tamil nadu,salem,12th,student,st,no,rural,student,single,no,yes,no,no
+USR1287,Poonam Gupta,18,female,0,765545,karnataka,bellary,10th,student,ews,no,urban,student,single,no,yes,no,no
+USR1288,Manoj Chatterjee,47,male,0,111452,bihar,begusarai,illiterate,unemployed,obc,no,urban,unemployed,married,no,no,yes,no
+USR1289,Rekha Chaudhary,23,female,0,375015,west bengal,siliguri,graduate,student,sc,no,rural,student,single,no,yes,no,no
+USR1290,Krishna Sen,18,male,0,346161,rajasthan,ajmer,10th,student,sc,no,urban,student,single,no,yes,no,no
+USR1291,Poonam Mehta,45,female,0,89084,gujarat,junagadh,illiterate,unemployed,st,no,urban,unemployed,married,no,no,yes,no
+USR1292,Atharva Mehta,77,male,18921,245282,madhya pradesh,indore,post graduate,retired,obc,no,rural,retired,married,no,no,no,no
+USR1293,Nisha Soni,39,female,14233,193658,kerala,alappuzha,12th,farmer,st,no,rural,self-employed,married,yes,no,no,no
+USR1294,Pankaj Mishra,52,male,5249,79750,andhra pradesh,rajahmundry,illiterate,farmer,obc,no,rural,self-employed,married,yes,no,yes,no
+USR1295,Aadhya Yadav,41,female,7789,104544,punjab,moga,primary,laborer,ews,no,rural,employed,married,no,no,no,no
+USR1296,Sandeep Banerjee,38,male,95186,1193369,maharashtra,pune,12th,private employee,general,no,urban,employed,single,no,no,no,no
+USR1297,Ananya Shinde,53,female,15833,482801,uttar pradesh,prayagraj,post graduate,business owner,sc,no,rural,self-employed,married,no,no,no,no
+USR1298,Aditya Sinha,35,male,0,50024,tamil nadu,trichy,10th,unemployed,obc,no,rural,unemployed,married,no,no,yes,no
+USR1299,Prisha Soni,44,female,7918,112098,karnataka,bengaluru,primary,laborer,ews,no,rural,employed,married,no,no,no,no
+USR1300,Sandeep Chatterjee,44,male,10007,149718,bihar,bhagalpur,primary,farmer,sc,no,rural,self-employed,married,yes,no,no,no
+USR1301,Shweta Kumar,29,female,37950,654821,west bengal,darjeeling,post graduate,private employee,sc,no,rural,employed,married,no,no,no,yes
+USR1302,Vikram Yadav,54,male,8360,144415,rajasthan,alwar,primary,farmer,sc,no,rural,self-employed,married,yes,no,no,no
+USR1303,Kirti Mishra,37,female,11357,174129,gujarat,junagadh,primary,farmer,general,no,rural,self-employed,single,yes,no,no,no
+USR1304,Atharva Gowda,28,male,75931,955033,madhya pradesh,ujjain,post graduate,private employee,sc,no,urban,employed,married,no,no,no,no
+USR1305,Kiran Reddy,48,female,91108,1148742,kerala,kannur,post graduate,private employee,general,no,urban,employed,married,no,no,no,no
+USR1306,Arjun Sinha,26,male,9556,159083,andhra pradesh,vijayawada,illiterate,farmer,obc,no,rural,self-employed,married,yes,no,no,yes
+USR1307,Divya More,40,female,14424,188945,punjab,patiala,primary,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR1308,Sunil Gill,39,male,6245,80482,maharashtra,nagpur,10th,laborer,sc,no,urban,self-employed,married,no,no,yes,no
+USR1309,Saanvi Gandhi,56,female,45830,670131,uttar pradesh,varanasi,graduate,government employee,general,no,urban,employed,married,no,no,no,no
+USR1310,Yash Sharma,47,male,0,149364,tamil nadu,madurai,10th,unemployed,obc,no,rural,unemployed,married,no,no,no,no
+USR1311,Riya Patel,39,female,8352,113270,karnataka,hubli,12th,laborer,obc,no,rural,employed,married,no,no,no,no
+USR1312,Abhishek Singh,52,male,81472,1111615,bihar,purnia,12th,private employee,obc,yes,rural,employed,divorced,no,no,no,no
+USR1313,Radha Mishra,60,female,14013,195524,west bengal,howrah,graduate,retired,ews,no,rural,retired,married,no,no,no,no
+USR1314,Sunil Chaudhary,48,male,90605,1205649,rajasthan,jaipur,12th,private employee,sc,no,rural,employed,married,no,no,no,no
+USR1315,Geeta Bhat,40,female,11115,151136,gujarat,junagadh,illiterate,laborer,obc,no,urban,employed,married,no,no,no,no
+USR1316,Rajesh Verma,20,male,31287,541141,madhya pradesh,indore,post graduate,private employee,st,no,rural,employed,married,no,no,no,no
+USR1317,Neha Saxena,24,female,0,351111,kerala,kannur,graduate,student,obc,no,urban,student,married,no,yes,no,no
+USR1318,Rajesh Sen,35,male,11071,148958,andhra pradesh,guntur,12th,laborer,ews,no,urban,employed,married,no,no,no,no
+USR1319,Riya Sharma,30,female,0,84212,punjab,patiala,post graduate,unemployed,obc,no,rural,unemployed,married,no,no,yes,no
+USR1320,Aditya Gill,37,male,117789,1494570,maharashtra,mumbai,post graduate,government employee,general,no,rural,employed,single,no,no,no,no
+USR1321,Aarti Chatterjee,40,female,39504,571074,uttar pradesh,meerut,post graduate,private employee,general,no,urban,employed,married,no,no,no,no
+USR1322,Rajesh Patil,47,male,83283,1061042,tamil nadu,chennai,graduate,government employee,obc,no,rural,employed,married,no,no,no,no
+USR1323,Anika Gill,38,female,11626,154982,karnataka,bengaluru,10th,laborer,general,no,urban,employed,married,no,no,no,no
+USR1324,Dinesh Das,47,male,31014,525641,bihar,darbhanga,post graduate,business owner,sc,no,urban,self-employed,married,no,no,no,yes
+USR1325,Sneha Dubey,40,female,10968,139870,west bengal,malda,illiterate,laborer,ews,no,rural,employed,married,no,no,no,yes
+USR1326,Dev Singh,18,male,0,71984,rajasthan,alwar,illiterate,unemployed,st,no,rural,unemployed,single,no,no,yes,no
+USR1327,Sneha Sinha,25,female,36398,586249,gujarat,jamnagar,graduate,government employee,general,no,rural,employed,married,no,no,no,yes
+USR1328,Aryan Saxena,37,male,67032,924613,madhya pradesh,jabalpur,graduate,government employee,obc,no,urban,employed,married,no,no,no,no
+USR1329,Nisha Reddy,21,female,0,106020,kerala,palakkad,post graduate,unemployed,obc,no,rural,unemployed,single,no,no,no,no
+USR1330,Yash Gupta,48,male,0,125192,andhra pradesh,vijayawada,post graduate,unemployed,ews,no,rural,unemployed,married,no,no,no,no
+USR1331,Anika Bhat,62,female,10166,139056,punjab,patiala,post graduate,retired,obc,no,rural,retired,married,no,no,no,no
+USR1332,Vikram Gupta,58,male,106149,1370844,maharashtra,pune,12th,private employee,general,no,urban,employed,married,no,no,no,yes
+USR1333,Isha Mishra,36,female,71186,1018361,uttar pradesh,agra,12th,business owner,st,no,rural,self-employed,married,no,no,no,yes
+USR1334,Rohit Sharma,62,male,9919,154625,tamil nadu,chennai,primary,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR1335,Sneha Gupta,42,female,0,76200,karnataka,dharwad,primary,unemployed,st,no,rural,unemployed,married,no,no,yes,yes
+USR1336,Rakesh Mehta,34,male,78605,1104533,bihar,ara,12th,business owner,sc,no,rural,self-employed,married,no,no,no,no
+USR1337,Babita Patil,30,female,13085,167344,west bengal,kolkata,10th,farmer,sc,no,rural,self-employed,married,yes,no,no,no
+USR1338,Rakesh Dubey,35,male,45637,736762,rajasthan,udaipur,12th,private employee,obc,no,rural,employed,married,no,no,no,no
+USR1339,Isha Mukherjee,34,female,23498,542552,gujarat,ahmedabad,graduate,business owner,general,no,urban,self-employed,married,no,no,no,no
+USR1340,Ishaan Gowda,42,male,73851,1025038,madhya pradesh,dewas,post graduate,government employee,obc,no,urban,employed,married,no,no,no,no
+USR1341,Sneha Patel,42,female,13490,197052,kerala,kollam,10th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR1342,Harish Shah,40,male,0,78404,andhra pradesh,nellore,primary,unemployed,general,no,rural,unemployed,married,no,no,yes,no
+USR1343,Sapna Verma,46,female,7269,98748,punjab,pathankot,12th,laborer,obc,no,rural,employed,married,no,no,yes,no
+USR1344,Ansh Shah,57,male,57700,918074,maharashtra,thane,primary,business owner,obc,no,urban,self-employed,married,no,no,no,no
+USR1345,Sapna Sharma,54,female,88408,1207193,uttar pradesh,prayagraj,post graduate,government employee,obc,no,urban,employed,married,no,no,no,no
+USR1346,Vihaan Saxena,18,male,0,466147,tamil nadu,madurai,10th,student,obc,no,urban,student,single,no,yes,no,yes
+USR1347,Sheetal Prasad,18,female,0,166340,karnataka,dharwad,10th,student,st,no,urban,student,single,no,yes,no,no
+USR1348,Kabir Das,54,male,48021,847320,bihar,purnia,illiterate,business owner,general,no,rural,self-employed,married,no,no,no,no
+USR1349,Jyoti Sinha,19,female,0,132532,west bengal,siliguri,12th,student,sc,no,rural,student,single,no,yes,no,no
+USR1350,Harish Iyer,36,male,0,66411,rajasthan,alwar,12th,unemployed,st,no,urban,unemployed,married,no,no,yes,no
+USR1351,Priya Nair,22,female,6542,89651,gujarat,bhavnagar,illiterate,laborer,obc,no,rural,employed,single,no,no,yes,no
+USR1352,Sunil Verma,18,male,0,275796,madhya pradesh,satna,10th,student,sc,no,urban,student,single,no,yes,no,no
+USR1353,Kavya Verma,48,female,8425,112202,kerala,alappuzha,10th,farmer,st,no,rural,self-employed,married,yes,no,no,no
+USR1354,Sandeep Nair,51,male,52043,732675,andhra pradesh,kurnool,post graduate,government employee,ews,no,urban,employed,married,no,no,no,no
+USR1355,Komal Prasad,31,female,0,67509,punjab,ludhiana,graduate,unemployed,sc,no,rural,unemployed,married,no,no,yes,no
+USR1356,Atharva Das,18,male,0,183519,maharashtra,thane,10th,student,st,no,rural,student,single,no,yes,no,no
+USR1357,Radha Gowda,31,female,75850,962989,uttar pradesh,kanpur,illiterate,business owner,general,no,urban,self-employed,married,no,no,no,no
+USR1358,Ishaan Kumar,45,male,7898,138415,tamil nadu,vellore,12th,farmer,st,no,rural,self-employed,divorced,yes,no,no,no
+USR1359,Aaradhya Das,18,female,0,790318,karnataka,mangalore,10th,student,obc,no,urban,student,single,no,yes,no,no
+USR1360,Gaurav Gandhi,42,male,8817,149244,bihar,patna,12th,farmer,general,no,rural,self-employed,married,yes,no,no,yes
+USR1361,Babita Yadav,39,female,33582,690235,west bengal,kharagpur,illiterate,business owner,obc,no,urban,self-employed,married,no,no,no,yes
+USR1362,Aarav Rao,48,male,0,190573,rajasthan,jodhpur,graduate,unemployed,sc,no,rural,unemployed,single,no,no,no,no
+USR1363,Sheetal Pandey,41,female,7915,112397,gujarat,bhavnagar,12th,laborer,obc,no,urban,employed,married,no,no,yes,no
+USR1364,Dhruv Pandey,25,male,45003,710093,madhya pradesh,sagar,graduate,private employee,sc,no,rural,employed,married,no,no,no,no
+USR1365,Divya Gowda,57,female,23007,431638,kerala,kochi,post graduate,business owner,sc,no,urban,self-employed,married,no,no,no,no
+USR1366,Aarav Chaudhary,37,male,26056,505401,andhra pradesh,visakhapatnam,12th,private employee,sc,no,urban,employed,married,no,no,no,no
+USR1367,Aarti Chaudhary,39,female,48749,705001,punjab,ludhiana,post graduate,government employee,general,no,rural,employed,married,no,no,no,no
+USR1368,Karan Nair,26,male,20168,438168,maharashtra,aurangabad,12th,business owner,obc,no,rural,self-employed,married,no,no,no,no
+USR1369,Pooja Pandey,33,female,0,59905,uttar pradesh,lucknow,primary,unemployed,sc,no,urban,unemployed,married,no,no,yes,no
+USR1370,Rohit Mukherjee,26,male,32037,512598,tamil nadu,salem,10th,business owner,st,no,urban,self-employed,married,no,no,no,no
+USR1371,Saanvi Patil,37,female,81523,1148307,karnataka,dharwad,graduate,business owner,st,no,rural,self-employed,married,no,no,no,no
+USR1372,Dhruv Sen,65,male,11422,164734,bihar,ara,12th,retired,sc,no,rural,retired,widowed,no,no,no,no
+USR1373,Aadhya Nair,19,female,0,785931,west bengal,howrah,12th,student,st,no,rural,student,single,no,yes,no,no
+USR1374,Abhishek Soni,18,male,0,251391,rajasthan,alwar,10th,student,sc,no,rural,student,married,no,yes,no,no
+USR1375,Ananya Pandey,62,female,18061,247819,gujarat,bhavnagar,illiterate,retired,general,no,rural,retired,married,no,no,no,no
+USR1376,Suresh Prasad,36,male,10662,133571,madhya pradesh,dewas,12th,laborer,ews,no,rural,employed,married,no,no,no,no
+USR1377,Swati Deshmukh,29,female,11547,187465,kerala,kollam,12th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR1378,Rahul Nair,55,male,60502,827613,andhra pradesh,tirupati,graduate,government employee,st,no,urban,employed,married,no,no,no,no
+USR1379,Saanvi Gandhi,30,female,78347,1036799,punjab,jalandhar,10th,business owner,st,no,rural,self-employed,married,no,no,no,no
+USR1380,Gaurav Chatterjee,67,male,17125,218849,maharashtra,thane,graduate,retired,general,no,urban,retired,married,no,no,no,no
+USR1381,Priyanka Dubey,50,female,0,135033,uttar pradesh,prayagraj,graduate,unemployed,ews,no,urban,unemployed,married,no,no,no,no
+USR1382,Atharva Shah,32,male,0,69532,tamil nadu,coimbatore,graduate,unemployed,st,no,rural,unemployed,married,no,no,yes,yes
+USR1383,Meena Jha,72,female,7818,131294,karnataka,mangalore,illiterate,retired,obc,no,rural,retired,widowed,no,no,no,no
+USR1384,Sunil Das,30,male,9998,144031,bihar,gaya,primary,farmer,sc,no,rural,self-employed,married,yes,no,no,no
+USR1385,Divya Pillai,51,female,6452,94574,west bengal,durgapur,10th,farmer,general,no,rural,self-employed,married,yes,no,yes,no
+USR1386,Aryan Jha,44,male,32253,635679,rajasthan,sikar,graduate,business owner,obc,no,rural,self-employed,married,no,no,no,no
+USR1387,Radha Gowda,59,female,0,196120,gujarat,vadodara,10th,unemployed,sc,no,rural,unemployed,married,no,no,no,yes
+USR1388,Gaurav Sinha,63,male,22659,296398,madhya pradesh,dewas,12th,retired,general,no,urban,retired,divorced,no,no,no,no
+USR1389,Kiran Mishra,40,female,0,125506,kerala,palakkad,10th,unemployed,ews,no,urban,unemployed,married,no,no,no,no
+USR1390,Rohit Mishra,28,male,4645,68549,andhra pradesh,visakhapatnam,illiterate,farmer,ews,no,rural,self-employed,married,yes,no,yes,yes
+USR1391,Aaradhya Gandhi,46,female,9308,143973,punjab,hoshiarpur,illiterate,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR1392,Krishna Patil,29,male,83785,1187138,maharashtra,nashik,post graduate,private employee,obc,no,urban,employed,married,no,no,no,no
+USR1393,Anita Iyer,70,female,53360,858916,uttar pradesh,aligarh,post graduate,business owner,obc,no,rural,self-employed,married,no,no,no,no
+USR1394,Ishaan Chaudhary,42,male,12615,175695,tamil nadu,salem,illiterate,farmer,sc,no,rural,self-employed,married,yes,no,no,no
+USR1395,Priya Gupta,34,female,14570,185304,karnataka,hubli,primary,farmer,obc,no,rural,self-employed,single,yes,no,no,no
+USR1396,Vikram Kulkarni,42,male,9652,127411,bihar,begusarai,12th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR1397,Neha Mehta,19,female,0,426434,west bengal,durgapur,12th,student,general,no,rural,student,single,no,yes,no,yes
+USR1398,Karan Singh,25,male,12371,188177,rajasthan,bikaner,illiterate,farmer,obc,no,rural,self-employed,married,yes,no,no,yes
+USR1399,Neha Pillai,58,female,11631,148095,gujarat,surat,12th,laborer,general,no,urban,employed,single,no,no,no,no
+USR1400,Sunil Mehta,30,male,10749,150207,madhya pradesh,jabalpur,primary,farmer,st,no,rural,self-employed,married,yes,no,no,no
+USR1401,Jyoti Sen,24,female,0,264654,kerala,kozhikode,graduate,student,obc,no,urban,student,single,no,yes,no,no
+USR1402,Sunil Saxena,48,male,79107,1138263,andhra pradesh,tirupati,12th,private employee,obc,no,rural,employed,married,no,no,no,yes
+USR1403,Geeta Sharma,57,female,90708,1239074,punjab,hoshiarpur,graduate,private employee,obc,no,rural,employed,married,no,no,no,no
+USR1404,Gaurav Pillai,50,male,11211,149111,maharashtra,mumbai,primary,farmer,ews,no,rural,self-employed,single,yes,no,no,no
+USR1405,Sunita More,54,female,6140,93460,uttar pradesh,meerut,primary,farmer,general,no,rural,self-employed,married,yes,no,yes,no
+USR1406,Arjun Saxena,28,male,8346,146472,tamil nadu,trichy,illiterate,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR1407,Sheetal Pillai,18,female,0,480272,karnataka,dharwad,10th,student,obc,no,rural,student,married,no,yes,no,no
+USR1408,Vivaan Das,62,male,12742,175613,bihar,patna,10th,retired,obc,no,urban,retired,married,no,no,no,no
+USR1409,Aadhya Tiwari,35,female,0,199557,west bengal,darjeeling,post graduate,unemployed,st,no,rural,unemployed,married,no,no,no,yes
+USR1410,Gaurav Tiwari,36,male,11831,170137,rajasthan,jaipur,primary,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR1411,Diya Soni,59,female,0,105159,gujarat,jamnagar,illiterate,unemployed,obc,no,urban,unemployed,married,no,no,yes,no
+USR1412,Kabir Reddy,48,male,10719,169204,madhya pradesh,gwalior,12th,farmer,sc,no,rural,self-employed,married,yes,no,no,no
+USR1413,Aaradhya Reddy,46,female,38685,495191,kerala,palakkad,12th,private employee,general,no,urban,employed,divorced,no,no,no,no
+USR1414,Rahul Das,72,male,11306,159809,andhra pradesh,nellore,graduate,retired,obc,no,rural,retired,married,no,no,no,yes
+USR1415,Jyoti Dubey,30,female,6885,99203,punjab,amritsar,10th,farmer,ews,no,rural,self-employed,divorced,yes,no,yes,no
+USR1416,Shaurya Joshi,53,male,92516,1180957,maharashtra,nashik,12th,private employee,sc,no,urban,employed,married,no,no,no,no
+USR1417,Aadhya Kumar,40,female,7050,102366,uttar pradesh,agra,10th,laborer,obc,no,rural,employed,single,no,no,no,yes
+USR1418,Kabir Deshmukh,44,male,87049,1150214,tamil nadu,trichy,graduate,private employee,obc,no,urban,employed,married,no,no,no,yes
+USR1419,Babita Gupta,62,female,6763,104999,karnataka,hubli,12th,retired,general,no,urban,retired,married,no,no,yes,yes
+USR1420,Sandeep Patel,47,male,17933,343288,bihar,ara,post graduate,private employee,ews,no,urban,employed,married,no,no,no,no
+USR1421,Babita Rao,48,female,4530,80724,west bengal,kolkata,10th,farmer,ews,no,rural,self-employed,married,yes,no,no,no
+USR1422,Sandeep Chaudhary,56,male,0,67008,rajasthan,alwar,10th,unemployed,obc,no,urban,unemployed,married,no,no,yes,no
+USR1423,Geeta Kulkarni,34,female,67912,905465,gujarat,junagadh,graduate,government employee,obc,no,urban,employed,married,no,no,no,no
+USR1424,Harish Reddy,27,male,13074,181951,madhya pradesh,bhopal,12th,farmer,ews,no,rural,self-employed,married,yes,no,no,yes
+USR1425,Kiran Kumar,24,female,0,167377,kerala,kochi,10th,unemployed,general,no,rural,unemployed,married,no,no,no,no
+USR1426,Aditya Das,18,male,0,196604,andhra pradesh,visakhapatnam,10th,student,general,no,rural,student,single,no,yes,no,yes
+USR1427,Swati Dubey,70,female,18127,233257,punjab,bathinda,primary,retired,ews,yes,rural,retired,married,no,no,no,no
+USR1428,Dinesh Pillai,23,male,0,715119,maharashtra,solapur,graduate,student,ews,no,rural,student,single,no,yes,no,no
+USR1429,Priya Mukherjee,36,female,8165,136650,uttar pradesh,bareilly,12th,farmer,st,no,rural,self-employed,married,yes,no,no,no
+USR1430,Rahul Nair,35,male,8358,136705,tamil nadu,erode,illiterate,farmer,obc,no,urban,self-employed,married,yes,no,no,no
+USR1431,Aadhya Reddy,44,female,102364,1370883,karnataka,bengaluru,graduate,private employee,general,no,rural,employed,married,no,no,no,no
+USR1432,Pankaj Saxena,52,male,110257,1353480,bihar,gaya,post graduate,government employee,obc,no,urban,employed,married,no,no,no,no
+USR1433,Babita Nair,52,female,119749,1575794,west bengal,kolkata,post graduate,government employee,obc,no,urban,employed,married,no,no,no,no
+USR1434,Pranav Chatterjee,31,male,5970,108809,rajasthan,jodhpur,12th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR1435,Prisha Joshi,37,female,78572,1118664,gujarat,rajkot,illiterate,business owner,obc,no,urban,self-employed,married,no,no,no,no
+USR1436,Ansh Sinha,44,male,73467,1143157,madhya pradesh,ujjain,illiterate,business owner,general,no,urban,self-employed,married,no,no,no,yes
+USR1437,Anika Sharma,36,female,75390,1169589,kerala,thrissur,graduate,business owner,st,no,rural,self-employed,married,no,no,no,no
+USR1438,Vihaan Kulkarni,64,male,0,111659,andhra pradesh,vijayawada,illiterate,unemployed,obc,no,urban,unemployed,divorced,no,no,yes,no
+USR1439,Kavya Reddy,47,female,0,190902,punjab,amritsar,illiterate,unemployed,obc,no,rural,unemployed,married,no,no,no,no
+USR1440,Sai Pandey,51,male,0,190274,maharashtra,solapur,10th,unemployed,general,no,urban,unemployed,married,no,no,no,no
+USR1441,Anita Soni,49,female,0,164731,uttar pradesh,aligarh,10th,unemployed,st,no,rural,unemployed,married,no,no,no,yes
+USR1442,Vikram Shinde,57,male,38570,733596,tamil nadu,tirunelveli,illiterate,business owner,general,no,rural,self-employed,married,no,no,no,no
+USR1443,Riya Sinha,42,female,10914,146952,karnataka,bellary,primary,laborer,obc,no,rural,employed,married,no,no,no,no
+USR1444,Manoj Verma,20,male,0,461868,bihar,darbhanga,12th,student,ews,no,rural,student,single,no,yes,no,no
+USR1445,Divya Singh,45,female,0,115040,west bengal,malda,post graduate,unemployed,ews,no,urban,unemployed,married,no,no,yes,no
+USR1446,Krishna Gill,30,male,13908,204528,rajasthan,alwar,illiterate,farmer,sc,no,rural,self-employed,married,yes,no,no,no
+USR1447,Babita Nair,32,female,12383,179069,gujarat,jamnagar,12th,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR1448,Dinesh Jha,48,male,71073,953998,madhya pradesh,gwalior,post graduate,government employee,obc,yes,urban,employed,married,no,no,no,no
+USR1449,Rekha Pandey,58,female,44878,749513,kerala,palakkad,graduate,business owner,general,no,rural,self-employed,divorced,no,no,no,yes
+USR1450,Yash Soni,40,male,23311,323110,andhra pradesh,vijayawada,post graduate,private employee,ews,no,urban,employed,married,no,no,no,no
+USR1451,Radha Mukherjee,44,female,0,156792,punjab,jalandhar,primary,unemployed,ews,no,urban,unemployed,single,no,no,no,no
+USR1452,Amit Gandhi,65,male,5718,108435,maharashtra,pune,post graduate,retired,general,no,rural,retired,widowed,no,no,no,yes
+USR1453,Prisha Iyer,43,female,8241,104354,uttar pradesh,meerut,10th,laborer,sc,no,urban,self-employed,single,no,no,yes,no
+USR1454,Alok Nair,79,male,22911,305591,tamil nadu,salem,graduate,retired,general,no,rural,retired,married,no,no,no,no
+USR1455,Kavya Yadav,48,female,10778,173216,karnataka,belgaum,10th,farmer,sc,no,rural,self-employed,married,yes,no,no,no
+USR1456,Ajay Prasad,18,male,0,736413,bihar,darbhanga,10th,student,obc,no,urban,student,single,no,yes,no,no
+USR1457,Mamta Saxena,51,female,64959,948201,west bengal,malda,post graduate,private employee,obc,no,rural,employed,married,no,no,no,no
+USR1458,Sunil Verma,45,male,13815,187614,rajasthan,jodhpur,primary,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR1459,Ananya Tiwari,59,female,10921,145106,gujarat,surat,illiterate,farmer,general,no,rural,self-employed,married,yes,no,no,no
+USR1460,Rahul Bhat,50,male,9368,146820,madhya pradesh,jabalpur,10th,farmer,obc,no,rural,self-employed,married,yes,no,no,yes
+USR1461,Sheetal Shah,37,female,47796,640456,kerala,kozhikode,post graduate,private employee,general,no,urban,employed,divorced,no,no,no,no
+USR1462,Rohit More,21,male,0,546973,andhra pradesh,kurnool,12th,student,ews,no,rural,student,single,no,yes,no,no
+USR1463,Anjali Mishra,36,female,56803,789499,punjab,ludhiana,10th,business owner,general,no,rural,self-employed,married,no,no,no,no
+USR1464,Amit Gowda,27,male,89884,1152714,maharashtra,solapur,graduate,government employee,sc,yes,rural,employed,married,no,no,no,no
+USR1465,Anita Verma,31,female,7529,97288,uttar pradesh,lucknow,primary,laborer,ews,no,urban,employed,married,no,no,yes,no
+USR1466,Manoj Shah,48,male,14047,182976,tamil nadu,vellore,10th,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR1467,Swati Sinha,65,female,17722,224629,karnataka,belgaum,graduate,retired,general,no,rural,retired,married,no,no,no,no
+USR1468,Manoj More,45,male,6832,129853,bihar,bhagalpur,illiterate,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR1469,Rekha Pillai,22,female,36510,625523,west bengal,darjeeling,graduate,private employee,sc,yes,urban,employed,single,no,no,no,no
+USR1470,Alok Kulkarni,46,male,7867,106450,rajasthan,kota,10th,laborer,obc,no,rural,self-employed,married,no,no,no,no
+USR1471,Sapna Tiwari,57,female,82378,1054366,gujarat,vadodara,graduate,private employee,obc,no,urban,employed,married,no,no,no,no
+USR1472,Amit Chaudhary,30,male,8169,128049,madhya pradesh,ujjain,12th,farmer,obc,no,rural,self-employed,single,yes,no,no,no
+USR1473,Aaradhya Nair,37,female,8677,149334,kerala,thrissur,12th,farmer,obc,no,urban,self-employed,married,yes,no,no,no
+USR1474,Aditya Pillai,40,male,0,104075,andhra pradesh,rajahmundry,12th,unemployed,ews,no,urban,unemployed,divorced,no,no,yes,yes
+USR1475,Riya Gupta,28,female,100859,1372626,punjab,moga,12th,private employee,general,no,urban,employed,married,no,no,no,no
+USR1476,Vivaan Kulkarni,49,male,10987,149833,maharashtra,aurangabad,12th,laborer,st,no,rural,employed,married,no,no,no,no
+USR1477,Anita Mishra,38,female,0,59375,uttar pradesh,agra,illiterate,unemployed,sc,no,urban,unemployed,married,no,no,yes,no
+USR1478,Ajay Pillai,46,male,23776,556184,tamil nadu,erode,graduate,business owner,obc,no,rural,self-employed,married,no,no,no,no
+USR1479,Swati Kulkarni,26,female,42559,670976,karnataka,belgaum,post graduate,private employee,sc,no,rural,employed,married,no,no,no,no
+USR1480,Rakesh Yadav,33,male,7973,111221,bihar,patna,10th,laborer,obc,no,rural,employed,married,no,no,no,no
+USR1481,Kiran Prasad,50,female,0,184871,west bengal,kharagpur,graduate,unemployed,sc,no,urban,unemployed,married,no,no,no,no
+USR1482,Sunil Shinde,34,male,70945,991407,rajasthan,udaipur,graduate,government employee,obc,no,rural,employed,married,no,no,no,yes
+USR1483,Nisha Pandey,65,female,13775,179631,gujarat,jamnagar,primary,retired,st,no,urban,retired,widowed,no,no,no,no
+USR1484,Rahul Sen,34,male,14585,221045,madhya pradesh,indore,illiterate,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR1485,Neha Dubey,43,female,7374,95875,kerala,trivandrum,primary,laborer,general,yes,rural,employed,married,no,no,yes,yes
+USR1486,Vijay Gill,53,male,18906,380021,andhra pradesh,kurnool,12th,private employee,sc,no,urban,employed,married,no,no,no,no
+USR1487,Shweta Reddy,18,female,0,399824,punjab,ludhiana,10th,student,ews,no,rural,student,single,no,yes,no,no
+USR1488,Sanjay Gandhi,18,male,0,179183,maharashtra,thane,10th,student,obc,no,urban,student,single,no,yes,no,no
+USR1489,Sapna Nair,18,female,0,518519,uttar pradesh,agra,10th,student,sc,no,urban,student,single,no,yes,no,no
+USR1490,Atharva Sharma,58,male,58904,737307,tamil nadu,erode,post graduate,government employee,obc,no,urban,employed,married,no,no,no,no
+USR1491,Anjali Gupta,31,female,11141,172059,karnataka,dharwad,illiterate,farmer,st,no,rural,self-employed,married,yes,no,no,yes
+USR1492,Ajay Chaudhary,78,male,0,108928,bihar,darbhanga,illiterate,unemployed,st,yes,rural,unemployed,married,no,no,no,no
+USR1493,Kirti Deshmukh,31,female,10017,167015,west bengal,malda,illiterate,farmer,sc,no,rural,self-employed,married,yes,no,no,no
+USR1494,Pankaj Soni,42,male,4252,95624,rajasthan,alwar,12th,farmer,general,no,rural,self-employed,divorced,yes,no,yes,no
+USR1495,Mamta Gupta,63,female,19049,244506,gujarat,bhavnagar,graduate,retired,obc,no,urban,retired,married,no,no,no,no
+USR1496,Yash Sen,70,male,9348,136319,madhya pradesh,jabalpur,illiterate,retired,st,no,rural,retired,married,no,no,no,no
+USR1497,Sheetal Saxena,70,female,7577,119054,kerala,kozhikode,10th,retired,sc,no,urban,retired,married,no,no,yes,no
+USR1498,Deepak Chaudhary,58,male,75367,1081978,andhra pradesh,kakinada,illiterate,business owner,obc,no,urban,self-employed,married,no,no,no,yes
+USR1499,Nisha Mehta,55,female,8592,119126,punjab,amritsar,primary,farmer,obc,no,rural,self-employed,married,yes,no,no,no
+USR1500,Kabir Mukherjee,48,male,24758,434871,maharashtra,amravati,post graduate,private employee,general,no,urban,employed,married,no,no,no,no
