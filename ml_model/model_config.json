@@ -1,0 +1,17 @@
+{
+    "feature_columns": [
+        "age",
+        "income",
+        "gender",
+        "occupation",
+        "education",
+        "category",
+        "state",
+        "disability_status",
+        "farmer_status",
+        "student_status",
+        "employment_status"
+    ],
+    "n_estimators": 100,
+    "model_type": "RandomForestClassifier"
+}

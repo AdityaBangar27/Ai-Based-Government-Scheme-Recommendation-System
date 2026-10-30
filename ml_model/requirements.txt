@@ -1,0 +1,7 @@
+requirements
+pandas
+numpy
+scikit-learn
+joblib
+flask
+python-dotenv

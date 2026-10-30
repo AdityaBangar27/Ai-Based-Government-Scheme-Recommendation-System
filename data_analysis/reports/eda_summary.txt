@@ -1,0 +1,193 @@
+======================================================================
+  EDA — Government Scheme Recommendation Dataset
+======================================================================
+
+[INFO] Users dataset: 1500 rows × 11 columns
+[INFO] Schemes dataset: 10 rows × 16 columns
+[INFO] Target classes: 16 unique schemes
+
+
+── 1. UNIVARIATE ANALYSIS ──────────────────────────────────────────────
+
+[1a] Age Distribution
+count    1500.00
+mean       35.40
+std        13.43
+min        17.00
+25%        24.00
+50%        33.00
+75%        47.00
+max        65.00
+  [Saved] 01_age_distribution.png
+
+[1b] Income Distribution
+count       1500.00
+mean      422395.54
+std       262878.14
+min         5000.00
+25%       215610.50
+50%       376708.00
+75%       553722.25
+max      1199383.00
+  Skewness: 0.9075
+  Kurtosis: 0.3394
+  [Saved] 02_income_distribution.png
+
+[1c] Gender Distribution
+  Male: 760 (50.7%)
+  Female: 740 (49.3%)
+  [Saved] 03_gender_distribution.png
+
+[1d] Occupation Distribution
+  Student: 402 (26.8%)
+  Farmer: 391 (26.1%)
+  Entrepreneur: 374 (24.9%)
+  Artisan: 333 (22.2%)
+  [Saved] 04_occupation_distribution.png
+
+[1e] Target Variable — Recommended_Scheme
+  PM Vishwakarma: 333 (22.2%)
+  PM Kisan: 106 (7.1%)
+  PM Kisan Maan Dhan Yojana: 96 (6.4%)
+  Kisan Credit Card: 95 (6.3%)
+  PM Fasal Bima Yojana: 94 (6.3%)
+  Stand Up India: 79 (5.3%)
+  CGTMSE: 79 (5.3%)
+  NSP Scholarship: 77 (5.1%)
+  Mudra Loan Scheme: 75 (5.0%)
+  PMEGP: 73 (4.9%)
+  AICTE Pragati: 69 (4.6%)
+  Startup India: 68 (4.5%)
+  AICTE Saksham: 67 (4.5%)
+  PM YASASVI: 66 (4.4%)
+  INSPIRE Scholarship: 62 (4.1%)
+  Central Sector Scholarship: 61 (4.1%)
+  [Saved] 05_scheme_target_distribution.png
+
+[1f] Category
+  ST: 400 (26.7%)
+  General: 373 (24.9%)
+  OBC: 370 (24.7%)
+  SC: 357 (23.8%)
+
+[1f] Education
+  12th: 432 (28.8%)
+  10th: 347 (23.1%)
+  5th: 239 (15.9%)
+  Graduate: 186 (12.4%)
+  BTech: 112 (7.5%)
+  Diploma: 98 (6.5%)
+  MBA: 86 (5.7%)
+
+[1f] State
+  Karnataka: 205 (13.7%)
+  Madhya Pradesh: 199 (13.3%)
+  Bihar: 198 (13.2%)
+  Rajasthan: 192 (12.8%)
+  Maharashtra: 187 (12.5%)
+  Uttar Pradesh: 182 (12.1%)
+  Gujarat: 179 (11.9%)
+  Tamil Nadu: 158 (10.5%)
+
+[1f] Disability_Status
+  Yes: 767 (51.1%)
+  No: 733 (48.9%)
+
+[1f] Rural_Urban
+  Rural: 769 (51.3%)
+  Urban: 731 (48.7%)
+
+[1f] Employment_Status
+  Student: 402 (26.8%)
+  Farmer: 391 (26.1%)
+  Entrepreneur: 374 (24.9%)
+  Artisan: 333 (22.2%)
+  [Saved] 06_categorical_distributions.png
+
+
+── 2. BIVARIATE ANALYSIS ──────────────────────────────────────────────
+
+[2a] Age vs Income Scatter
+  [Saved] 07_age_vs_income_scatter.png
+
+[2b] Income by Recommended Scheme
+  PM Kisan Maan Dhan Yojana: Median INR 261,722
+  PM Kisan: Median INR 274,860
+  Kisan Credit Card: Median INR 277,277
+  PM Vishwakarma: Median INR 300,603
+  PM Fasal Bima Yojana: Median INR 307,286
+  PM YASASVI: Median INR 404,861
+  Central Sector Scholarship: Median INR 411,576
+  AICTE Saksham: Median INR 417,170
+  INSPIRE Scholarship: Median INR 424,032
+  NSP Scholarship: Median INR 441,774
+  AICTE Pragati: Median INR 513,424
+  Stand Up India: Median INR 635,236
+  Mudra Loan Scheme: Median INR 641,702
+  PMEGP: Median INR 647,835
+  Startup India: Median INR 684,962
+  CGTMSE: Median INR 711,912
+  [Saved] 08_income_by_scheme.png
+
+[2c] Age by Recommended Scheme
+  NSP Scholarship: Median age 22.0
+  INSPIRE Scholarship: Median age 22.0
+  AICTE Pragati: Median age 23.0
+  AICTE Saksham: Median age 23.0
+  Central Sector Scholarship: Median age 23.0
+  PM YASASVI: Median age 24.0
+  Startup India: Median age 35.5
+  Stand Up India: Median age 36.0
+  PM Kisan Maan Dhan Yojana: Median age 38.5
+  PM Vishwakarma: Median age 39.0
+  Mudra Loan Scheme: Median age 40.0
+  PM Kisan: Median age 40.0
+  PMEGP: Median age 42.0
+  CGTMSE: Median age 42.0
+  Kisan Credit Card: Median age 43.0
+  PM Fasal Bima Yojana: Median age 43.0
+  [Saved] 09_age_by_scheme.png
+
+[2d] Occupation vs Scheme Heatmap
+Recommended_Scheme  AICTE Pragati  AICTE Saksham  CGTMSE  Central Sector Scholarship  INSPIRE Scholarship  Kisan Credit Card  Mudra Loan Scheme  NSP Scholarship  PM Fasal Bima Yojana  PM Kisan  PM Kisan Maan Dhan Yojana  PM Vishwakarma  PM YASASVI  PMEGP  Stand Up India  Startup India
+Occupation                                                                                                                                                                                                                                                                                   
+Artisan                         0              0       0                           0                    0                  0                  0                0                     0         0                          0             333           0      0               0              0
+Entrepreneur                    0              0      79                           0                    0                  0                 75                0                     0         0                          0               0           0     73              79             68
+Farmer                          0              0       0                           0                    0                 95                  0                0                    94       106                         96               0           0      0               0              0
+Student                        69             67       0                          61                   62                  0                  0               77                     0         0                          0               0          66      0               0              0
+  [Saved] 10_occupation_scheme_heatmap.png
+
+[2e] Category vs Scheme Heatmap
+  [Saved] 11_category_scheme_heatmap.png
+
+[2f] State vs Scheme
+Recommended_Scheme  AICTE Pragati  AICTE Saksham  CGTMSE  Central Sector Scholarship  INSPIRE Scholarship  Kisan Credit Card  Mudra Loan Scheme  NSP Scholarship  PM Fasal Bima Yojana  PM Kisan  PM Kisan Maan Dhan Yojana  PM Vishwakarma  PM YASASVI  PMEGP  Stand Up India  Startup India
+State                                                                                                                                                                                                                                                                                        
+Bihar                           4             10      10                          11                   11                 12                 13                8                    11        11                         19              37           9     12              10             10
+Gujarat                         7             10       8                          10                    4                 10                  8                7                    20        13                         12              37           9      8               6             10
+Karnataka                       9             12      10                           8                    8                 13                  6               14                    17        12                         10              47           8      9              12             10
+Madhya Pradesh                  8             10      11                           5                    8                 16                  8                9                    12        22                          9              40          11     11              13              6
+Maharashtra                    14              6       9                           8                    6                 12                 11               13                    11        15                          9              37           6      6              15              9
+Rajasthan                       8             13      12                           4                    8                 14                 15                9                     8         8                          9              48          11      7               8             10
+Tamil Nadu                      7              3      10                           8                    9                  8                  9                6                     6        11                         12              40           4     13               6              6
+Uttar Pradesh                  12              3       9                           7                    8                 10                  5               11                     9        14                         16              47           8      7               9              7
+  [Saved] 12_state_scheme_heatmap.png
+
+
+── 3. MULTIVARIATE ANALYSIS ───────────────────────────────────────────
+
+[3a] Numeric Correlation Matrix
+           Age  Income
+Age     1.0000 -0.0604
+Income -0.0604  1.0000
+  [Saved] 13_correlation_matrix.png
+  [Saved] 14_multivariate_scatter.png
+
+[3c] Disability Status & Rural/Urban vs Schemes
+Recommended_Scheme             AICTE Pragati  AICTE Saksham  CGTMSE  Central Sector Scholarship  INSPIRE Scholarship  Kisan Credit Card  Mudra Loan Scheme  NSP Scholarship  PM Fasal Bima Yojana  PM Kisan  PM Kisan Maan Dhan Yojana  PM Vishwakarma  PM YASASVI  PMEGP  Stand Up India  Startup India
+Disability_Status Rural_Urban                                                                                                                                                                                                                                                                           
+No                Rural                   13             14      21                          16                   12                 21                 25               20                    17        27                         29              96          15     12              19             11
+                  Urban                   17             17      16                          13                   16                 28                 17               16                    23        27                         25              76          15     27              13             19
+Yes               Rural                   17             15      20                          16                   17                 30                 22               20                    24        31                         17              89          19     18              26             20
+                  Urban                   22             21      22                          16                   17                 16                 11               21                    30        21                         25              72          17     16              21             18
+  [Saved] 15_income_by_education_violin.png

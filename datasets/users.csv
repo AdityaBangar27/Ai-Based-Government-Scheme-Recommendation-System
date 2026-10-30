@@ -1,0 +1,3 @@
+user_id,full_name,email,password,mobile_number,aadhaar_number,pan_number,date_of_birth,age,gender,state,district,taluka,village,address,occupation,education,annual_income,category,religion,disability_status,farmer_status,student_status,employment_status,marital_status,bank_name,bank_account_number,ifsc_code,profile_image,profile_completion_percentage,created_at,recommended_scheme
+1793020565105,Test User,test@example.com,$2a$10$EBmZutJoVj2Bzh5Nrki.1O646tvnUrnzGpR8jaTETQ76TLeEkEgzC,,,,,,,,,,,,,,,,,,,,,,,,,,20,2026-10-26T13:16:05.105Z,
+1793020738522,ADITYA RAMDAS BANGAR,aditya@gmail.com,$2a$10$ivGhYgS4xYiK7SRFpHfhNuaoH4/7.NH0fr2qJjeHkSI1/.8R9JB1W,,,,,,,,,,,,,,,,,,,,,,,,,,20,2026-10-26T13:18:58.522Z,

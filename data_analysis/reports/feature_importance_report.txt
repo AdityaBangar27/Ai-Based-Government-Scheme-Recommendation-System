@@ -1,0 +1,74 @@
+
+======================================================================
+  FEATURE ENGINEERING & IMPORTANCE ANALYSIS
+======================================================================
+
+======================================================================
+  TRAINING RANDOM FOREST — Baseline vs Engineered Features
+======================================================================
+  Baseline RF (10 features)          Accuracy=37.33%  F1=37.26%
+  Engineered RF (14 features)        Accuracy=39.33%  F1=39.17%
+
+  Improvement from feature engineering: Accuracy +2.00%  F1 +1.91%
+
+======================================================================
+  GINI-BASED FEATURE IMPORTANCE (Engineered RF)
+======================================================================
+
+  Rank  Feature                          Importance%   Bar
+  -----------------------------------------------------------------
+     1  Employment_Status_enc              14.46%  ████████████████████████████
+     2  Occupation_enc                     13.56%  ███████████████████████████
+     3  Income                             12.91%  █████████████████████████
+     4  Income_Log                         12.59%  █████████████████████████
+     5  Age                                12.25%  ████████████████████████
+     6  State_enc                           8.70%  █████████████████
+     7  Education_enc                       6.93%  █████████████
+     8  Category_enc                        6.06%  ████████████
+     9  Gender_enc                          3.03%  ██████
+    10  Disability_Status_enc               3.02%  ██████
+    11  Rural_Urban_enc                     2.84%  █████
+    12  Is_Youth                            1.61%  ███
+    13  Is_Vulnerable                       1.03%  ██
+    14  Is_Low_Income                       1.03%  ██
+  [Saved] 16_feature_importance_bar.png
+
+======================================================================
+  PERMUTATION IMPORTANCE (Validation Set)
+======================================================================
+  Computing... (this may take ~30 seconds)
+
+  Rank  Feature                          Mean Accuracy Drop   Std
+  -----------------------------------------------------------------
+     1  Employment_Status_enc               0.0567              ±0.0056
+     2  Occupation_enc                      0.0513              ±0.0050
+     3  Age                                 0.0233              ±0.0060
+     4  Income                              0.0140              ±0.0083
+     5  Category_enc                        0.0120              ±0.0093
+     6  Is_Youth                            0.0100              ±0.0056
+     7  Income_Log                          0.0080              ±0.0134
+     8  Gender_enc                          0.0080              ±0.0083
+     9  Is_Low_Income                       0.0067              ±0.0117
+    10  Rural_Urban_enc                     0.0067              ±0.0103
+    11  Disability_Status_enc               0.0060              ±0.0124
+    12  Is_Vulnerable                       0.0053              ±0.0069
+    13  State_enc                           0.0040              ±0.0157
+    14  Education_enc                      -0.0013              ±0.0081
+  [Saved] 17_permutation_importance.png
+
+======================================================================
+  FEATURE–TARGET CORRELATION (Point Biserial / Eta)
+======================================================================
+
+  Feature                          |Correlation with Target|
+  -------------------------------------------------------
+  Employment_Status_enc             0.5621   ████████████████
+  Occupation_enc                    0.5621   ████████████████
+  Age                               0.2584   ███████
+  Education_enc                     0.2037   ██████
+  Gender_enc                        0.0252   
+  Rural_Urban_enc                   0.0202   
+  Disability_Status_enc             0.0119   
+  Category_enc                      0.0033   
+  State_enc                         0.0031   
+  Income                            0.0025   

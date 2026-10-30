@@ -1,0 +1,131 @@
+
+======================================================================
+  STEP 1: LOAD RAW DATA
+======================================================================
+  Loaded: 1500 rows × 11 columns
+  Columns: ['Age', 'Gender', 'Income', 'State', 'Education', 'Occupation', 'Category', 'Disability_Status', 'Rural_Urban', 'Employment_Status', 'Recommended_Scheme']
+
+======================================================================
+  STEP 2: MISSING VALUE ANALYSIS
+======================================================================
+
+  Column                               Missing   Pct
+  --------------------------------------------------
+  Age                                     0     0.0%   [OK]
+  Gender                                  0     0.0%   [OK]
+  Income                                  0     0.0%   [OK]
+  State                                   0     0.0%   [OK]
+  Education                               0     0.0%   [OK]
+  Occupation                              0     0.0%   [OK]
+  Category                                0     0.0%   [OK]
+  Disability_Status                       0     0.0%   [OK]
+  Rural_Urban                             0     0.0%   [OK]
+  Employment_Status                       0     0.0%   [OK]
+  Recommended_Scheme                      0     0.0%   [OK]
+
+  Missing values after imputation: 0
+
+======================================================================
+  STEP 3: DUPLICATE DETECTION
+======================================================================
+  Duplicate rows found: 0
+  Dataset after dedup: 1500 rows
+
+======================================================================
+  STEP 4: OUTLIER DETECTION & CAPPING (IQR Method)
+======================================================================
+
+  [Age]
+    Q1=24.0, Q3=47.0, IQR=23.0
+    Lower fence=-10.5, Upper fence=81.5
+    Outliers detected: 0
+    Outliers capped (Winsorized) — no rows dropped.
+
+  [Income]
+    Q1=215610.5, Q3=553722.2, IQR=338111.8
+    Lower fence=-291557.1, Upper fence=1060889.9
+    Outliers detected: 50
+    Outliers capped (Winsorized) — no rows dropped.
+
+======================================================================
+  STEP 5: FEATURE ENGINEERING — Derived Features
+======================================================================
+  [+] Income_Group — 5-quintile bucket (Very Low → Very High)
+  [+] Age_Group — life-stage bucket (Child → Elderly)
+  [+] Is_Low_Income — binary flag for income < ₹3,00,000
+  [+] Is_Youth — binary flag for age ≤ 25
+  [+] Is_Vulnerable — Rural AND Low Income binary flag
+
+  Dataset after feature engineering: (1500, 16)
+
+======================================================================
+  STEP 6: LABEL ENCODING — Categorical → Numeric
+======================================================================
+  Gender                    → Gender_enc   Classes: ['Female', 'Male']
+  State                     → State_enc   Classes: ['Bihar', 'Gujarat', 'Karnataka', 'Madhya Pradesh', 'Maharashtra', 'Rajasthan', 'Tamil Nadu', 'Uttar Pradesh']
+  Education                 → Education_enc   Classes: ['10th', '12th', '5th', 'BTech', 'Diploma', 'Graduate', 'MBA']
+  Occupation                → Occupation_enc   Classes: ['Artisan', 'Entrepreneur', 'Farmer', 'Student']
+  Category                  → Category_enc   Classes: ['General', 'OBC', 'SC', 'ST']
+  Disability_Status         → Disability_Status_enc   Classes: ['No', 'Yes']
+  Rural_Urban               → Rural_Urban_enc   Classes: ['Rural', 'Urban']
+  Employment_Status         → Employment_Status_enc   Classes: ['Artisan', 'Entrepreneur', 'Farmer', 'Student']
+  Income_Group              → Income_Group_enc   Classes: ['High', 'Low', 'Middle', 'Very High', 'Very Low']
+  Age_Group                 → Age_Group_enc   Classes: ['Adult', 'Child', 'Middle Age', 'Senior', 'Young Adult', 'Youth']
+
+  Target encoding: Recommended_Scheme → Scheme_Label
+  Classes (16): ['AICTE Pragati', 'AICTE Saksham', 'CGTMSE', 'Central Sector Scholarship', 'INSPIRE Scholarship', 'Kisan Credit Card', 'Mudra Loan Scheme', 'NSP Scholarship', 'PM Fasal Bima Yojana', 'PM Kisan', 'PM Kisan Maan Dhan Yojana', 'PM Vishwakarma', 'PM YASASVI', 'PMEGP', 'Stand Up India', 'Startup India']
+
+======================================================================
+  STEP 7: FEATURE SELECTION FOR ML
+======================================================================
+  Feature matrix X: (1500, 13)
+  Target vector  y: (1500,)
+  Selected features: ['Age', 'Income', 'Gender_enc', 'State_enc', 'Education_enc', 'Occupation_enc', 'Category_enc', 'Disability_Status_enc', 'Rural_Urban_enc', 'Employment_Status_enc', 'Is_Low_Income', 'Is_Youth', 'Is_Vulnerable']
+
+======================================================================
+  STEP 8: FEATURE SCALING
+======================================================================
+  Applied StandardScaler to all features.
+  (Note: Tree-based models like Random Forest do not require scaling,
+   but scaled data is provided for SVM / KNN / Logistic Regression benchmarks.)
+
+======================================================================
+  STEP 9: TRAIN / TEST SPLIT
+======================================================================
+  Strategy : Stratified split (preserves class proportions)
+  Test size: 20%
+  Train set: 1200 samples
+  Test set : 300 samples
+
+  Class distribution in train:
+    PM Vishwakarma                      266
+    PM Kisan                            85
+    PM Kisan Maan Dhan Yojana           77
+    Kisan Credit Card                   76
+    PM Fasal Bima Yojana                75
+    Stand Up India                      63
+    CGTMSE                              63
+    NSP Scholarship                     62
+    Mudra Loan Scheme                   60
+    PMEGP                               58
+    AICTE Pragati                       55
+    AICTE Saksham                       54
+    Startup India                       54
+    PM YASASVI                          53
+    INSPIRE Scholarship                 50
+    Central Sector Scholarship          49
+
+======================================================================
+  STEP 10: SAVING OUTPUTS
+======================================================================
+  Files saved:
+    outputs/X_train.csv
+    outputs/X_test.csv
+    outputs/X_train_scaled.csv
+    outputs/X_test_scaled.csv
+    outputs/y_train.csv
+    outputs/y_test.csv
+    outputs/preprocessed_full.csv
+    outputs/preprocessing_encoders.pkl
+    outputs/scaler.pkl
+    outputs/preprocessing_config.json

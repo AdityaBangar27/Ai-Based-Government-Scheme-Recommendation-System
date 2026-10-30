@@ -1,0 +1,101 @@
+Scheme_Name,Beneficiary,Min_Age,Max_Age,Income_Limit,State,Gender,Education,Category,Occupation,Disability_Status,Marital_Status
+PM Kisan,Farmer,18,100,No Limit,All States,Any,Any,All,Farmer,Any,Any
+PM Fasal Bima Yojana,Farmer,18,100,No Limit,All States,Any,Any,All,Farmer,Any,Any
+Kisan Credit Card,Farmer,18,75,No Limit,All States,Any,Any,All,Farmer,Any,Any
+PM Kisan Maan Dhan Yojana,Farmer,18,40,No Limit,All States,Any,Any,All,Farmer,Any,Any
+Soil Health Card Scheme,Farmer,18,100,No Limit,All States,Any,Any,All,Farmer,Any,Any
+Agriculture Infrastructure Fund,Farmer,18,65,No Limit,All States,Any,Any,All,Farmer,Any,Any
+NSP Scholarship,Student,18,30,800000,All States,Any,12th Pass,All,Student,Any,Any
+Central Sector Scholarship,Student,17,25,800000,All States,Any,12th Pass,All,Student,Any,Any
+PM YASASVI,Student,13,18,250000,All States,Any,School Student,OBC/EBC/DNT,Student,Any,Any
+AICTE Pragati,Student,17,30,800000,All States,Female,12th Pass,All,Student,Any,Any
+AICTE Saksham,Student,17,30,800000,All States,Any,12th Pass,All,Student,Yes,Any
+INSPIRE Scholarship,Student,17,25,No Limit,All States,Any,12th Pass,All,Student,Any,Any
+PM Research Fellowship,Student,21,35,No Limit,All States,Any,Graduate,All,Research Scholar,Any,Any
+Post Matric Scholarship SC,Student,15,35,250000,All States,Any,10th Pass,SC,Student,Any,Any
+Post Matric Scholarship ST,Student,15,35,250000,All States,Any,10th Pass,ST,Student,Any,Any
+PMEGP,Entrepreneur,18,60,No Limit,All States,Any,8th Pass,All,Entrepreneur,Any,Any
+Startup India,Entrepreneur,18,65,No Limit,All States,Any,Any,All,Entrepreneur,Any,Any
+Stand Up India,Entrepreneur,18,65,No Limit,All States,Any,Any,SC/ST/Women,Entrepreneur,Any,Any
+PM Vishwakarma,Artisan,18,60,No Limit,All States,Any,Any,All,Artisan,Any,Any
+Mudra Loan Scheme,Entrepreneur,18,65,No Limit,All States,Any,Any,All,Business Owner,Any,Any
+PM Kisan Variant 1,Farmer,18,100,No Limit,All States,Any,Any,All,Farmer,Any,Any
+PM Fasal Bima Yojana Variant 2,Farmer,18,100,No Limit,All States,Any,Any,All,Farmer,Any,Any
+Kisan Credit Card Variant 3,Farmer,18,75,No Limit,All States,Any,Any,All,Farmer,Any,Any
+PM Kisan Maan Dhan Yojana Variant 4,Farmer,18,40,No Limit,All States,Any,Any,All,Farmer,Any,Any
+Soil Health Card Scheme Variant 5,Farmer,18,100,No Limit,All States,Any,Any,All,Farmer,Any,Any
+Agriculture Infrastructure Fund Variant 6,Farmer,18,65,No Limit,All States,Any,Any,All,Farmer,Any,Any
+NSP Scholarship Variant 7,Student,18,30,800000,All States,Any,12th Pass,All,Student,Any,Any
+Central Sector Scholarship Variant 8,Student,17,25,800000,All States,Any,12th Pass,All,Student,Any,Any
+PM YASASVI Variant 9,Student,13,18,250000,All States,Any,School Student,OBC/EBC/DNT,Student,Any,Any
+AICTE Pragati Variant 10,Student,17,30,800000,All States,Female,12th Pass,All,Student,Any,Any
+AICTE Saksham Variant 11,Student,17,30,800000,All States,Any,12th Pass,All,Student,Yes,Any
+INSPIRE Scholarship Variant 12,Student,17,25,No Limit,All States,Any,12th Pass,All,Student,Any,Any
+PM Research Fellowship Variant 13,Student,21,35,No Limit,All States,Any,Graduate,All,Research Scholar,Any,Any
+Post Matric Scholarship SC Variant 14,Student,15,35,250000,All States,Any,10th Pass,SC,Student,Any,Any
+Post Matric Scholarship ST Variant 15,Student,15,35,250000,All States,Any,10th Pass,ST,Student,Any,Any
+PMEGP Variant 16,Entrepreneur,18,60,No Limit,All States,Any,8th Pass,All,Entrepreneur,Any,Any
+Startup India Variant 17,Entrepreneur,18,65,No Limit,All States,Any,Any,All,Entrepreneur,Any,Any
+Stand Up India Variant 18,Entrepreneur,18,65,No Limit,All States,Any,Any,SC/ST/Women,Entrepreneur,Any,Any
+PM Vishwakarma Variant 19,Artisan,18,60,No Limit,All States,Any,Any,All,Artisan,Any,Any
+Mudra Loan Scheme Variant 20,Entrepreneur,18,65,No Limit,All States,Any,Any,All,Business Owner,Any,Any
+PM Kisan Variant 21,Farmer,18,100,No Limit,All States,Any,Any,All,Farmer,Any,Any
+PM Fasal Bima Yojana Variant 22,Farmer,18,100,No Limit,All States,Any,Any,All,Farmer,Any,Any
+Kisan Credit Card Variant 23,Farmer,18,75,No Limit,All States,Any,Any,All,Farmer,Any,Any
+PM Kisan Maan Dhan Yojana Variant 24,Farmer,18,40,No Limit,All States,Any,Any,All,Farmer,Any,Any
+Soil Health Card Scheme Variant 25,Farmer,18,100,No Limit,All States,Any,Any,All,Farmer,Any,Any
+Agriculture Infrastructure Fund Variant 26,Farmer,18,65,No Limit,All States,Any,Any,All,Farmer,Any,Any
+NSP Scholarship Variant 27,Student,18,30,800000,All States,Any,12th Pass,All,Student,Any,Any
+Central Sector Scholarship Variant 28,Student,17,25,800000,All States,Any,12th Pass,All,Student,Any,Any
+PM YASASVI Variant 29,Student,13,18,250000,All States,Any,School Student,OBC/EBC/DNT,Student,Any,Any
+AICTE Pragati Variant 30,Student,17,30,800000,All States,Female,12th Pass,All,Student,Any,Any
+AICTE Saksham Variant 31,Student,17,30,800000,All States,Any,12th Pass,All,Student,Yes,Any
+INSPIRE Scholarship Variant 32,Student,17,25,No Limit,All States,Any,12th Pass,All,Student,Any,Any
+PM Research Fellowship Variant 33,Student,21,35,No Limit,All States,Any,Graduate,All,Research Scholar,Any,Any
+Post Matric Scholarship SC Variant 34,Student,15,35,250000,All States,Any,10th Pass,SC,Student,Any,Any
+Post Matric Scholarship ST Variant 35,Student,15,35,250000,All States,Any,10th Pass,ST,Student,Any,Any
+PMEGP Variant 36,Entrepreneur,18,60,No Limit,All States,Any,8th Pass,All,Entrepreneur,Any,Any
+Startup India Variant 37,Entrepreneur,18,65,No Limit,All States,Any,Any,All,Entrepreneur,Any,Any
+Stand Up India Variant 38,Entrepreneur,18,65,No Limit,All States,Any,Any,SC/ST/Women,Entrepreneur,Any,Any
+PM Vishwakarma Variant 39,Artisan,18,60,No Limit,All States,Any,Any,All,Artisan,Any,Any
+Mudra Loan Scheme Variant 40,Entrepreneur,18,65,No Limit,All States,Any,Any,All,Business Owner,Any,Any
+PM Kisan Variant 41,Farmer,18,100,No Limit,All States,Any,Any,All,Farmer,Any,Any
+PM Fasal Bima Yojana Variant 42,Farmer,18,100,No Limit,All States,Any,Any,All,Farmer,Any,Any
+Kisan Credit Card Variant 43,Farmer,18,75,No Limit,All States,Any,Any,All,Farmer,Any,Any
+PM Kisan Maan Dhan Yojana Variant 44,Farmer,18,40,No Limit,All States,Any,Any,All,Farmer,Any,Any
+Soil Health Card Scheme Variant 45,Farmer,18,100,No Limit,All States,Any,Any,All,Farmer,Any,Any
+Agriculture Infrastructure Fund Variant 46,Farmer,18,65,No Limit,All States,Any,Any,All,Farmer,Any,Any
+NSP Scholarship Variant 47,Student,18,30,800000,All States,Any,12th Pass,All,Student,Any,Any
+Central Sector Scholarship Variant 48,Student,17,25,800000,All States,Any,12th Pass,All,Student,Any,Any
+PM YASASVI Variant 49,Student,13,18,250000,All States,Any,School Student,OBC/EBC/DNT,Student,Any,Any
+AICTE Pragati Variant 50,Student,17,30,800000,All States,Female,12th Pass,All,Student,Any,Any
+AICTE Saksham Variant 51,Student,17,30,800000,All States,Any,12th Pass,All,Student,Yes,Any
+INSPIRE Scholarship Variant 52,Student,17,25,No Limit,All States,Any,12th Pass,All,Student,Any,Any
+PM Research Fellowship Variant 53,Student,21,35,No Limit,All States,Any,Graduate,All,Research Scholar,Any,Any
+Post Matric Scholarship SC Variant 54,Student,15,35,250000,All States,Any,10th Pass,SC,Student,Any,Any
+Post Matric Scholarship ST Variant 55,Student,15,35,250000,All States,Any,10th Pass,ST,Student,Any,Any
+PMEGP Variant 56,Entrepreneur,18,60,No Limit,All States,Any,8th Pass,All,Entrepreneur,Any,Any
+Startup India Variant 57,Entrepreneur,18,65,No Limit,All States,Any,Any,All,Entrepreneur,Any,Any
+Stand Up India Variant 58,Entrepreneur,18,65,No Limit,All States,Any,Any,SC/ST/Women,Entrepreneur,Any,Any
+PM Vishwakarma Variant 59,Artisan,18,60,No Limit,All States,Any,Any,All,Artisan,Any,Any
+Mudra Loan Scheme Variant 60,Entrepreneur,18,65,No Limit,All States,Any,Any,All,Business Owner,Any,Any
+PM Kisan Variant 61,Farmer,18,100,No Limit,All States,Any,Any,All,Farmer,Any,Any
+PM Fasal Bima Yojana Variant 62,Farmer,18,100,No Limit,All States,Any,Any,All,Farmer,Any,Any
+Kisan Credit Card Variant 63,Farmer,18,75,No Limit,All States,Any,Any,All,Farmer,Any,Any
+PM Kisan Maan Dhan Yojana Variant 64,Farmer,18,40,No Limit,All States,Any,Any,All,Farmer,Any,Any
+Soil Health Card Scheme Variant 65,Farmer,18,100,No Limit,All States,Any,Any,All,Farmer,Any,Any
+Agriculture Infrastructure Fund Variant 66,Farmer,18,65,No Limit,All States,Any,Any,All,Farmer,Any,Any
+NSP Scholarship Variant 67,Student,18,30,800000,All States,Any,12th Pass,All,Student,Any,Any
+Central Sector Scholarship Variant 68,Student,17,25,800000,All States,Any,12th Pass,All,Student,Any,Any
+PM YASASVI Variant 69,Student,13,18,250000,All States,Any,School Student,OBC/EBC/DNT,Student,Any,Any
+AICTE Pragati Variant 70,Student,17,30,800000,All States,Female,12th Pass,All,Student,Any,Any
+AICTE Saksham Variant 71,Student,17,30,800000,All States,Any,12th Pass,All,Student,Yes,Any
+INSPIRE Scholarship Variant 72,Student,17,25,No Limit,All States,Any,12th Pass,All,Student,Any,Any
+PM Research Fellowship Variant 73,Student,21,35,No Limit,All States,Any,Graduate,All,Research Scholar,Any,Any
+Post Matric Scholarship SC Variant 74,Student,15,35,250000,All States,Any,10th Pass,SC,Student,Any,Any
+Post Matric Scholarship ST Variant 75,Student,15,35,250000,All States,Any,10th Pass,ST,Student,Any,Any
+PMEGP Variant 76,Entrepreneur,18,60,No Limit,All States,Any,8th Pass,All,Entrepreneur,Any,Any
+Startup India Variant 77,Entrepreneur,18,65,No Limit,All States,Any,Any,All,Entrepreneur,Any,Any
+Stand Up India Variant 78,Entrepreneur,18,65,No Limit,All States,Any,Any,SC/ST/Women,Entrepreneur,Any,Any
+PM Vishwakarma Variant 79,Artisan,18,60,No Limit,All States,Any,Any,All,Artisan,Any,Any
+Mudra Loan Scheme Variant 80,Entrepreneur,18,65,No Limit,All States,Any,Any,All,Business Owner,Any,Any

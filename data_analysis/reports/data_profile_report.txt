@@ -1,0 +1,383 @@
+======================================================================
+  DATA PROFILING REPORT
+======================================================================
+Generated: 2026-10-30 08:45:49
+  [OK] Loaded Users (Training): 1500 rows x 11 cols
+  [OK] Loaded Schemes: 10 rows x 16 cols
+  [OK] Loaded Applications: 0 rows x 15 cols
+  [OK] Loaded Feedback: 0 rows x 10 cols
+======================================================================
+  DATASET: Users (Training)
+======================================================================
+
+--- Shape ---
+  Rows: 1500   Columns: 11
+
+--- Columns & Data Types ---
+  Age                                 int64       
+  Gender                              object      
+  Income                              int64       
+  State                               object      
+  Education                           object      
+  Occupation                          object      
+  Category                            object      
+  Disability_Status                   object      
+  Rural_Urban                         object      
+  Employment_Status                   object      
+  Recommended_Scheme                  object      
+
+--- Missing Values ---
+  No missing values detected.
+
+--- Duplicate Rows ---
+  Duplicate rows: 0
+
+--- Numeric Columns — Descriptive Statistics ---
+           Age      Income
+count  1500.00     1500.00
+mean     35.40   422395.54
+std      13.43   262878.14
+min      17.00     5000.00
+25%      24.00   215610.50
+50%      33.00   376708.00
+75%      47.00   553722.25
+max      65.00  1199383.00
+
+--- Categorical Columns — Unique Value Counts ---
+
+  [Gender]  — 2 unique values
+    Male                             760  (50.7%)
+    Female                           740  (49.3%)
+
+  [State]  — 8 unique values
+    Karnataka                        205  (13.7%)
+    Madhya Pradesh                   199  (13.3%)
+    Bihar                            198  (13.2%)
+    Rajasthan                        192  (12.8%)
+    Maharashtra                      187  (12.5%)
+
+  [Education]  — 7 unique values
+    12th                             432  (28.8%)
+    10th                             347  (23.1%)
+    5th                              239  (15.9%)
+    Graduate                         186  (12.4%)
+    BTech                            112  (7.5%)
+
+  [Occupation]  — 4 unique values
+    Student                          402  (26.8%)
+    Farmer                           391  (26.1%)
+    Entrepreneur                     374  (24.9%)
+    Artisan                          333  (22.2%)
+
+  [Category]  — 4 unique values
+    ST                               400  (26.7%)
+    General                          373  (24.9%)
+    OBC                              370  (24.7%)
+    SC                               357  (23.8%)
+
+  [Disability_Status]  — 2 unique values
+    Yes                              767  (51.1%)
+    No                               733  (48.9%)
+
+  [Rural_Urban]  — 2 unique values
+    Rural                            769  (51.3%)
+    Urban                            731  (48.7%)
+
+  [Employment_Status]  — 4 unique values
+    Student                          402  (26.8%)
+    Farmer                           391  (26.1%)
+    Entrepreneur                     374  (24.9%)
+    Artisan                          333  (22.2%)
+
+  [Recommended_Scheme]  — 16 unique values
+    PM Vishwakarma                   333  (22.2%)
+    PM Kisan                         106  (7.1%)
+    PM Kisan Maan Dhan Yojana         96  (6.4%)
+    Kisan Credit Card                 95  (6.3%)
+    PM Fasal Bima Yojana              94  (6.3%)
+======================================================================
+  DATASET: Schemes
+======================================================================
+
+--- Shape ---
+  Rows: 10   Columns: 16
+
+--- Columns & Data Types ---
+  scheme_id                           int64       
+  scheme_name                         object      
+  description                         object      
+  department                          object      
+  min_age                             int64       
+  max_age                             int64       
+  income_limit                        object      
+  eligibility_criteria                object      
+  benefits                            object      
+  required_documents                  object      
+  required_certificates               object      
+  last_application_date               object      
+  official_website                    object      
+  category                            object      
+  state                               object      
+  created_at                          object      
+
+--- Missing Values ---
+  No missing values detected.
+
+--- Duplicate Rows ---
+  Duplicate rows: 0
+
+--- Numeric Columns — Descriptive Statistics ---
+       scheme_id  min_age  max_age
+count      10.00    10.00    10.00
+mean        5.50    12.70    60.50
+std         3.03    10.49    26.50
+min         1.00     0.00    25.00
+25%         3.25     1.25    43.75
+50%         5.50    18.00    60.00
+75%         7.75    18.00    72.50
+max        10.00    29.00   100.00
+
+--- Categorical Columns — Unique Value Counts ---
+
+  [scheme_name]  — 10 unique values
+    PM Kisan Samman Nidhi              1  (10.0%)
+    Pradhan Mantri Fasal Bima Yojana     1  (10.0%)
+    Kisan Credit Card Scheme           1  (10.0%)
+    PM Vishwakarma Scheme              1  (10.0%)
+    National Scholarship Scheme        1  (10.0%)
+
+  [description]  — 10 unique values
+    Direct income support to farmers     1  (10.0%)
+    Crop insurance scheme              1  (10.0%)
+    Credit facility for farmers        1  (10.0%)
+    Support for artisans and craftsmen     1  (10.0%)
+    Scholarship for students           1  (10.0%)
+
+  [department]  — 8 unique values
+    Ministry of Agriculture            3  (30.0%)
+    Ministry of MSME                   1  (10.0%)
+    Ministry of Education              1  (10.0%)
+    Ministry of Housing                1  (10.0%)
+    Ministry of Health                 1  (10.0%)
+
+  [income_limit]  — 5 unique values
+    500000                             6  (60.0%)
+    2500000                            1  (10.0%)
+    1500000                            1  (10.0%)
+    300000                             1  (10.0%)
+    unlimited                          1  (10.0%)
+
+  [eligibility_criteria]  — 9 unique values
+    Farmer,Land ownership              2  (20.0%)
+    Farmer,Crop grower                 1  (10.0%)
+    Artisan,Craftsperson               1  (10.0%)
+    Student,Merit-based                1  (10.0%)
+    EWS,LIG                            1  (10.0%)
+
+  [benefits]  — 10 unique values
+    ₹6000 annually                     1  (10.0%)
+    Premium subsidy                    1  (10.0%)
+    Low interest loans                 1  (10.0%)
+    Loan up to ₹3 lakhs                1  (10.0%)
+    ₹500-₹5000 monthly                 1  (10.0%)
+
+  [required_documents]  — 1 unique values
+    Aadhar                            10  (100.0%)
+
+  [required_certificates]  — 8 unique values
+    Bank Details                       3  (30.0%)
+    Farmer Certificate                 1  (10.0%)
+    Skill Certificate                  1  (10.0%)
+    School Certificate                 1  (10.0%)
+    Income Certificate                 1  (10.0%)
+
+  [last_application_date]  — 3 unique values
+    2026-12-31                         8  (80.0%)
+    2026-09-30                         1  (10.0%)
+    2026-08-31                         1  (10.0%)
+
+  [official_website]  — 10 unique values
+    https://pmkisan.gov.in             1  (10.0%)
+    https://pmfby.gov.in               1  (10.0%)
+    https://kcc.gov.in                 1  (10.0%)
+    https://pmvishwakarma.gov.in       1  (10.0%)
+    https://scholarships.gov.in        1  (10.0%)
+
+  [category]  — 6 unique values
+    Farmer                             3  (30.0%)
+    General                            3  (30.0%)
+    Artisan                            1  (10.0%)
+    Student                            1  (10.0%)
+    Women                              1  (10.0%)
+
+  [state]  — 1 unique values
+    All States                        10  (100.0%)
+
+  [created_at]  — 1 unique values
+    2024-01-01                        10  (100.0%)
+======================================================================
+  DATASET: Applications
+======================================================================
+
+--- Shape ---
+  Rows: 0   Columns: 15
+
+--- Columns & Data Types ---
+  application_id                      object      
+  user_id                             object      
+  scheme_id                           object      
+  scheme_name                         object      
+  status                              object      
+  application_date                    object      
+  submission_date                     object      
+  approval_date                       object      
+  rejection_reason                    object      
+  documents_uploaded                  object      
+  verification_status                 object      
+  timeline_stage                      object      
+  notes                               object      
+  created_at                          object      
+  updated_at                          object      
+
+--- Missing Values ---
+  No missing values detected.
+
+--- Duplicate Rows ---
+  Duplicate rows: 0
+
+--- Numeric Columns — Descriptive Statistics ---
+  No numeric columns.
+
+--- Categorical Columns — Unique Value Counts ---
+
+  [application_id]  — 0 unique values
+
+  [user_id]  — 0 unique values
+
+  [scheme_id]  — 0 unique values
+
+  [scheme_name]  — 0 unique values
+
+  [status]  — 0 unique values
+
+  [application_date]  — 0 unique values
+
+  [submission_date]  — 0 unique values
+
+  [approval_date]  — 0 unique values
+
+  [rejection_reason]  — 0 unique values
+
+  [documents_uploaded]  — 0 unique values
+
+  [verification_status]  — 0 unique values
+
+  [timeline_stage]  — 0 unique values
+
+  [notes]  — 0 unique values
+
+  [created_at]  — 0 unique values
+
+  [updated_at]  — 0 unique values
+======================================================================
+  DATASET: Feedback
+======================================================================
+
+--- Shape ---
+  Rows: 0   Columns: 10
+
+--- Columns & Data Types ---
+  feedback_id                         object      
+  user_id                             object      
+  rating                              object      
+  feedback_text                       object      
+  feedback_category                   object      
+  status                              object      
+  response                            object      
+  responded_by                        object      
+  responded_at                        object      
+  created_at                          object      
+
+--- Missing Values ---
+  No missing values detected.
+
+--- Duplicate Rows ---
+  Duplicate rows: 0
+
+--- Numeric Columns — Descriptive Statistics ---
+  No numeric columns.
+
+--- Categorical Columns — Unique Value Counts ---
+
+  [feedback_id]  — 0 unique values
+
+  [user_id]  — 0 unique values
+
+  [rating]  — 0 unique values
+
+  [feedback_text]  — 0 unique values
+
+  [feedback_category]  — 0 unique values
+
+  [status]  — 0 unique values
+
+  [response]  — 0 unique values
+
+  [responded_by]  — 0 unique values
+
+  [responded_at]  — 0 unique values
+
+  [created_at]  — 0 unique values
+======================================================================
+  DEEPER DIVE: Users Training Dataset
+======================================================================
+
+--- Age Distribution Buckets ---
+  <18     :   87  ████
+  18-25   :  371  ██████████████████
+  26-35   :  378  ██████████████████
+  36-45   :  251  ████████████
+  46-55   :  262  █████████████
+  56-65   :  151  ███████
+  65+     :    0  
+
+--- Income Distribution Buckets (INR) ---
+  < 1L      :   97  ███
+  1L-3L     :  460  ██████████████████
+  3L-5L     :  479  ███████████████████
+  5L-8L     :  323  ████████████
+  8L+       :  141  █████
+
+--- Scheme Distribution (Target Variable) ---
+  PM Vishwakarma                       333   22.2%  ██████████████████████
+  PM Kisan                             106    7.1%  ███████
+  PM Kisan Maan Dhan Yojana             96    6.4%  ██████
+  Kisan Credit Card                     95    6.3%  ██████
+  PM Fasal Bima Yojana                  94    6.3%  ██████
+  Stand Up India                        79    5.3%  █████
+  CGTMSE                                79    5.3%  █████
+  NSP Scholarship                       77    5.1%  █████
+  Mudra Loan Scheme                     75    5.0%  █████
+  PMEGP                                 73    4.9%  ████
+  AICTE Pragati                         69    4.6%  ████
+  Startup India                         68    4.5%  ████
+  AICTE Saksham                         67    4.5%  ████
+  PM YASASVI                            66    4.4%  ████
+  INSPIRE Scholarship                   62    4.1%  ████
+  Central Sector Scholarship            61    4.1%  ████
+
+--- Cross-tab: Occupation vs Recommended_Scheme (top associations) ---
+Recommended_Scheme  AICTE Pragati  AICTE Saksham  CGTMSE  Central Sector Scholarship  INSPIRE Scholarship  Kisan Credit Card  Mudra Loan Scheme  NSP Scholarship  PM Fasal Bima Yojana  PM Kisan  PM Kisan Maan Dhan Yojana  PM Vishwakarma  PM YASASVI  PMEGP  Stand Up India  Startup India
+Occupation                                                                                                                                                                                                                                                                                   
+Artisan                         0              0       0                           0                    0                  0                  0                0                     0         0                          0             333           0      0               0              0
+Entrepreneur                    0              0      79                           0                    0                  0                 75                0                     0         0                          0               0           0     73              79             68
+Farmer                          0              0       0                           0                    0                 95                  0                0                    94       106                         96               0           0      0               0              0
+Student                        69             67       0                          61                   62                  0                  0               77                     0         0                          0               0          66      0               0              0
+
+--- Cross-tab: Category vs Recommended_Scheme ---
+Recommended_Scheme  AICTE Pragati  AICTE Saksham  CGTMSE  Central Sector Scholarship  INSPIRE Scholarship  Kisan Credit Card  Mudra Loan Scheme  NSP Scholarship  PM Fasal Bima Yojana  PM Kisan  PM Kisan Maan Dhan Yojana  PM Vishwakarma  PM YASASVI  PMEGP  Stand Up India  Startup India
+Category                                                                                                                                                                                                                                                                                     
+General                        20             15      20                          15                   15                 27                 15               23                    23        21                         21              79          17     20              24             18
+OBC                            14             12      21                          14                   15                 23                 23               19                    27        29                         26              78          13     24              20             12
+SC                             16             18      21                          18                   15                 27                 16               18                    21        26                         24              77          16     10              15             19
+ST                             19             22      17                          14                   17                 18                 21               17                    23        30                         25              99          20     19              20             19

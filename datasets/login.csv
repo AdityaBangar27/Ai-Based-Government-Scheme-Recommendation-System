@@ -1,0 +1,1 @@
+login_id,user_id,email,password_hash,login_time,logout_time,ip_address,remember_me,session_token,device,created_at

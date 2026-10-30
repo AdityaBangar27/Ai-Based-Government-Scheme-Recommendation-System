@@ -1,0 +1,1501 @@
+Age,Gender,Income,State,Education,Occupation,Category,Disability_Status,Rural_Urban,Employment_Status,Recommended_Scheme
+60,Male,471642,Gujarat,10th,Farmer,SC,No,Urban,Farmer,PM Kisan Maan Dhan Yojana
+56,Female,155342,Bihar,12th,Farmer,OBC,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+38,Male,117066,Rajasthan,5th,Farmer,OBC,Yes,Rural,Farmer,Kisan Credit Card
+19,Male,433917,Tamil Nadu,5th,Farmer,General,Yes,Rural,Farmer,PM Fasal Bima Yojana
+56,Female,67916,Karnataka,5th,Artisan,SC,Yes,Rural,Artisan,PM Vishwakarma
+25,Male,665620,Bihar,BTech,Student,General,No,Rural,Student,Central Sector Scholarship
+32,Male,895314,Rajasthan,10th,Entrepreneur,General,Yes,Urban,Entrepreneur,PMEGP
+27,Female,84191,Madhya Pradesh,Diploma,Student,ST,Yes,Rural,Student,Central Sector Scholarship
+27,Female,504332,Tamil Nadu,5th,Artisan,SC,No,Urban,Artisan,PM Vishwakarma
+47,Male,109851,Rajasthan,10th,Farmer,General,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+43,Female,198447,Uttar Pradesh,12th,Artisan,SC,No,Rural,Artisan,PM Vishwakarma
+39,Female,939699,Bihar,10th,Entrepreneur,General,No,Rural,Entrepreneur,Mudra Loan Scheme
+57,Male,322663,Gujarat,12th,Farmer,OBC,Yes,Urban,Farmer,PM Fasal Bima Yojana
+48,Female,460121,Rajasthan,10th,Entrepreneur,General,Yes,Urban,Entrepreneur,Stand Up India
+26,Female,87532,Maharashtra,12th,Student,SC,Yes,Rural,Student,NSP Scholarship
+23,Male,95292,Bihar,12th,Student,OBC,No,Urban,Student,INSPIRE Scholarship
+48,Male,198302,Uttar Pradesh,12th,Artisan,OBC,Yes,Rural,Artisan,PM Vishwakarma
+18,Female,402797,Bihar,Diploma,Student,SC,Yes,Urban,Student,AICTE Saksham
+42,Female,711912,Tamil Nadu,12th,Entrepreneur,SC,No,Rural,Entrepreneur,CGTMSE
+35,Male,73594,Uttar Pradesh,10th,Artisan,SC,Yes,Rural,Artisan,PM Vishwakarma
+49,Female,195063,Rajasthan,MBA,Entrepreneur,SC,Yes,Urban,Entrepreneur,CGTMSE
+43,Female,906443,Uttar Pradesh,12th,Entrepreneur,SC,Yes,Urban,Entrepreneur,CGTMSE
+28,Female,687494,Rajasthan,BTech,Student,ST,No,Rural,Student,AICTE Saksham
+25,Female,1128239,Karnataka,MBA,Entrepreneur,SC,Yes,Urban,Entrepreneur,PMEGP
+41,Female,175131,Karnataka,10th,Entrepreneur,General,Yes,Urban,Entrepreneur,PMEGP
+62,Male,311820,Madhya Pradesh,12th,Farmer,ST,No,Rural,Farmer,Kisan Credit Card
+38,Male,361549,Maharashtra,5th,Farmer,ST,Yes,Urban,Farmer,Kisan Credit Card
+23,Male,250319,Uttar Pradesh,12th,Artisan,General,No,Urban,Artisan,PM Vishwakarma
+40,Female,172956,Rajasthan,5th,Artisan,SC,No,Rural,Artisan,PM Vishwakarma
+18,Female,787492,Karnataka,Diploma,Student,SC,Yes,Rural,Student,NSP Scholarship
+65,Female,108968,Karnataka,5th,Farmer,OBC,No,Urban,Farmer,Kisan Credit Card
+21,Female,538008,Maharashtra,Graduate,Student,General,No,Urban,Student,AICTE Pragati
+30,Male,1023082,Bihar,12th,Entrepreneur,OBC,No,Rural,Entrepreneur,Startup India
+21,Female,267388,Rajasthan,Graduate,Entrepreneur,SC,Yes,Urban,Entrepreneur,Mudra Loan Scheme
+28,Female,778827,Maharashtra,Graduate,Student,ST,No,Urban,Student,AICTE Saksham
+39,Female,94509,Madhya Pradesh,10th,Artisan,OBC,No,Urban,Artisan,PM Vishwakarma
+58,Male,271527,Tamil Nadu,10th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+37,Male,373138,Rajasthan,10th,Farmer,ST,Yes,Rural,Farmer,Kisan Credit Card
+32,Male,347512,Karnataka,MBA,Entrepreneur,SC,Yes,Rural,Entrepreneur,Stand Up India
+54,Female,318313,Rajasthan,12th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+58,Male,224490,Tamil Nadu,10th,Farmer,ST,No,Urban,Farmer,PM Kisan Maan Dhan Yojana
+42,Male,858268,Karnataka,Graduate,Entrepreneur,General,Yes,Urban,Entrepreneur,Mudra Loan Scheme
+47,Female,871711,Karnataka,12th,Entrepreneur,SC,No,Rural,Entrepreneur,Mudra Loan Scheme
+20,Female,129347,Tamil Nadu,12th,Student,SC,Yes,Rural,Student,INSPIRE Scholarship
+33,Female,442652,Tamil Nadu,10th,Artisan,OBC,Yes,Rural,Artisan,PM Vishwakarma
+34,Male,261188,Maharashtra,12th,Artisan,SC,No,Rural,Artisan,PM Vishwakarma
+25,Male,505921,Tamil Nadu,5th,Artisan,SC,Yes,Rural,Artisan,PM Vishwakarma
+30,Male,311646,Maharashtra,12th,Farmer,General,Yes,Rural,Farmer,PM Kisan Maan Dhan Yojana
+19,Male,139193,Gujarat,5th,Farmer,General,No,Urban,Farmer,PM Fasal Bima Yojana
+26,Male,426564,Bihar,12th,Artisan,ST,Yes,Urban,Artisan,PM Vishwakarma
+21,Male,577558,Uttar Pradesh,12th,Artisan,SC,Yes,Urban,Artisan,PM Vishwakarma
+54,Male,1008734,Gujarat,10th,Entrepreneur,General,No,Rural,Entrepreneur,CGTMSE
+26,Female,133381,Gujarat,Graduate,Student,OBC,No,Rural,Student,AICTE Saksham
+42,Female,654301,Karnataka,MBA,Entrepreneur,OBC,Yes,Urban,Entrepreneur,PMEGP
+44,Male,122370,Uttar Pradesh,10th,Farmer,SC,No,Urban,Farmer,Kisan Credit Card
+22,Male,415974,Maharashtra,Diploma,Student,OBC,Yes,Rural,Student,NSP Scholarship
+24,Male,606064,Bihar,BTech,Student,OBC,Yes,Rural,Student,PM YASASVI
+39,Male,74546,Gujarat,10th,Farmer,SC,Yes,Rural,Farmer,PM Kisan
+51,Male,445622,Gujarat,12th,Artisan,General,Yes,Rural,Artisan,PM Vishwakarma
+21,Female,260953,Maharashtra,MBA,Entrepreneur,SC,Yes,Urban,Entrepreneur,Startup India
+57,Female,390010,Maharashtra,5th,Farmer,General,Yes,Urban,Farmer,Kisan Credit Card
+23,Male,565086,Madhya Pradesh,Diploma,Student,SC,No,Rural,Student,AICTE Saksham
+23,Male,405758,Uttar Pradesh,5th,Farmer,General,No,Rural,Farmer,Kisan Credit Card
+33,Male,211355,Karnataka,12th,Farmer,ST,Yes,Urban,Farmer,Kisan Credit Card
+34,Female,81402,Karnataka,12th,Artisan,OBC,No,Urban,Artisan,PM Vishwakarma
+22,Female,366588,Tamil Nadu,Graduate,Student,SC,Yes,Urban,Student,Central Sector Scholarship
+33,Female,208801,Rajasthan,12th,Artisan,General,No,Urban,Artisan,PM Vishwakarma
+22,Female,174171,Rajasthan,12th,Farmer,OBC,Yes,Urban,Farmer,PM Fasal Bima Yojana
+46,Female,315614,Karnataka,12th,Entrepreneur,ST,No,Rural,Entrepreneur,Mudra Loan Scheme
+24,Female,159269,Maharashtra,12th,Student,OBC,No,Rural,Student,NSP Scholarship
+25,Male,611537,Gujarat,Graduate,Student,OBC,No,Rural,Student,PM YASASVI
+22,Male,528547,Bihar,5th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+22,Female,489874,Rajasthan,12th,Student,OBC,No,Rural,Student,INSPIRE Scholarship
+17,Male,116963,Karnataka,BTech,Student,ST,Yes,Rural,Student,INSPIRE Scholarship
+41,Female,307804,Karnataka,10th,Artisan,OBC,Yes,Rural,Artisan,PM Vishwakarma
+20,Male,445197,Tamil Nadu,Diploma,Student,General,No,Urban,Student,Central Sector Scholarship
+44,Male,1086229,Bihar,MBA,Entrepreneur,SC,Yes,Urban,Entrepreneur,CGTMSE
+18,Female,497373,Karnataka,BTech,Student,SC,No,Rural,Student,Central Sector Scholarship
+41,Male,197249,Bihar,5th,Farmer,OBC,No,Urban,Farmer,PM Kisan Maan Dhan Yojana
+37,Female,212525,Bihar,12th,Artisan,General,Yes,Rural,Artisan,PM Vishwakarma
+21,Female,317867,Madhya Pradesh,12th,Student,General,Yes,Rural,Student,PM YASASVI
+46,Female,289069,Rajasthan,10th,Artisan,OBC,Yes,Rural,Artisan,PM Vishwakarma
+27,Male,280420,Madhya Pradesh,Graduate,Entrepreneur,OBC,Yes,Urban,Entrepreneur,PMEGP
+53,Female,516569,Madhya Pradesh,12th,Artisan,SC,No,Urban,Artisan,PM Vishwakarma
+25,Female,583611,Karnataka,BTech,Student,ST,No,Urban,Student,INSPIRE Scholarship
+21,Male,631839,Gujarat,12th,Entrepreneur,OBC,Yes,Rural,Entrepreneur,Startup India
+56,Female,294676,Bihar,Graduate,Entrepreneur,SC,No,Urban,Entrepreneur,Startup India
+59,Male,394714,Gujarat,10th,Farmer,ST,No,Urban,Farmer,PM Kisan
+56,Female,69561,Bihar,10th,Artisan,General,Yes,Rural,Artisan,PM Vishwakarma
+41,Male,326620,Gujarat,12th,Entrepreneur,OBC,No,Rural,Entrepreneur,Stand Up India
+31,Male,1182745,Karnataka,10th,Entrepreneur,General,Yes,Rural,Entrepreneur,Startup India
+22,Male,357352,Maharashtra,5th,Farmer,SC,Yes,Rural,Farmer,PM Fasal Bima Yojana
+27,Female,295505,Madhya Pradesh,Diploma,Student,OBC,Yes,Urban,Student,INSPIRE Scholarship
+19,Female,540078,Karnataka,Diploma,Student,ST,No,Urban,Student,AICTE Pragati
+19,Male,707305,Madhya Pradesh,12th,Student,ST,No,Rural,Student,NSP Scholarship
+43,Female,277955,Uttar Pradesh,5th,Farmer,ST,No,Urban,Farmer,PM Fasal Bima Yojana
+19,Male,291528,Tamil Nadu,12th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+29,Female,993213,Uttar Pradesh,Graduate,Entrepreneur,General,No,Urban,Entrepreneur,Mudra Loan Scheme
+17,Male,142935,Rajasthan,Graduate,Student,OBC,No,Urban,Student,AICTE Saksham
+18,Male,82930,Karnataka,Diploma,Student,SC,Yes,Urban,Student,NSP Scholarship
+21,Female,312434,Bihar,Diploma,Student,General,No,Rural,Student,AICTE Saksham
+53,Male,129958,Bihar,5th,Farmer,ST,No,Rural,Farmer,Kisan Credit Card
+18,Female,595286,Uttar Pradesh,12th,Student,General,Yes,Rural,Student,NSP Scholarship
+24,Male,420123,Madhya Pradesh,12th,Artisan,OBC,No,Rural,Artisan,PM Vishwakarma
+25,Male,684593,Bihar,BTech,Student,General,No,Rural,Student,NSP Scholarship
+53,Female,797666,Uttar Pradesh,MBA,Entrepreneur,ST,No,Urban,Entrepreneur,PMEGP
+26,Female,121386,Maharashtra,Graduate,Entrepreneur,SC,Yes,Urban,Entrepreneur,PMEGP
+25,Male,841335,Maharashtra,Graduate,Entrepreneur,ST,Yes,Urban,Entrepreneur,Stand Up India
+22,Female,332365,Tamil Nadu,12th,Student,SC,Yes,Rural,Student,INSPIRE Scholarship
+26,Male,219550,Uttar Pradesh,10th,Farmer,SC,Yes,Rural,Farmer,PM Kisan Maan Dhan Yojana
+22,Female,228996,Tamil Nadu,10th,Artisan,OBC,No,Urban,Artisan,PM Vishwakarma
+18,Female,917858,Karnataka,10th,Entrepreneur,ST,No,Urban,Entrepreneur,Startup India
+42,Male,123608,Madhya Pradesh,5th,Farmer,OBC,No,Rural,Farmer,PM Kisan
+17,Female,108222,Karnataka,BTech,Student,ST,No,Rural,Student,Central Sector Scholarship
+53,Female,134283,Madhya Pradesh,5th,Farmer,SC,Yes,Rural,Farmer,Kisan Credit Card
+21,Male,161894,Karnataka,Diploma,Student,SC,Yes,Urban,Student,NSP Scholarship
+54,Female,973263,Rajasthan,Graduate,Entrepreneur,General,No,Rural,Entrepreneur,Mudra Loan Scheme
+65,Female,126031,Gujarat,10th,Farmer,SC,Yes,Urban,Farmer,PM Fasal Bima Yojana
+55,Female,474528,Bihar,10th,Artisan,General,No,Rural,Artisan,PM Vishwakarma
+19,Female,87219,Bihar,BTech,Student,ST,Yes,Urban,Student,PM YASASVI
+27,Female,261255,Madhya Pradesh,12th,Student,ST,No,Rural,Student,INSPIRE Scholarship
+22,Male,5000,Uttar Pradesh,12th,Entrepreneur,ST,Yes,Urban,Entrepreneur,Stand Up India
+22,Female,446476,Madhya Pradesh,12th,Artisan,OBC,Yes,Urban,Artisan,PM Vishwakarma
+27,Male,208617,Bihar,BTech,Student,SC,No,Urban,Student,Central Sector Scholarship
+35,Female,445993,Madhya Pradesh,12th,Farmer,General,Yes,Urban,Farmer,PM Kisan Maan Dhan Yojana
+20,Male,388367,Rajasthan,12th,Student,SC,Yes,Rural,Student,AICTE Saksham
+17,Female,206297,Tamil Nadu,BTech,Student,General,Yes,Urban,Student,NSP Scholarship
+28,Male,634079,Rajasthan,Diploma,Student,ST,No,Rural,Student,NSP Scholarship
+63,Male,399851,Madhya Pradesh,12th,Farmer,SC,No,Rural,Farmer,PM Kisan
+53,Female,300681,Gujarat,5th,Farmer,General,Yes,Rural,Farmer,Kisan Credit Card
+51,Female,826436,Bihar,12th,Entrepreneur,SC,Yes,Rural,Entrepreneur,Startup India
+59,Female,949878,Uttar Pradesh,10th,Entrepreneur,SC,Yes,Urban,Entrepreneur,Stand Up India
+61,Female,192535,Uttar Pradesh,5th,Farmer,SC,No,Rural,Farmer,Kisan Credit Card
+46,Male,389832,Karnataka,10th,Farmer,OBC,Yes,Urban,Farmer,PM Kisan
+29,Female,515797,Uttar Pradesh,12th,Artisan,SC,No,Rural,Artisan,PM Vishwakarma
+45,Male,488465,Bihar,10th,Artisan,OBC,No,Rural,Artisan,PM Vishwakarma
+53,Female,632750,Rajasthan,12th,Entrepreneur,SC,Yes,Urban,Entrepreneur,Startup India
+48,Male,129452,Madhya Pradesh,5th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+55,Male,449473,Karnataka,10th,Farmer,SC,Yes,Urban,Farmer,PM Fasal Bima Yojana
+19,Female,190144,Bihar,5th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+45,Male,286787,Maharashtra,12th,Artisan,General,Yes,Rural,Artisan,PM Vishwakarma
+28,Male,755236,Uttar Pradesh,BTech,Student,ST,Yes,Urban,Student,INSPIRE Scholarship
+18,Male,209977,Maharashtra,10th,Artisan,General,Yes,Rural,Artisan,PM Vishwakarma
+18,Female,68093,Bihar,10th,Farmer,SC,Yes,Rural,Farmer,Kisan Credit Card
+19,Female,496396,Madhya Pradesh,12th,Farmer,SC,No,Urban,Farmer,Kisan Credit Card
+17,Male,674276,Tamil Nadu,BTech,Student,OBC,Yes,Urban,Student,AICTE Saksham
+28,Male,491036,Bihar,12th,Farmer,ST,Yes,Rural,Farmer,PM Kisan Maan Dhan Yojana
+28,Female,515948,Madhya Pradesh,Diploma,Student,OBC,No,Rural,Student,PM YASASVI
+19,Male,531999,Bihar,Diploma,Student,OBC,No,Rural,Student,Central Sector Scholarship
+22,Female,264141,Rajasthan,12th,Student,General,No,Rural,Student,PM YASASVI
+32,Female,1183466,Maharashtra,12th,Entrepreneur,ST,Yes,Rural,Entrepreneur,Mudra Loan Scheme
+26,Male,237241,Madhya Pradesh,Graduate,Student,ST,No,Rural,Student,PM YASASVI
+19,Female,464711,Karnataka,MBA,Entrepreneur,ST,Yes,Rural,Entrepreneur,Stand Up India
+33,Male,124419,Bihar,10th,Farmer,OBC,Yes,Rural,Farmer,Kisan Credit Card
+60,Female,1140407,Tamil Nadu,MBA,Entrepreneur,OBC,Yes,Rural,Entrepreneur,PMEGP
+60,Female,197791,Madhya Pradesh,12th,Artisan,General,No,Urban,Artisan,PM Vishwakarma
+42,Female,1114382,Rajasthan,Graduate,Entrepreneur,General,No,Urban,Entrepreneur,PMEGP
+33,Female,1135147,Uttar Pradesh,10th,Entrepreneur,ST,Yes,Urban,Entrepreneur,Stand Up India
+17,Male,613286,Bihar,Graduate,Student,ST,No,Urban,Student,INSPIRE Scholarship
+32,Male,302471,Madhya Pradesh,5th,Farmer,OBC,No,Urban,Farmer,Kisan Credit Card
+43,Female,339572,Maharashtra,10th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+28,Female,489700,Bihar,10th,Artisan,OBC,No,Urban,Artisan,PM Vishwakarma
+51,Male,144971,Maharashtra,5th,Farmer,ST,Yes,Urban,Farmer,PM Kisan
+55,Male,304365,Maharashtra,10th,Farmer,OBC,Yes,Rural,Farmer,Kisan Credit Card
+43,Male,165727,Rajasthan,10th,Artisan,General,No,Rural,Artisan,PM Vishwakarma
+34,Male,414532,Tamil Nadu,10th,Farmer,General,No,Rural,Farmer,PM Fasal Bima Yojana
+20,Female,423547,Gujarat,5th,Artisan,OBC,Yes,Rural,Artisan,PM Vishwakarma
+49,Female,124457,Karnataka,5th,Farmer,ST,No,Urban,Farmer,PM Kisan Maan Dhan Yojana
+26,Male,108366,Gujarat,10th,Artisan,ST,No,Urban,Artisan,PM Vishwakarma
+28,Female,476631,Madhya Pradesh,10th,Entrepreneur,ST,No,Rural,Entrepreneur,Stand Up India
+44,Male,128031,Rajasthan,10th,Farmer,ST,Yes,Rural,Farmer,Kisan Credit Card
+25,Male,1113594,Karnataka,10th,Entrepreneur,SC,No,Urban,Entrepreneur,Startup India
+43,Male,718128,Karnataka,10th,Entrepreneur,General,Yes,Rural,Entrepreneur,Startup India
+42,Male,720157,Rajasthan,10th,Entrepreneur,OBC,No,Rural,Entrepreneur,PMEGP
+42,Female,381776,Bihar,12th,Artisan,SC,Yes,Rural,Artisan,PM Vishwakarma
+21,Female,756376,Gujarat,Graduate,Student,SC,Yes,Urban,Student,INSPIRE Scholarship
+37,Male,401368,Rajasthan,12th,Farmer,General,Yes,Urban,Farmer,PM Kisan
+38,Male,59898,Maharashtra,12th,Farmer,OBC,Yes,Rural,Farmer,Kisan Credit Card
+65,Male,334993,Madhya Pradesh,12th,Farmer,OBC,Yes,Urban,Farmer,PM Fasal Bima Yojana
+20,Male,387690,Madhya Pradesh,12th,Student,General,No,Urban,Student,AICTE Saksham
+23,Female,485767,Tamil Nadu,10th,Farmer,OBC,No,Urban,Farmer,Kisan Credit Card
+30,Male,304009,Bihar,5th,Farmer,ST,Yes,Rural,Farmer,PM Fasal Bima Yojana
+41,Female,1085100,Bihar,12th,Entrepreneur,OBC,Yes,Urban,Entrepreneur,PMEGP
+22,Female,317131,Karnataka,10th,Farmer,SC,No,Rural,Farmer,PM Kisan
+54,Male,940710,Rajasthan,12th,Entrepreneur,OBC,Yes,Rural,Entrepreneur,CGTMSE
+43,Male,439356,Madhya Pradesh,5th,Farmer,ST,Yes,Rural,Farmer,Kisan Credit Card
+53,Male,1198812,Rajasthan,12th,Entrepreneur,General,No,Rural,Entrepreneur,Mudra Loan Scheme
+52,Female,272499,Bihar,5th,Artisan,OBC,Yes,Urban,Artisan,PM Vishwakarma
+26,Male,395334,Maharashtra,Graduate,Student,SC,Yes,Rural,Student,NSP Scholarship
+45,Male,304085,Uttar Pradesh,12th,Farmer,ST,Yes,Rural,Farmer,Kisan Credit Card
+52,Male,95398,Karnataka,12th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+27,Male,448929,Madhya Pradesh,10th,Entrepreneur,ST,No,Urban,Entrepreneur,PMEGP
+18,Male,439435,Uttar Pradesh,Graduate,Student,General,Yes,Urban,Student,Central Sector Scholarship
+17,Male,490757,Karnataka,Graduate,Student,ST,No,Urban,Student,NSP Scholarship
+23,Female,99266,Maharashtra,5th,Farmer,OBC,No,Rural,Farmer,PM Kisan
+21,Female,693451,Uttar Pradesh,Diploma,Student,ST,Yes,Rural,Student,Central Sector Scholarship
+19,Female,685323,Uttar Pradesh,12th,Student,ST,Yes,Rural,Student,INSPIRE Scholarship
+45,Female,919439,Madhya Pradesh,10th,Entrepreneur,General,No,Rural,Entrepreneur,PMEGP
+60,Male,346813,Uttar Pradesh,12th,Entrepreneur,OBC,No,Urban,Entrepreneur,PMEGP
+35,Female,157777,Tamil Nadu,5th,Farmer,OBC,Yes,Rural,Farmer,PM Kisan
+54,Male,59037,Uttar Pradesh,12th,Farmer,General,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+55,Male,443816,Tamil Nadu,5th,Farmer,General,Yes,Urban,Farmer,PM Kisan
+44,Female,383898,Bihar,MBA,Entrepreneur,SC,Yes,Urban,Entrepreneur,CGTMSE
+27,Female,64657,Maharashtra,5th,Artisan,General,No,Urban,Artisan,PM Vishwakarma
+46,Male,300023,Karnataka,5th,Farmer,General,No,Urban,Farmer,PM Kisan
+24,Male,826483,Maharashtra,MBA,Entrepreneur,SC,Yes,Rural,Entrepreneur,Stand Up India
+63,Female,369142,Maharashtra,5th,Farmer,General,Yes,Rural,Farmer,PM Kisan
+59,Male,226709,Uttar Pradesh,10th,Entrepreneur,General,No,Rural,Entrepreneur,CGTMSE
+24,Male,281987,Gujarat,Diploma,Student,SC,Yes,Rural,Student,Central Sector Scholarship
+55,Male,219550,Bihar,5th,Farmer,OBC,Yes,Rural,Farmer,PM Fasal Bima Yojana
+27,Female,219545,Uttar Pradesh,BTech,Student,ST,No,Urban,Student,INSPIRE Scholarship
+22,Male,544609,Tamil Nadu,BTech,Student,ST,Yes,Rural,Student,PM YASASVI
+24,Female,228480,Madhya Pradesh,Diploma,Student,ST,Yes,Rural,Student,AICTE Pragati
+25,Male,71370,Maharashtra,5th,Artisan,OBC,No,Rural,Artisan,PM Vishwakarma
+58,Male,235970,Maharashtra,10th,Artisan,ST,No,Urban,Artisan,PM Vishwakarma
+45,Female,1171621,Maharashtra,10th,Entrepreneur,ST,No,Urban,Entrepreneur,Mudra Loan Scheme
+57,Female,419493,Bihar,12th,Entrepreneur,SC,Yes,Urban,Entrepreneur,PMEGP
+31,Female,212000,Tamil Nadu,12th,Farmer,OBC,Yes,Rural,Farmer,PM Kisan
+25,Male,625312,Rajasthan,12th,Student,ST,No,Urban,Student,AICTE Saksham
+57,Male,584534,Tamil Nadu,12th,Entrepreneur,General,Yes,Rural,Entrepreneur,Mudra Loan Scheme
+26,Male,382400,Madhya Pradesh,Diploma,Student,OBC,No,Rural,Student,NSP Scholarship
+23,Female,114587,Madhya Pradesh,12th,Entrepreneur,ST,Yes,Rural,Entrepreneur,PMEGP
+18,Male,444909,Uttar Pradesh,Graduate,Student,ST,No,Urban,Student,NSP Scholarship
+33,Female,137304,Madhya Pradesh,10th,Artisan,OBC,Yes,Rural,Artisan,PM Vishwakarma
+40,Female,990470,Rajasthan,10th,Entrepreneur,ST,No,Rural,Entrepreneur,Stand Up India
+17,Female,536966,Madhya Pradesh,Graduate,Student,ST,No,Urban,Student,AICTE Saksham
+26,Male,577450,Rajasthan,Graduate,Student,General,Yes,Urban,Student,PM YASASVI
+19,Male,252214,Karnataka,BTech,Student,ST,Yes,Rural,Student,NSP Scholarship
+22,Male,503403,Uttar Pradesh,Graduate,Student,OBC,No,Urban,Student,AICTE Pragati
+61,Female,407088,Gujarat,12th,Farmer,SC,No,Urban,Farmer,PM Fasal Bima Yojana
+43,Male,110523,Madhya Pradesh,12th,Farmer,OBC,Yes,Rural,Farmer,PM Kisan
+55,Male,468622,Uttar Pradesh,10th,Farmer,OBC,Yes,Rural,Farmer,PM Kisan Maan Dhan Yojana
+52,Male,261154,Rajasthan,10th,Artisan,OBC,No,Rural,Artisan,PM Vishwakarma
+24,Female,413638,Madhya Pradesh,5th,Artisan,General,No,Rural,Artisan,PM Vishwakarma
+34,Female,909014,Madhya Pradesh,Graduate,Entrepreneur,OBC,Yes,Urban,Entrepreneur,CGTMSE
+56,Male,280599,Bihar,MBA,Entrepreneur,SC,Yes,Rural,Entrepreneur,Mudra Loan Scheme
+41,Female,97167,Uttar Pradesh,12th,Farmer,General,No,Urban,Farmer,Kisan Credit Card
+48,Female,132817,Karnataka,12th,Farmer,General,Yes,Rural,Farmer,PM Fasal Bima Yojana
+58,Female,213466,Tamil Nadu,10th,Farmer,ST,No,Rural,Farmer,Kisan Credit Card
+28,Female,718411,Karnataka,Graduate,Student,ST,No,Urban,Student,PM YASASVI
+19,Male,783291,Madhya Pradesh,Diploma,Student,OBC,No,Rural,Student,INSPIRE Scholarship
+22,Male,53300,Madhya Pradesh,5th,Farmer,General,No,Urban,Farmer,Kisan Credit Card
+27,Female,524483,Madhya Pradesh,Graduate,Student,SC,Yes,Urban,Student,PM YASASVI
+29,Male,469793,Bihar,MBA,Entrepreneur,General,Yes,Rural,Entrepreneur,Startup India
+36,Female,465538,Uttar Pradesh,5th,Farmer,SC,No,Urban,Farmer,PM Fasal Bima Yojana
+23,Female,582949,Maharashtra,MBA,Entrepreneur,ST,No,Urban,Entrepreneur,Stand Up India
+54,Female,421371,Bihar,12th,Farmer,General,Yes,Urban,Farmer,PM Fasal Bima Yojana
+19,Female,143274,Rajasthan,Graduate,Student,OBC,No,Urban,Student,PM YASASVI
+30,Male,326138,Gujarat,5th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+46,Female,121397,Tamil Nadu,5th,Farmer,SC,No,Rural,Farmer,Kisan Credit Card
+45,Male,189915,Karnataka,10th,Farmer,OBC,Yes,Rural,Farmer,PM Fasal Bima Yojana
+48,Male,446538,Gujarat,10th,Entrepreneur,SC,No,Urban,Entrepreneur,CGTMSE
+28,Male,742113,Uttar Pradesh,Graduate,Student,OBC,No,Urban,Student,PM YASASVI
+17,Female,724392,Tamil Nadu,12th,Student,ST,Yes,Rural,Student,AICTE Pragati
+56,Female,476503,Karnataka,10th,Artisan,General,No,Rural,Artisan,PM Vishwakarma
+47,Female,435520,Rajasthan,10th,Entrepreneur,ST,No,Rural,Entrepreneur,Startup India
+51,Male,1012346,Maharashtra,10th,Entrepreneur,ST,Yes,Urban,Entrepreneur,CGTMSE
+23,Female,74303,Bihar,BTech,Student,ST,Yes,Rural,Student,NSP Scholarship
+49,Female,415991,Karnataka,Graduate,Entrepreneur,ST,No,Urban,Entrepreneur,PMEGP
+30,Female,501978,Karnataka,12th,Artisan,General,No,Rural,Artisan,PM Vishwakarma
+34,Male,506195,Rajasthan,12th,Artisan,ST,Yes,Urban,Artisan,PM Vishwakarma
+22,Female,99967,Madhya Pradesh,12th,Student,OBC,Yes,Urban,Student,AICTE Pragati
+33,Male,285421,Maharashtra,12th,Entrepreneur,General,No,Urban,Entrepreneur,Startup India
+25,Female,211218,Karnataka,Graduate,Entrepreneur,SC,No,Rural,Entrepreneur,CGTMSE
+35,Female,237125,Rajasthan,5th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+28,Male,581412,Rajasthan,Graduate,Student,SC,Yes,Rural,Student,AICTE Pragati
+48,Male,348943,Rajasthan,12th,Artisan,SC,No,Urban,Artisan,PM Vishwakarma
+24,Male,417980,Rajasthan,10th,Farmer,General,No,Urban,Farmer,Kisan Credit Card
+50,Female,353975,Bihar,10th,Artisan,General,Yes,Rural,Artisan,PM Vishwakarma
+41,Male,459412,Karnataka,10th,Farmer,OBC,Yes,Urban,Farmer,PM Kisan Maan Dhan Yojana
+28,Male,799370,Maharashtra,12th,Student,General,Yes,Urban,Student,AICTE Pragati
+32,Male,344725,Bihar,10th,Farmer,General,Yes,Urban,Farmer,PM Kisan Maan Dhan Yojana
+23,Male,86669,Gujarat,Diploma,Student,OBC,No,Rural,Student,AICTE Saksham
+53,Male,1167898,Karnataka,12th,Entrepreneur,General,Yes,Urban,Entrepreneur,Stand Up India
+28,Male,746523,Rajasthan,12th,Student,General,No,Urban,Student,NSP Scholarship
+65,Female,427247,Rajasthan,10th,Farmer,SC,Yes,Urban,Farmer,PM Fasal Bima Yojana
+57,Female,584524,Bihar,12th,Artisan,SC,Yes,Urban,Artisan,PM Vishwakarma
+22,Female,513424,Rajasthan,12th,Student,ST,Yes,Urban,Student,AICTE Pragati
+57,Female,204806,Rajasthan,5th,Farmer,OBC,Yes,Urban,Farmer,PM Kisan
+32,Male,510300,Bihar,10th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+32,Male,111152,Tamil Nadu,12th,Artisan,General,No,Urban,Artisan,PM Vishwakarma
+60,Male,117548,Rajasthan,10th,Entrepreneur,SC,No,Urban,Entrepreneur,Startup India
+21,Female,476610,Madhya Pradesh,12th,Student,SC,Yes,Urban,Student,AICTE Saksham
+21,Female,522912,Rajasthan,Diploma,Student,OBC,Yes,Rural,Student,AICTE Saksham
+39,Male,723343,Karnataka,Graduate,Entrepreneur,OBC,Yes,Rural,Entrepreneur,CGTMSE
+45,Male,234318,Tamil Nadu,10th,Farmer,OBC,Yes,Rural,Farmer,PM Kisan Maan Dhan Yojana
+23,Male,1019584,Bihar,12th,Entrepreneur,General,No,Urban,Entrepreneur,Startup India
+27,Female,273759,Gujarat,Graduate,Student,SC,No,Urban,Student,PM YASASVI
+48,Male,245425,Karnataka,5th,Artisan,OBC,Yes,Urban,Artisan,PM Vishwakarma
+51,Male,328707,Rajasthan,10th,Farmer,SC,Yes,Rural,Farmer,Kisan Credit Card
+52,Female,308589,Bihar,5th,Farmer,SC,Yes,Rural,Farmer,Kisan Credit Card
+18,Female,475092,Uttar Pradesh,BTech,Student,SC,Yes,Rural,Student,Central Sector Scholarship
+53,Male,162083,Karnataka,12th,Artisan,OBC,No,Urban,Artisan,PM Vishwakarma
+25,Female,335708,Uttar Pradesh,12th,Student,ST,No,Urban,Student,AICTE Pragati
+59,Female,274800,Gujarat,12th,Farmer,General,Yes,Urban,Farmer,Kisan Credit Card
+55,Male,855403,Tamil Nadu,Graduate,Entrepreneur,General,No,Urban,Entrepreneur,PMEGP
+24,Female,623424,Bihar,Diploma,Student,General,No,Urban,Student,INSPIRE Scholarship
+53,Male,507170,Maharashtra,10th,Artisan,SC,No,Urban,Artisan,PM Vishwakarma
+22,Female,352857,Uttar Pradesh,12th,Entrepreneur,OBC,No,Rural,Entrepreneur,Stand Up India
+62,Male,232304,Uttar Pradesh,10th,Farmer,SC,Yes,Urban,Farmer,PM Kisan Maan Dhan Yojana
+47,Female,1104702,Karnataka,Graduate,Entrepreneur,SC,No,Rural,Entrepreneur,CGTMSE
+21,Male,260831,Karnataka,12th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+26,Female,53228,Uttar Pradesh,12th,Student,General,No,Rural,Student,NSP Scholarship
+19,Female,260956,Karnataka,Graduate,Student,OBC,Yes,Rural,Student,INSPIRE Scholarship
+49,Male,856101,Uttar Pradesh,10th,Entrepreneur,OBC,Yes,Urban,Entrepreneur,Startup India
+20,Female,189569,Gujarat,BTech,Student,OBC,No,Urban,Student,AICTE Pragati
+54,Female,354789,Gujarat,12th,Entrepreneur,ST,Yes,Urban,Entrepreneur,Startup India
+27,Female,678911,Uttar Pradesh,BTech,Student,OBC,Yes,Urban,Student,Central Sector Scholarship
+46,Male,273739,Gujarat,5th,Farmer,OBC,Yes,Urban,Farmer,PM Fasal Bima Yojana
+41,Male,1034761,Bihar,10th,Entrepreneur,OBC,No,Urban,Entrepreneur,Mudra Loan Scheme
+42,Female,619635,Tamil Nadu,Graduate,Entrepreneur,SC,No,Urban,Entrepreneur,PMEGP
+57,Male,424749,Bihar,5th,Farmer,OBC,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+38,Female,58367,Rajasthan,10th,Farmer,SC,Yes,Urban,Farmer,PM Kisan Maan Dhan Yojana
+47,Male,163604,Rajasthan,10th,Farmer,ST,Yes,Urban,Farmer,Kisan Credit Card
+35,Female,126229,Gujarat,Graduate,Entrepreneur,SC,Yes,Rural,Entrepreneur,Stand Up India
+27,Female,71810,Rajasthan,10th,Farmer,OBC,Yes,Rural,Farmer,PM Fasal Bima Yojana
+50,Male,227967,Maharashtra,5th,Artisan,OBC,No,Rural,Artisan,PM Vishwakarma
+28,Male,216013,Uttar Pradesh,5th,Artisan,SC,No,Rural,Artisan,PM Vishwakarma
+26,Female,721418,Maharashtra,BTech,Student,SC,No,Rural,Student,Central Sector Scholarship
+35,Male,104561,Tamil Nadu,Graduate,Entrepreneur,ST,Yes,Rural,Entrepreneur,CGTMSE
+55,Female,376744,Uttar Pradesh,10th,Farmer,General,No,Rural,Farmer,PM Kisan
+60,Male,282656,Madhya Pradesh,Graduate,Entrepreneur,OBC,Yes,Urban,Entrepreneur,PMEGP
+21,Male,761653,Tamil Nadu,12th,Student,ST,No,Rural,Student,AICTE Saksham
+35,Female,369165,Maharashtra,5th,Farmer,General,Yes,Rural,Farmer,PM Kisan Maan Dhan Yojana
+27,Female,396983,Bihar,12th,Student,SC,Yes,Rural,Student,NSP Scholarship
+33,Male,99908,Uttar Pradesh,12th,Farmer,General,No,Rural,Farmer,PM Kisan
+24,Female,131568,Uttar Pradesh,Graduate,Entrepreneur,General,Yes,Rural,Entrepreneur,Startup India
+58,Male,177250,Karnataka,12th,Farmer,ST,No,Urban,Farmer,PM Kisan
+26,Male,103342,Tamil Nadu,Graduate,Student,OBC,No,Rural,Student,Central Sector Scholarship
+60,Female,277098,Tamil Nadu,5th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+40,Male,531058,Rajasthan,12th,Entrepreneur,ST,No,Rural,Entrepreneur,Stand Up India
+22,Female,257470,Rajasthan,MBA,Entrepreneur,OBC,Yes,Urban,Entrepreneur,Mudra Loan Scheme
+20,Female,346843,Maharashtra,12th,Student,SC,Yes,Rural,Student,PM YASASVI
+28,Male,216731,Uttar Pradesh,BTech,Student,General,Yes,Rural,Student,NSP Scholarship
+56,Male,647835,Karnataka,10th,Entrepreneur,General,Yes,Rural,Entrepreneur,PMEGP
+65,Female,117719,Maharashtra,12th,Farmer,ST,Yes,Rural,Farmer,PM Kisan
+31,Female,260653,Uttar Pradesh,12th,Artisan,ST,Yes,Urban,Artisan,PM Vishwakarma
+24,Male,421329,Karnataka,BTech,Student,SC,Yes,Rural,Student,Central Sector Scholarship
+35,Male,544111,Uttar Pradesh,12th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+19,Female,72302,Bihar,BTech,Student,ST,Yes,Rural,Student,PM YASASVI
+48,Female,577915,Karnataka,5th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+31,Male,328126,Karnataka,5th,Artisan,ST,Yes,Urban,Artisan,PM Vishwakarma
+51,Female,264525,Karnataka,12th,Artisan,ST,Yes,Urban,Artisan,PM Vishwakarma
+34,Female,52934,Gujarat,12th,Farmer,SC,Yes,Urban,Farmer,PM Kisan
+21,Male,171188,Tamil Nadu,5th,Farmer,OBC,No,Urban,Farmer,PM Kisan
+30,Female,132318,Karnataka,Graduate,Entrepreneur,SC,No,Rural,Entrepreneur,Mudra Loan Scheme
+53,Female,927296,Gujarat,12th,Entrepreneur,SC,No,Urban,Entrepreneur,Startup India
+44,Male,464727,Madhya Pradesh,10th,Farmer,OBC,No,Rural,Farmer,Kisan Credit Card
+62,Female,274658,Karnataka,12th,Farmer,General,No,Urban,Farmer,Kisan Credit Card
+42,Male,659648,Rajasthan,Graduate,Entrepreneur,ST,No,Urban,Entrepreneur,Mudra Loan Scheme
+54,Female,355053,Gujarat,5th,Farmer,ST,Yes,Urban,Farmer,PM Fasal Bima Yojana
+53,Female,666758,Bihar,12th,Entrepreneur,OBC,No,Rural,Entrepreneur,Stand Up India
+50,Male,311764,Uttar Pradesh,5th,Artisan,OBC,No,Rural,Artisan,PM Vishwakarma
+27,Female,368901,Gujarat,12th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+36,Male,834093,Gujarat,Graduate,Entrepreneur,OBC,No,Rural,Entrepreneur,Startup India
+18,Male,358703,Maharashtra,5th,Artisan,SC,No,Rural,Artisan,PM Vishwakarma
+55,Male,652544,Tamil Nadu,MBA,Entrepreneur,OBC,Yes,Urban,Entrepreneur,Mudra Loan Scheme
+21,Male,688193,Tamil Nadu,12th,Student,OBC,No,Urban,Student,NSP Scholarship
+31,Female,1066672,Maharashtra,MBA,Entrepreneur,OBC,Yes,Urban,Entrepreneur,PMEGP
+51,Female,436893,Karnataka,12th,Farmer,General,Yes,Urban,Farmer,PM Fasal Bima Yojana
+18,Female,205433,Karnataka,BTech,Student,OBC,No,Rural,Student,PM YASASVI
+34,Male,386329,Bihar,12th,Farmer,ST,Yes,Rural,Farmer,PM Kisan
+25,Female,622386,Karnataka,Graduate,Student,ST,Yes,Urban,Student,AICTE Saksham
+47,Female,421481,Rajasthan,12th,Farmer,SC,Yes,Rural,Farmer,Kisan Credit Card
+22,Female,523294,Karnataka,Graduate,Student,ST,Yes,Urban,Student,INSPIRE Scholarship
+53,Female,526375,Tamil Nadu,5th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+28,Male,190435,Uttar Pradesh,12th,Entrepreneur,SC,Yes,Rural,Entrepreneur,Stand Up India
+23,Female,941573,Madhya Pradesh,12th,Entrepreneur,SC,No,Rural,Entrepreneur,CGTMSE
+26,Male,121690,Rajasthan,BTech,Student,ST,Yes,Urban,Student,PM YASASVI
+21,Male,217191,Tamil Nadu,Diploma,Student,ST,Yes,Urban,Student,INSPIRE Scholarship
+49,Female,89193,Maharashtra,10th,Farmer,OBC,No,Urban,Farmer,PM Kisan Maan Dhan Yojana
+50,Male,296821,Uttar Pradesh,12th,Farmer,OBC,Yes,Rural,Farmer,PM Kisan
+28,Female,584710,Madhya Pradesh,5th,Artisan,General,Yes,Rural,Artisan,PM Vishwakarma
+19,Male,713261,Gujarat,BTech,Student,OBC,Yes,Urban,Student,Central Sector Scholarship
+55,Female,579504,Karnataka,10th,Artisan,ST,No,Urban,Artisan,PM Vishwakarma
+59,Male,90362,Uttar Pradesh,5th,Artisan,General,Yes,Urban,Artisan,PM Vishwakarma
+65,Male,332791,Uttar Pradesh,5th,Farmer,OBC,No,Urban,Farmer,PM Fasal Bima Yojana
+22,Male,195580,Karnataka,12th,Student,ST,Yes,Urban,Student,PM YASASVI
+33,Male,834259,Uttar Pradesh,10th,Entrepreneur,ST,No,Rural,Entrepreneur,Startup India
+43,Male,701230,Tamil Nadu,10th,Entrepreneur,SC,Yes,Urban,Entrepreneur,PMEGP
+45,Female,319526,Gujarat,5th,Farmer,General,No,Urban,Farmer,Kisan Credit Card
+26,Female,167359,Karnataka,12th,Student,SC,Yes,Rural,Student,AICTE Saksham
+31,Male,1130797,Karnataka,Graduate,Entrepreneur,ST,No,Rural,Entrepreneur,PMEGP
+52,Male,164167,Madhya Pradesh,MBA,Entrepreneur,OBC,No,Urban,Entrepreneur,Stand Up India
+25,Male,763256,Bihar,Graduate,Student,ST,Yes,Rural,Student,Central Sector Scholarship
+34,Male,168297,Madhya Pradesh,Graduate,Entrepreneur,OBC,Yes,Rural,Entrepreneur,Mudra Loan Scheme
+20,Female,148348,Gujarat,Graduate,Student,SC,Yes,Urban,Student,AICTE Pragati
+21,Female,356211,Madhya Pradesh,12th,Entrepreneur,ST,Yes,Rural,Entrepreneur,Startup India
+26,Male,309799,Tamil Nadu,10th,Farmer,OBC,Yes,Urban,Farmer,PM Kisan Maan Dhan Yojana
+27,Male,486431,Uttar Pradesh,Diploma,Student,ST,Yes,Rural,Student,AICTE Saksham
+63,Male,495999,Tamil Nadu,5th,Farmer,ST,Yes,Rural,Farmer,PM Kisan Maan Dhan Yojana
+59,Female,138640,Uttar Pradesh,MBA,Entrepreneur,SC,Yes,Rural,Entrepreneur,CGTMSE
+18,Male,156206,Karnataka,5th,Artisan,ST,Yes,Urban,Artisan,PM Vishwakarma
+31,Female,301347,Rajasthan,10th,Artisan,OBC,Yes,Rural,Artisan,PM Vishwakarma
+20,Male,194649,Madhya Pradesh,10th,Artisan,General,No,Rural,Artisan,PM Vishwakarma
+19,Female,719818,Karnataka,12th,Student,ST,Yes,Urban,Student,AICTE Pragati
+18,Female,515256,Gujarat,Diploma,Student,OBC,No,Rural,Student,INSPIRE Scholarship
+57,Female,679998,Rajasthan,10th,Entrepreneur,ST,Yes,Urban,Entrepreneur,Startup India
+41,Male,469732,Rajasthan,12th,Artisan,OBC,No,Urban,Artisan,PM Vishwakarma
+43,Male,213549,Bihar,12th,Artisan,SC,No,Rural,Artisan,PM Vishwakarma
+59,Male,289275,Karnataka,5th,Farmer,General,Yes,Rural,Farmer,PM Fasal Bima Yojana
+32,Male,566863,Rajasthan,12th,Artisan,OBC,Yes,Rural,Artisan,PM Vishwakarma
+27,Male,481929,Maharashtra,12th,Student,General,Yes,Urban,Student,AICTE Pragati
+41,Female,543656,Bihar,12th,Artisan,SC,No,Urban,Artisan,PM Vishwakarma
+39,Male,156357,Gujarat,12th,Artisan,SC,No,Urban,Artisan,PM Vishwakarma
+39,Male,144736,Rajasthan,5th,Artisan,SC,No,Urban,Artisan,PM Vishwakarma
+50,Female,439826,Madhya Pradesh,10th,Artisan,OBC,Yes,Urban,Artisan,PM Vishwakarma
+28,Female,692004,Uttar Pradesh,12th,Student,General,Yes,Rural,Student,AICTE Pragati
+19,Male,659613,Tamil Nadu,Diploma,Student,General,Yes,Urban,Student,AICTE Pragati
+34,Male,475361,Rajasthan,10th,Farmer,OBC,Yes,Rural,Farmer,Kisan Credit Card
+27,Male,127378,Uttar Pradesh,12th,Farmer,ST,No,Urban,Farmer,PM Kisan
+38,Female,157835,Bihar,12th,Farmer,OBC,No,Urban,Farmer,PM Kisan Maan Dhan Yojana
+27,Male,340311,Madhya Pradesh,5th,Farmer,SC,Yes,Rural,Farmer,PM Kisan
+29,Female,410890,Gujarat,10th,Farmer,OBC,No,Urban,Farmer,PM Kisan Maan Dhan Yojana
+22,Male,226794,Maharashtra,12th,Student,ST,Yes,Rural,Student,Central Sector Scholarship
+27,Male,338712,Bihar,BTech,Student,SC,Yes,Rural,Student,NSP Scholarship
+26,Female,415702,Uttar Pradesh,10th,Entrepreneur,ST,Yes,Urban,Entrepreneur,Stand Up India
+19,Male,416736,Uttar Pradesh,12th,Farmer,SC,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+23,Female,966901,Maharashtra,MBA,Entrepreneur,General,No,Urban,Entrepreneur,Stand Up India
+36,Male,589245,Karnataka,12th,Entrepreneur,General,No,Urban,Entrepreneur,Startup India
+21,Female,990794,Tamil Nadu,Graduate,Entrepreneur,ST,No,Urban,Entrepreneur,CGTMSE
+20,Female,483914,Gujarat,Graduate,Student,General,No,Urban,Student,PM YASASVI
+38,Female,140519,Bihar,5th,Farmer,General,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+59,Female,69650,Gujarat,10th,Artisan,ST,Yes,Urban,Artisan,PM Vishwakarma
+18,Female,795880,Karnataka,12th,Student,OBC,No,Urban,Student,INSPIRE Scholarship
+35,Male,575916,Madhya Pradesh,12th,Entrepreneur,ST,Yes,Rural,Entrepreneur,PMEGP
+59,Male,128069,Gujarat,Graduate,Entrepreneur,ST,Yes,Urban,Entrepreneur,Mudra Loan Scheme
+21,Female,456654,Karnataka,BTech,Student,ST,Yes,Urban,Student,AICTE Pragati
+50,Male,392444,Bihar,12th,Farmer,OBC,Yes,Rural,Farmer,PM Fasal Bima Yojana
+17,Female,715782,Tamil Nadu,Graduate,Student,General,No,Rural,Student,NSP Scholarship
+41,Female,819530,Maharashtra,12th,Entrepreneur,General,Yes,Rural,Entrepreneur,PMEGP
+56,Male,656968,Karnataka,Graduate,Entrepreneur,General,No,Rural,Entrepreneur,CGTMSE
+52,Female,1199383,Maharashtra,12th,Entrepreneur,General,No,Rural,Entrepreneur,CGTMSE
+45,Female,348079,Gujarat,5th,Artisan,General,Yes,Urban,Artisan,PM Vishwakarma
+20,Female,181106,Madhya Pradesh,5th,Farmer,ST,Yes,Rural,Farmer,PM Kisan
+35,Male,1010114,Madhya Pradesh,Graduate,Entrepreneur,General,No,Rural,Entrepreneur,CGTMSE
+20,Female,502718,Karnataka,5th,Artisan,SC,No,Rural,Artisan,PM Vishwakarma
+46,Male,392841,Madhya Pradesh,12th,Entrepreneur,ST,Yes,Rural,Entrepreneur,PMEGP
+21,Male,753570,Rajasthan,Graduate,Student,General,No,Urban,Student,AICTE Pragati
+27,Male,310564,Gujarat,12th,Farmer,OBC,Yes,Rural,Farmer,PM Fasal Bima Yojana
+33,Female,401440,Karnataka,12th,Artisan,ST,No,Urban,Artisan,PM Vishwakarma
+48,Female,385506,Maharashtra,10th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+18,Female,446431,Rajasthan,5th,Farmer,ST,No,Rural,Farmer,PM Fasal Bima Yojana
+36,Male,112064,Uttar Pradesh,10th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+44,Female,1015209,Maharashtra,Graduate,Entrepreneur,General,No,Urban,Entrepreneur,Startup India
+44,Male,602712,Bihar,Graduate,Entrepreneur,OBC,No,Urban,Entrepreneur,Mudra Loan Scheme
+48,Male,389939,Uttar Pradesh,10th,Artisan,OBC,Yes,Rural,Artisan,PM Vishwakarma
+26,Female,402504,Gujarat,Diploma,Student,ST,No,Urban,Student,AICTE Saksham
+46,Male,379251,Karnataka,10th,Farmer,SC,No,Rural,Farmer,PM Fasal Bima Yojana
+28,Female,334870,Tamil Nadu,12th,Student,OBC,No,Urban,Student,Central Sector Scholarship
+24,Female,330920,Rajasthan,BTech,Student,ST,Yes,Rural,Student,AICTE Saksham
+31,Male,786621,Rajasthan,12th,Entrepreneur,OBC,Yes,Rural,Entrepreneur,PMEGP
+33,Female,227919,Gujarat,10th,Entrepreneur,SC,No,Rural,Entrepreneur,Mudra Loan Scheme
+46,Male,233638,Gujarat,5th,Artisan,General,No,Urban,Artisan,PM Vishwakarma
+26,Female,175859,Tamil Nadu,12th,Artisan,ST,No,Urban,Artisan,PM Vishwakarma
+48,Female,227286,Bihar,Graduate,Entrepreneur,General,No,Rural,Entrepreneur,CGTMSE
+29,Male,581416,Uttar Pradesh,10th,Artisan,SC,No,Urban,Artisan,PM Vishwakarma
+64,Male,244432,Maharashtra,12th,Farmer,OBC,No,Rural,Farmer,PM Fasal Bima Yojana
+23,Female,321306,Madhya Pradesh,BTech,Student,OBC,No,Urban,Student,NSP Scholarship
+47,Male,63067,Maharashtra,10th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+29,Female,371945,Tamil Nadu,5th,Farmer,OBC,No,Urban,Farmer,PM Kisan Maan Dhan Yojana
+21,Male,130954,Karnataka,Diploma,Student,ST,Yes,Urban,Student,PM YASASVI
+35,Male,1145515,Maharashtra,MBA,Entrepreneur,ST,Yes,Urban,Entrepreneur,Stand Up India
+39,Female,595272,Uttar Pradesh,5th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+26,Male,431032,Madhya Pradesh,Diploma,Student,General,Yes,Rural,Student,AICTE Saksham
+57,Female,437554,Maharashtra,Graduate,Entrepreneur,OBC,Yes,Rural,Entrepreneur,Stand Up India
+22,Male,668317,Maharashtra,12th,Student,General,No,Urban,Student,AICTE Pragati
+22,Male,528463,Madhya Pradesh,Graduate,Entrepreneur,OBC,Yes,Rural,Entrepreneur,PMEGP
+59,Male,995213,Rajasthan,12th,Entrepreneur,General,Yes,Rural,Entrepreneur,Mudra Loan Scheme
+43,Female,121067,Madhya Pradesh,MBA,Entrepreneur,OBC,Yes,Urban,Entrepreneur,CGTMSE
+51,Female,1021071,Maharashtra,MBA,Entrepreneur,ST,Yes,Urban,Entrepreneur,Stand Up India
+41,Female,309976,Rajasthan,12th,Artisan,SC,No,Urban,Artisan,PM Vishwakarma
+27,Male,466081,Bihar,12th,Entrepreneur,General,No,Urban,Entrepreneur,Mudra Loan Scheme
+24,Male,211177,Rajasthan,Diploma,Student,SC,No,Urban,Student,AICTE Saksham
+62,Male,483075,Karnataka,10th,Farmer,OBC,Yes,Rural,Farmer,PM Kisan Maan Dhan Yojana
+26,Male,694313,Maharashtra,BTech,Student,ST,Yes,Urban,Student,Central Sector Scholarship
+27,Female,329879,Maharashtra,12th,Student,SC,No,Rural,Student,Central Sector Scholarship
+48,Female,542285,Gujarat,12th,Artisan,ST,Yes,Urban,Artisan,PM Vishwakarma
+25,Female,798975,Uttar Pradesh,BTech,Student,SC,No,Rural,Student,AICTE Pragati
+20,Male,745482,Gujarat,Graduate,Student,SC,Yes,Urban,Student,NSP Scholarship
+58,Male,119722,Gujarat,10th,Farmer,SC,Yes,Urban,Farmer,PM Kisan Maan Dhan Yojana
+20,Female,137639,Madhya Pradesh,12th,Student,ST,No,Urban,Student,Central Sector Scholarship
+20,Female,325448,Karnataka,Diploma,Student,General,Yes,Urban,Student,Central Sector Scholarship
+34,Female,370918,Gujarat,10th,Artisan,SC,Yes,Urban,Artisan,PM Vishwakarma
+36,Male,270576,Madhya Pradesh,10th,Farmer,SC,Yes,Urban,Farmer,Kisan Credit Card
+43,Male,636201,Rajasthan,10th,Entrepreneur,ST,No,Rural,Entrepreneur,PMEGP
+60,Male,149473,Madhya Pradesh,5th,Artisan,SC,Yes,Urban,Artisan,PM Vishwakarma
+50,Female,160058,Maharashtra,12th,Farmer,ST,No,Urban,Farmer,PM Fasal Bima Yojana
+27,Male,534548,Bihar,MBA,Entrepreneur,General,No,Urban,Entrepreneur,Mudra Loan Scheme
+26,Female,603477,Karnataka,Graduate,Student,OBC,No,Urban,Student,Central Sector Scholarship
+53,Male,423787,Rajasthan,10th,Farmer,General,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+35,Female,77614,Gujarat,10th,Farmer,General,No,Urban,Farmer,PM Fasal Bima Yojana
+31,Female,396658,Gujarat,5th,Farmer,ST,No,Urban,Farmer,PM Kisan
+57,Male,717608,Madhya Pradesh,Graduate,Entrepreneur,ST,Yes,Rural,Entrepreneur,Stand Up India
+26,Female,314714,Karnataka,10th,Farmer,General,No,Urban,Farmer,PM Fasal Bima Yojana
+46,Male,278838,Uttar Pradesh,10th,Artisan,SC,Yes,Urban,Artisan,PM Vishwakarma
+23,Male,698212,Karnataka,Graduate,Student,SC,Yes,Urban,Student,Central Sector Scholarship
+35,Male,620971,Karnataka,Graduate,Entrepreneur,ST,No,Urban,Entrepreneur,Startup India
+38,Male,252909,Bihar,MBA,Entrepreneur,SC,No,Urban,Entrepreneur,PMEGP
+28,Female,342002,Madhya Pradesh,10th,Farmer,ST,No,Urban,Farmer,PM Kisan
+18,Female,99254,Bihar,10th,Farmer,SC,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+24,Male,339304,Uttar Pradesh,10th,Farmer,OBC,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+28,Male,424650,Maharashtra,Diploma,Student,OBC,Yes,Rural,Student,INSPIRE Scholarship
+29,Male,778544,Bihar,10th,Entrepreneur,ST,No,Urban,Entrepreneur,Startup India
+28,Male,492134,Maharashtra,Diploma,Student,SC,Yes,Urban,Student,AICTE Pragati
+18,Male,98390,Tamil Nadu,5th,Artisan,SC,Yes,Urban,Artisan,PM Vishwakarma
+44,Male,256187,Bihar,10th,Artisan,General,Yes,Urban,Artisan,PM Vishwakarma
+52,Female,364842,Gujarat,5th,Farmer,SC,Yes,Rural,Farmer,Kisan Credit Card
+33,Female,957586,Rajasthan,Graduate,Entrepreneur,SC,No,Urban,Entrepreneur,Startup India
+20,Female,458333,Gujarat,BTech,Student,OBC,Yes,Rural,Student,PM YASASVI
+60,Female,168268,Uttar Pradesh,5th,Artisan,General,Yes,Rural,Artisan,PM Vishwakarma
+23,Male,164116,Uttar Pradesh,12th,Artisan,OBC,No,Rural,Artisan,PM Vishwakarma
+31,Male,348902,Karnataka,12th,Farmer,ST,No,Urban,Farmer,PM Fasal Bima Yojana
+21,Male,578517,Rajasthan,12th,Student,OBC,Yes,Urban,Student,NSP Scholarship
+53,Male,252898,Maharashtra,10th,Artisan,SC,Yes,Urban,Artisan,PM Vishwakarma
+18,Male,381236,Rajasthan,Graduate,Student,OBC,No,Urban,Student,NSP Scholarship
+17,Male,663290,Rajasthan,12th,Student,General,Yes,Rural,Student,PM YASASVI
+17,Female,151882,Gujarat,12th,Student,SC,Yes,Urban,Student,NSP Scholarship
+20,Male,548546,Maharashtra,Graduate,Student,General,Yes,Urban,Student,NSP Scholarship
+27,Female,513019,Uttar Pradesh,Diploma,Student,SC,No,Urban,Student,PM YASASVI
+19,Male,462143,Maharashtra,12th,Farmer,ST,Yes,Rural,Farmer,PM Fasal Bima Yojana
+49,Female,163477,Gujarat,10th,Entrepreneur,SC,Yes,Rural,Entrepreneur,Mudra Loan Scheme
+27,Female,357997,Bihar,BTech,Student,SC,Yes,Urban,Student,Central Sector Scholarship
+54,Female,195768,Madhya Pradesh,5th,Farmer,SC,Yes,Urban,Farmer,PM Kisan Maan Dhan Yojana
+38,Male,477164,Gujarat,12th,Artisan,OBC,No,Urban,Artisan,PM Vishwakarma
+59,Male,464881,Tamil Nadu,12th,Entrepreneur,SC,No,Urban,Entrepreneur,Startup India
+49,Female,189554,Tamil Nadu,12th,Farmer,General,Yes,Urban,Farmer,Kisan Credit Card
+22,Female,142747,Rajasthan,5th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+26,Female,213927,Tamil Nadu,BTech,Student,General,Yes,Rural,Student,INSPIRE Scholarship
+60,Male,355774,Gujarat,5th,Artisan,SC,Yes,Urban,Artisan,PM Vishwakarma
+22,Female,1074373,Gujarat,12th,Entrepreneur,General,Yes,Urban,Entrepreneur,CGTMSE
+18,Male,281264,Bihar,12th,Artisan,SC,No,Rural,Artisan,PM Vishwakarma
+24,Male,88155,Uttar Pradesh,12th,Student,General,Yes,Urban,Student,INSPIRE Scholarship
+40,Male,841568,Maharashtra,MBA,Entrepreneur,ST,No,Urban,Entrepreneur,CGTMSE
+22,Female,411739,Gujarat,5th,Farmer,ST,No,Urban,Farmer,PM Kisan Maan Dhan Yojana
+28,Female,207438,Gujarat,5th,Farmer,General,Yes,Rural,Farmer,Kisan Credit Card
+42,Female,79010,Madhya Pradesh,5th,Artisan,OBC,Yes,Rural,Artisan,PM Vishwakarma
+48,Male,226450,Rajasthan,10th,Farmer,SC,Yes,Rural,Farmer,PM Fasal Bima Yojana
+26,Male,262625,Gujarat,Graduate,Student,ST,Yes,Rural,Student,INSPIRE Scholarship
+45,Female,1025778,Rajasthan,12th,Entrepreneur,OBC,Yes,Rural,Entrepreneur,CGTMSE
+35,Female,388223,Madhya Pradesh,10th,Farmer,SC,Yes,Rural,Farmer,PM Kisan
+40,Female,742147,Tamil Nadu,10th,Entrepreneur,ST,No,Urban,Entrepreneur,Mudra Loan Scheme
+20,Female,244162,Uttar Pradesh,10th,Artisan,ST,Yes,Urban,Artisan,PM Vishwakarma
+43,Female,467292,Madhya Pradesh,5th,Farmer,OBC,Yes,Rural,Farmer,Kisan Credit Card
+44,Female,323379,Madhya Pradesh,12th,Farmer,SC,Yes,Urban,Farmer,PM Fasal Bima Yojana
+60,Female,208082,Bihar,10th,Entrepreneur,ST,No,Urban,Entrepreneur,PMEGP
+51,Male,167710,Madhya Pradesh,5th,Artisan,General,No,Rural,Artisan,PM Vishwakarma
+31,Male,397348,Gujarat,12th,Farmer,ST,No,Rural,Farmer,PM Kisan
+35,Male,174688,Karnataka,5th,Farmer,General,Yes,Urban,Farmer,PM Fasal Bima Yojana
+25,Female,332839,Rajasthan,5th,Artisan,SC,Yes,Urban,Artisan,PM Vishwakarma
+20,Male,362103,Gujarat,12th,Student,ST,Yes,Rural,Student,Central Sector Scholarship
+37,Male,120083,Rajasthan,10th,Artisan,General,Yes,Urban,Artisan,PM Vishwakarma
+59,Male,946699,Tamil Nadu,MBA,Entrepreneur,OBC,No,Rural,Entrepreneur,CGTMSE
+30,Male,795032,Maharashtra,10th,Entrepreneur,OBC,No,Rural,Entrepreneur,CGTMSE
+34,Male,360623,Uttar Pradesh,10th,Artisan,SC,No,Urban,Artisan,PM Vishwakarma
+26,Male,482956,Bihar,12th,Student,General,Yes,Urban,Student,Central Sector Scholarship
+34,Male,70768,Rajasthan,12th,Artisan,OBC,Yes,Rural,Artisan,PM Vishwakarma
+49,Male,76117,Karnataka,10th,Artisan,General,Yes,Urban,Artisan,PM Vishwakarma
+25,Male,798411,Rajasthan,Diploma,Student,SC,Yes,Urban,Student,PM YASASVI
+48,Female,222659,Uttar Pradesh,5th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+55,Female,352476,Karnataka,5th,Artisan,General,Yes,Urban,Artisan,PM Vishwakarma
+21,Male,274380,Uttar Pradesh,12th,Student,General,Yes,Urban,Student,PM YASASVI
+56,Female,171867,Uttar Pradesh,12th,Entrepreneur,OBC,Yes,Rural,Entrepreneur,Stand Up India
+48,Male,126618,Karnataka,12th,Artisan,General,No,Urban,Artisan,PM Vishwakarma
+23,Female,181790,Maharashtra,5th,Farmer,OBC,No,Rural,Farmer,PM Kisan
+46,Male,866687,Madhya Pradesh,Graduate,Entrepreneur,OBC,No,Urban,Entrepreneur,CGTMSE
+51,Male,309315,Uttar Pradesh,10th,Artisan,SC,No,Rural,Artisan,PM Vishwakarma
+27,Male,652987,Gujarat,Diploma,Student,General,No,Urban,Student,Central Sector Scholarship
+40,Female,475154,Gujarat,5th,Farmer,OBC,No,Rural,Farmer,Kisan Credit Card
+41,Male,236196,Rajasthan,10th,Farmer,General,No,Urban,Farmer,Kisan Credit Card
+44,Female,738102,Rajasthan,12th,Entrepreneur,ST,No,Rural,Entrepreneur,Stand Up India
+56,Male,465412,Bihar,12th,Artisan,OBC,No,Urban,Artisan,PM Vishwakarma
+30,Male,877184,Tamil Nadu,MBA,Entrepreneur,OBC,Yes,Urban,Entrepreneur,Stand Up India
+55,Male,1057305,Madhya Pradesh,10th,Entrepreneur,General,No,Rural,Entrepreneur,Stand Up India
+45,Female,547469,Rajasthan,10th,Entrepreneur,ST,No,Urban,Entrepreneur,CGTMSE
+18,Male,205011,Karnataka,Diploma,Student,ST,No,Rural,Student,Central Sector Scholarship
+23,Male,371686,Rajasthan,10th,Farmer,OBC,Yes,Urban,Farmer,PM Fasal Bima Yojana
+47,Female,421842,Rajasthan,10th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+28,Male,547373,Maharashtra,Graduate,Student,OBC,Yes,Urban,Student,PM YASASVI
+34,Female,1078795,Karnataka,Graduate,Entrepreneur,ST,Yes,Rural,Entrepreneur,PMEGP
+65,Male,177549,Maharashtra,12th,Farmer,ST,Yes,Urban,Farmer,PM Kisan Maan Dhan Yojana
+21,Female,115806,Gujarat,12th,Artisan,General,Yes,Urban,Artisan,PM Vishwakarma
+28,Male,786905,Karnataka,BTech,Student,General,No,Rural,Student,NSP Scholarship
+46,Female,439332,Bihar,10th,Farmer,General,Yes,Urban,Farmer,PM Fasal Bima Yojana
+53,Male,205009,Bihar,10th,Entrepreneur,ST,Yes,Urban,Entrepreneur,Stand Up India
+37,Female,873490,Tamil Nadu,MBA,Entrepreneur,ST,No,Urban,Entrepreneur,Mudra Loan Scheme
+62,Female,471579,Uttar Pradesh,12th,Farmer,SC,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+39,Male,597579,Madhya Pradesh,10th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+45,Male,366809,Rajasthan,10th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+44,Female,384087,Rajasthan,Graduate,Entrepreneur,OBC,Yes,Urban,Entrepreneur,Mudra Loan Scheme
+26,Female,435717,Gujarat,Diploma,Student,General,Yes,Urban,Student,AICTE Saksham
+35,Male,220118,Uttar Pradesh,5th,Artisan,OBC,No,Rural,Artisan,PM Vishwakarma
+43,Male,184571,Tamil Nadu,5th,Farmer,SC,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+51,Male,710472,Uttar Pradesh,Graduate,Entrepreneur,ST,No,Urban,Entrepreneur,PMEGP
+44,Female,277277,Bihar,12th,Farmer,ST,Yes,Urban,Farmer,Kisan Credit Card
+48,Male,98773,Gujarat,12th,Artisan,OBC,No,Urban,Artisan,PM Vishwakarma
+20,Male,478304,Uttar Pradesh,10th,Artisan,ST,Yes,Urban,Artisan,PM Vishwakarma
+38,Female,166932,Madhya Pradesh,5th,Artisan,ST,Yes,Urban,Artisan,PM Vishwakarma
+51,Female,341859,Bihar,10th,Farmer,General,Yes,Urban,Farmer,Kisan Credit Card
+29,Female,479925,Gujarat,5th,Artisan,OBC,Yes,Rural,Artisan,PM Vishwakarma
+17,Female,420253,Maharashtra,BTech,Student,OBC,Yes,Urban,Student,AICTE Pragati
+30,Male,837011,Karnataka,Graduate,Entrepreneur,General,No,Rural,Entrepreneur,Stand Up India
+31,Male,346682,Bihar,5th,Artisan,OBC,Yes,Rural,Artisan,PM Vishwakarma
+21,Female,138211,Rajasthan,10th,Farmer,General,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+57,Male,610284,Maharashtra,Graduate,Entrepreneur,General,No,Urban,Entrepreneur,Stand Up India
+21,Female,132804,Karnataka,10th,Farmer,OBC,Yes,Rural,Farmer,PM Kisan
+57,Male,383925,Bihar,12th,Artisan,OBC,No,Rural,Artisan,PM Vishwakarma
+24,Male,688688,Maharashtra,12th,Entrepreneur,ST,Yes,Rural,Entrepreneur,Startup India
+32,Female,546066,Uttar Pradesh,12th,Entrepreneur,ST,No,Urban,Entrepreneur,Startup India
+39,Male,251016,Tamil Nadu,12th,Farmer,OBC,Yes,Urban,Farmer,PM Fasal Bima Yojana
+46,Male,326474,Bihar,5th,Artisan,OBC,Yes,Urban,Artisan,PM Vishwakarma
+40,Male,496318,Bihar,5th,Farmer,ST,No,Rural,Farmer,PM Kisan
+39,Male,297999,Uttar Pradesh,5th,Farmer,ST,Yes,Rural,Farmer,PM Kisan
+28,Female,423226,Maharashtra,Graduate,Student,SC,Yes,Rural,Student,INSPIRE Scholarship
+38,Female,489278,Bihar,10th,Farmer,ST,Yes,Rural,Farmer,PM Kisan
+47,Male,482546,Gujarat,5th,Farmer,ST,Yes,Urban,Farmer,PM Kisan Maan Dhan Yojana
+26,Female,733456,Uttar Pradesh,12th,Student,General,No,Rural,Student,PM YASASVI
+28,Female,593454,Bihar,BTech,Student,ST,Yes,Urban,Student,PM YASASVI
+41,Female,538169,Rajasthan,12th,Artisan,SC,No,Urban,Artisan,PM Vishwakarma
+29,Male,410220,Maharashtra,5th,Artisan,SC,No,Urban,Artisan,PM Vishwakarma
+27,Female,656319,Karnataka,Graduate,Student,ST,Yes,Urban,Student,AICTE Saksham
+40,Male,561399,Karnataka,10th,Artisan,OBC,No,Urban,Artisan,PM Vishwakarma
+33,Male,212178,Maharashtra,Graduate,Entrepreneur,OBC,Yes,Rural,Entrepreneur,Stand Up India
+60,Female,96914,Maharashtra,12th,Artisan,General,Yes,Urban,Artisan,PM Vishwakarma
+18,Male,604113,Rajasthan,MBA,Entrepreneur,ST,Yes,Urban,Entrepreneur,Startup India
+26,Male,441774,Madhya Pradesh,BTech,Student,General,Yes,Urban,Student,NSP Scholarship
+24,Male,424464,Gujarat,10th,Artisan,OBC,Yes,Urban,Artisan,PM Vishwakarma
+26,Female,325931,Maharashtra,BTech,Student,General,Yes,Urban,Student,AICTE Saksham
+45,Male,154880,Bihar,5th,Farmer,ST,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+47,Female,333404,Gujarat,5th,Artisan,General,No,Rural,Artisan,PM Vishwakarma
+45,Male,350438,Tamil Nadu,10th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+21,Female,739137,Rajasthan,12th,Student,General,Yes,Urban,Student,AICTE Saksham
+44,Male,640166,Gujarat,MBA,Entrepreneur,OBC,Yes,Urban,Entrepreneur,PMEGP
+34,Female,86607,Maharashtra,5th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+34,Male,338517,Uttar Pradesh,5th,Farmer,ST,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+29,Male,610343,Rajasthan,MBA,Entrepreneur,SC,No,Rural,Entrepreneur,Mudra Loan Scheme
+27,Female,268062,Rajasthan,12th,Artisan,ST,No,Urban,Artisan,PM Vishwakarma
+47,Male,772436,Karnataka,10th,Entrepreneur,ST,Yes,Rural,Entrepreneur,CGTMSE
+21,Female,468774,Tamil Nadu,Diploma,Student,OBC,No,Rural,Student,Central Sector Scholarship
+51,Male,191574,Madhya Pradesh,5th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+25,Female,370886,Tamil Nadu,5th,Artisan,OBC,No,Rural,Artisan,PM Vishwakarma
+20,Male,181079,Tamil Nadu,10th,Farmer,SC,No,Rural,Farmer,PM Kisan
+19,Female,328566,Gujarat,MBA,Entrepreneur,ST,Yes,Urban,Entrepreneur,Startup India
+39,Male,492811,Gujarat,10th,Farmer,General,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+18,Female,441332,Maharashtra,Diploma,Student,OBC,Yes,Urban,Student,INSPIRE Scholarship
+26,Female,171317,Tamil Nadu,12th,Farmer,OBC,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+47,Male,564745,Uttar Pradesh,12th,Artisan,General,Yes,Urban,Artisan,PM Vishwakarma
+29,Female,178622,Gujarat,12th,Farmer,General,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+54,Male,91678,Karnataka,10th,Artisan,OBC,No,Rural,Artisan,PM Vishwakarma
+26,Female,224877,Uttar Pradesh,10th,Farmer,OBC,No,Rural,Farmer,Kisan Credit Card
+17,Male,141035,Uttar Pradesh,BTech,Student,OBC,No,Urban,Student,NSP Scholarship
+49,Female,463463,Maharashtra,MBA,Entrepreneur,General,No,Rural,Entrepreneur,CGTMSE
+24,Male,971348,Gujarat,MBA,Entrepreneur,OBC,Yes,Rural,Entrepreneur,Mudra Loan Scheme
+21,Male,763402,Maharashtra,12th,Student,ST,No,Urban,Student,NSP Scholarship
+25,Female,499198,Rajasthan,Graduate,Student,OBC,Yes,Urban,Student,INSPIRE Scholarship
+20,Female,797125,Rajasthan,Graduate,Student,General,Yes,Rural,Student,NSP Scholarship
+38,Male,82122,Karnataka,12th,Farmer,General,No,Urban,Farmer,Kisan Credit Card
+44,Male,483545,Maharashtra,12th,Farmer,SC,No,Rural,Farmer,PM Kisan
+44,Male,346256,Gujarat,12th,Farmer,OBC,No,Rural,Farmer,PM Kisan
+28,Female,418770,Karnataka,Diploma,Student,General,Yes,Rural,Student,AICTE Saksham
+22,Female,616798,Uttar Pradesh,Graduate,Student,ST,Yes,Urban,Student,AICTE Saksham
+17,Male,662718,Uttar Pradesh,BTech,Student,ST,No,Rural,Student,Central Sector Scholarship
+47,Male,711336,Madhya Pradesh,10th,Entrepreneur,OBC,Yes,Urban,Entrepreneur,Stand Up India
+38,Male,729674,Madhya Pradesh,12th,Entrepreneur,General,Yes,Rural,Entrepreneur,PMEGP
+54,Female,345294,Maharashtra,Graduate,Entrepreneur,ST,Yes,Rural,Entrepreneur,Stand Up India
+35,Female,145301,Gujarat,12th,Artisan,ST,Yes,Urban,Artisan,PM Vishwakarma
+50,Female,127528,Maharashtra,10th,Entrepreneur,OBC,No,Rural,Entrepreneur,Mudra Loan Scheme
+44,Female,273433,Madhya Pradesh,10th,Farmer,SC,No,Urban,Farmer,PM Kisan
+27,Female,559342,Karnataka,10th,Artisan,General,Yes,Urban,Artisan,PM Vishwakarma
+25,Male,462794,Madhya Pradesh,MBA,Entrepreneur,ST,No,Urban,Entrepreneur,Stand Up India
+44,Male,1136491,Maharashtra,12th,Entrepreneur,ST,No,Urban,Entrepreneur,PMEGP
+47,Male,77925,Madhya Pradesh,12th,Farmer,ST,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+40,Female,326156,Maharashtra,10th,Entrepreneur,General,No,Urban,Entrepreneur,Stand Up India
+18,Female,684702,Rajasthan,BTech,Student,OBC,Yes,Rural,Student,AICTE Saksham
+25,Female,523329,Maharashtra,Graduate,Student,OBC,No,Rural,Student,INSPIRE Scholarship
+30,Male,316200,Uttar Pradesh,5th,Farmer,SC,Yes,Urban,Farmer,PM Kisan
+38,Male,234654,Madhya Pradesh,12th,Farmer,SC,No,Rural,Farmer,PM Kisan
+52,Female,328075,Bihar,5th,Artisan,General,No,Rural,Artisan,PM Vishwakarma
+30,Female,64992,Gujarat,10th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+26,Female,738258,Rajasthan,BTech,Student,ST,Yes,Rural,Student,PM YASASVI
+25,Male,762201,Bihar,12th,Entrepreneur,ST,No,Rural,Entrepreneur,Mudra Loan Scheme
+52,Female,225012,Rajasthan,12th,Artisan,OBC,No,Rural,Artisan,PM Vishwakarma
+47,Female,431695,Madhya Pradesh,5th,Farmer,ST,Yes,Urban,Farmer,PM Kisan
+31,Male,354832,Tamil Nadu,5th,Artisan,OBC,No,Rural,Artisan,PM Vishwakarma
+17,Male,439968,Rajasthan,12th,Student,SC,No,Urban,Student,INSPIRE Scholarship
+35,Male,191610,Madhya Pradesh,5th,Farmer,SC,Yes,Rural,Farmer,PM Kisan
+34,Male,257844,Bihar,5th,Farmer,General,No,Urban,Farmer,PM Kisan
+23,Male,612407,Karnataka,Graduate,Student,ST,No,Urban,Student,AICTE Saksham
+60,Male,191098,Uttar Pradesh,12th,Farmer,ST,Yes,Urban,Farmer,PM Kisan
+61,Female,403178,Madhya Pradesh,5th,Farmer,SC,Yes,Urban,Farmer,PM Fasal Bima Yojana
+42,Female,170813,Maharashtra,5th,Artisan,SC,Yes,Rural,Artisan,PM Vishwakarma
+52,Male,385340,Maharashtra,12th,Farmer,OBC,No,Urban,Farmer,Kisan Credit Card
+56,Male,466373,Karnataka,MBA,Entrepreneur,General,Yes,Rural,Entrepreneur,Startup India
+27,Male,614435,Rajasthan,BTech,Student,OBC,Yes,Urban,Student,Central Sector Scholarship
+37,Male,174964,Maharashtra,5th,Artisan,General,Yes,Rural,Artisan,PM Vishwakarma
+53,Female,325238,Karnataka,10th,Artisan,General,No,Rural,Artisan,PM Vishwakarma
+42,Male,347727,Bihar,5th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+52,Male,568027,Gujarat,5th,Artisan,SC,No,Urban,Artisan,PM Vishwakarma
+41,Male,422514,Karnataka,Graduate,Entrepreneur,General,Yes,Urban,Entrepreneur,Stand Up India
+27,Male,408315,Gujarat,12th,Student,SC,Yes,Rural,Student,PM YASASVI
+58,Male,84329,Rajasthan,5th,Farmer,SC,No,Urban,Farmer,Kisan Credit Card
+29,Male,356607,Maharashtra,5th,Farmer,General,Yes,Rural,Farmer,PM Fasal Bima Yojana
+26,Male,554323,Rajasthan,12th,Student,ST,Yes,Rural,Student,PM YASASVI
+30,Female,368754,Rajasthan,Graduate,Entrepreneur,OBC,Yes,Urban,Entrepreneur,PMEGP
+24,Female,417170,Maharashtra,Graduate,Student,ST,Yes,Urban,Student,AICTE Saksham
+33,Male,339542,Madhya Pradesh,10th,Artisan,OBC,No,Rural,Artisan,PM Vishwakarma
+39,Female,1095640,Bihar,12th,Entrepreneur,OBC,No,Rural,Entrepreneur,PMEGP
+39,Female,198002,Bihar,5th,Farmer,SC,Yes,Rural,Farmer,PM Kisan Maan Dhan Yojana
+28,Female,653938,Maharashtra,Graduate,Student,ST,No,Urban,Student,Central Sector Scholarship
+19,Female,271627,Bihar,Graduate,Student,OBC,Yes,Rural,Student,PM YASASVI
+57,Male,267231,Gujarat,10th,Artisan,SC,No,Rural,Artisan,PM Vishwakarma
+40,Male,272893,Maharashtra,5th,Artisan,OBC,Yes,Urban,Artisan,PM Vishwakarma
+20,Male,805705,Rajasthan,12th,Entrepreneur,General,No,Rural,Entrepreneur,Startup India
+26,Male,441298,Bihar,12th,Student,ST,Yes,Rural,Student,AICTE Saksham
+25,Male,213534,Tamil Nadu,BTech,Student,ST,Yes,Urban,Student,AICTE Pragati
+23,Female,852612,Maharashtra,10th,Entrepreneur,ST,Yes,Urban,Entrepreneur,PMEGP
+60,Male,106087,Tamil Nadu,12th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+40,Male,726353,Uttar Pradesh,12th,Entrepreneur,OBC,Yes,Urban,Entrepreneur,Stand Up India
+30,Female,301757,Maharashtra,MBA,Entrepreneur,ST,Yes,Rural,Entrepreneur,Stand Up India
+35,Male,338198,Rajasthan,10th,Entrepreneur,ST,Yes,Urban,Entrepreneur,CGTMSE
+22,Male,374144,Uttar Pradesh,Graduate,Student,SC,No,Urban,Student,PM YASASVI
+20,Female,1082083,Rajasthan,12th,Entrepreneur,OBC,No,Rural,Entrepreneur,CGTMSE
+60,Female,265617,Maharashtra,10th,Farmer,General,No,Urban,Farmer,PM Fasal Bima Yojana
+19,Female,524169,Rajasthan,Diploma,Student,SC,No,Urban,Student,INSPIRE Scholarship
+44,Male,249801,Madhya Pradesh,10th,Artisan,ST,No,Urban,Artisan,PM Vishwakarma
+26,Female,50158,Madhya Pradesh,BTech,Student,OBC,Yes,Rural,Student,INSPIRE Scholarship
+31,Female,97003,Uttar Pradesh,10th,Farmer,General,Yes,Rural,Farmer,PM Kisan
+36,Female,161183,Tamil Nadu,12th,Artisan,SC,No,Urban,Artisan,PM Vishwakarma
+54,Female,252106,Maharashtra,5th,Farmer,General,Yes,Urban,Farmer,Kisan Credit Card
+59,Female,502360,Maharashtra,10th,Artisan,ST,Yes,Urban,Artisan,PM Vishwakarma
+42,Male,359829,Karnataka,12th,Artisan,General,No,Urban,Artisan,PM Vishwakarma
+21,Male,473099,Tamil Nadu,BTech,Student,OBC,No,Urban,Student,AICTE Pragati
+58,Female,426921,Gujarat,5th,Farmer,General,No,Urban,Farmer,PM Fasal Bima Yojana
+41,Male,500089,Madhya Pradesh,12th,Artisan,General,No,Urban,Artisan,PM Vishwakarma
+25,Female,279333,Tamil Nadu,Graduate,Entrepreneur,OBC,Yes,Urban,Entrepreneur,CGTMSE
+19,Female,441007,Gujarat,Graduate,Entrepreneur,General,No,Rural,Entrepreneur,Mudra Loan Scheme
+39,Female,427037,Tamil Nadu,Graduate,Entrepreneur,SC,No,Urban,Entrepreneur,Startup India
+27,Male,242839,Bihar,Graduate,Student,General,No,Rural,Student,INSPIRE Scholarship
+53,Female,498798,Tamil Nadu,5th,Artisan,OBC,Yes,Rural,Artisan,PM Vishwakarma
+24,Female,146591,Uttar Pradesh,Graduate,Entrepreneur,OBC,Yes,Urban,Entrepreneur,CGTMSE
+27,Male,555053,Bihar,12th,Student,General,No,Urban,Student,AICTE Saksham
+20,Male,435424,Maharashtra,Graduate,Student,General,Yes,Rural,Student,AICTE Pragati
+19,Male,397624,Bihar,12th,Student,General,No,Urban,Student,PM YASASVI
+32,Female,186638,Tamil Nadu,10th,Farmer,General,Yes,Rural,Farmer,PM Kisan
+57,Male,490886,Maharashtra,5th,Farmer,OBC,Yes,Urban,Farmer,Kisan Credit Card
+52,Female,468453,Tamil Nadu,10th,Artisan,ST,Yes,Urban,Artisan,PM Vishwakarma
+24,Female,464751,Madhya Pradesh,10th,Farmer,ST,Yes,Urban,Farmer,PM Kisan
+27,Male,195581,Uttar Pradesh,Diploma,Student,OBC,No,Urban,Student,INSPIRE Scholarship
+37,Female,198441,Rajasthan,12th,Artisan,General,No,Urban,Artisan,PM Vishwakarma
+37,Female,579441,Gujarat,12th,Artisan,OBC,Yes,Rural,Artisan,PM Vishwakarma
+49,Male,352687,Maharashtra,12th,Farmer,SC,Yes,Urban,Farmer,PM Kisan
+20,Male,738971,Tamil Nadu,BTech,Student,SC,No,Urban,Student,INSPIRE Scholarship
+47,Male,429280,Gujarat,Graduate,Entrepreneur,General,Yes,Rural,Entrepreneur,PMEGP
+22,Male,97510,Gujarat,Diploma,Student,SC,Yes,Rural,Student,AICTE Saksham
+51,Female,1183885,Madhya Pradesh,10th,Entrepreneur,General,No,Rural,Entrepreneur,Stand Up India
+56,Male,591925,Gujarat,Graduate,Entrepreneur,OBC,Yes,Rural,Entrepreneur,CGTMSE
+50,Male,830391,Gujarat,Graduate,Entrepreneur,General,No,Urban,Entrepreneur,PMEGP
+28,Female,205817,Gujarat,Graduate,Student,SC,Yes,Rural,Student,AICTE Saksham
+47,Male,118021,Rajasthan,10th,Artisan,General,No,Rural,Artisan,PM Vishwakarma
+48,Male,309176,Uttar Pradesh,12th,Artisan,OBC,No,Urban,Artisan,PM Vishwakarma
+20,Male,490092,Madhya Pradesh,Graduate,Student,SC,Yes,Rural,Student,AICTE Pragati
+23,Male,766896,Madhya Pradesh,Diploma,Student,ST,No,Urban,Student,NSP Scholarship
+50,Male,579279,Tamil Nadu,12th,Artisan,OBC,Yes,Rural,Artisan,PM Vishwakarma
+36,Female,479603,Rajasthan,5th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+54,Male,1188745,Madhya Pradesh,Graduate,Entrepreneur,General,No,Urban,Entrepreneur,CGTMSE
+51,Female,1136255,Madhya Pradesh,Graduate,Entrepreneur,SC,Yes,Urban,Entrepreneur,Stand Up India
+38,Female,334918,Madhya Pradesh,10th,Farmer,ST,Yes,Urban,Farmer,PM Fasal Bima Yojana
+26,Female,183503,Rajasthan,5th,Farmer,General,No,Rural,Farmer,PM Kisan
+17,Female,350581,Uttar Pradesh,Graduate,Student,OBC,Yes,Urban,Student,AICTE Saksham
+20,Female,556540,Maharashtra,12th,Student,General,Yes,Rural,Student,NSP Scholarship
+36,Male,480220,Madhya Pradesh,10th,Farmer,ST,No,Rural,Farmer,PM Kisan
+19,Male,1009523,Karnataka,10th,Entrepreneur,General,Yes,Rural,Entrepreneur,CGTMSE
+35,Female,158462,Maharashtra,Graduate,Entrepreneur,SC,Yes,Rural,Entrepreneur,Startup India
+54,Female,635236,Rajasthan,MBA,Entrepreneur,General,Yes,Rural,Entrepreneur,Stand Up India
+22,Male,54192,Karnataka,Diploma,Student,SC,Yes,Urban,Student,AICTE Saksham
+23,Male,249489,Uttar Pradesh,10th,Farmer,ST,Yes,Rural,Farmer,Kisan Credit Card
+60,Female,54448,Bihar,5th,Farmer,SC,No,Rural,Farmer,PM Fasal Bima Yojana
+18,Female,140042,Bihar,12th,Farmer,General,No,Rural,Farmer,PM Fasal Bima Yojana
+28,Female,199678,Maharashtra,10th,Farmer,ST,No,Rural,Farmer,PM Kisan
+25,Female,110699,Gujarat,Graduate,Student,General,No,Rural,Student,AICTE Pragati
+19,Female,660603,Bihar,BTech,Student,General,No,Urban,Student,NSP Scholarship
+58,Female,230907,Gujarat,10th,Farmer,General,Yes,Urban,Farmer,PM Kisan Maan Dhan Yojana
+52,Female,339824,Tamil Nadu,12th,Artisan,ST,No,Urban,Artisan,PM Vishwakarma
+33,Male,158088,Madhya Pradesh,5th,Farmer,SC,No,Rural,Farmer,Kisan Credit Card
+29,Male,304796,Madhya Pradesh,12th,Entrepreneur,OBC,Yes,Urban,Entrepreneur,Startup India
+48,Male,258610,Madhya Pradesh,10th,Farmer,ST,No,Urban,Farmer,PM Kisan
+48,Male,150336,Madhya Pradesh,10th,Farmer,ST,Yes,Urban,Farmer,PM Kisan Maan Dhan Yojana
+41,Female,214662,Gujarat,10th,Farmer,ST,No,Urban,Farmer,Kisan Credit Card
+21,Female,173244,Tamil Nadu,10th,Artisan,ST,Yes,Urban,Artisan,PM Vishwakarma
+37,Male,382393,Tamil Nadu,10th,Entrepreneur,General,No,Urban,Entrepreneur,PMEGP
+43,Male,954077,Maharashtra,MBA,Entrepreneur,General,Yes,Rural,Entrepreneur,Startup India
+56,Male,445474,Gujarat,12th,Entrepreneur,ST,No,Rural,Entrepreneur,PMEGP
+18,Female,544718,Tamil Nadu,BTech,Student,General,Yes,Rural,Student,AICTE Pragati
+54,Female,914936,Uttar Pradesh,10th,Entrepreneur,SC,No,Rural,Entrepreneur,PMEGP
+37,Male,405886,Maharashtra,10th,Farmer,OBC,No,Rural,Farmer,Kisan Credit Card
+57,Female,377298,Uttar Pradesh,12th,Artisan,General,Yes,Rural,Artisan,PM Vishwakarma
+30,Male,671735,Karnataka,MBA,Entrepreneur,SC,Yes,Urban,Entrepreneur,Startup India
+20,Female,313851,Gujarat,5th,Farmer,SC,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+25,Male,150740,Maharashtra,12th,Farmer,ST,Yes,Urban,Farmer,PM Kisan Maan Dhan Yojana
+47,Male,356981,Karnataka,12th,Farmer,OBC,Yes,Rural,Farmer,PM Fasal Bima Yojana
+22,Male,72338,Bihar,BTech,Student,OBC,Yes,Rural,Student,Central Sector Scholarship
+21,Male,897156,Gujarat,Graduate,Entrepreneur,General,No,Urban,Entrepreneur,Startup India
+19,Male,532759,Tamil Nadu,BTech,Student,General,No,Urban,Student,AICTE Pragati
+26,Male,135070,Bihar,10th,Farmer,OBC,Yes,Rural,Farmer,Kisan Credit Card
+57,Female,235022,Maharashtra,10th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+27,Female,1131549,Maharashtra,12th,Entrepreneur,SC,No,Urban,Entrepreneur,Mudra Loan Scheme
+40,Male,173335,Tamil Nadu,MBA,Entrepreneur,SC,No,Rural,Entrepreneur,Mudra Loan Scheme
+18,Female,468632,Rajasthan,10th,Farmer,General,No,Rural,Farmer,Kisan Credit Card
+35,Male,261098,Tamil Nadu,10th,Artisan,ST,No,Urban,Artisan,PM Vishwakarma
+35,Male,505504,Madhya Pradesh,10th,Artisan,SC,No,Rural,Artisan,PM Vishwakarma
+19,Female,517120,Maharashtra,Diploma,Student,ST,No,Rural,Student,AICTE Pragati
+36,Male,113400,Tamil Nadu,10th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+36,Female,580788,Gujarat,MBA,Entrepreneur,OBC,No,Rural,Entrepreneur,CGTMSE
+22,Female,462751,Maharashtra,10th,Entrepreneur,OBC,No,Rural,Entrepreneur,Mudra Loan Scheme
+20,Male,391214,Bihar,BTech,Student,SC,No,Urban,Student,PM YASASVI
+27,Female,551456,Uttar Pradesh,Graduate,Student,OBC,No,Rural,Student,AICTE Pragati
+54,Male,123035,Madhya Pradesh,10th,Artisan,ST,No,Urban,Artisan,PM Vishwakarma
+26,Female,185346,Karnataka,12th,Artisan,General,No,Urban,Artisan,PM Vishwakarma
+36,Female,439136,Uttar Pradesh,10th,Artisan,SC,No,Urban,Artisan,PM Vishwakarma
+45,Female,294368,Rajasthan,5th,Artisan,General,Yes,Rural,Artisan,PM Vishwakarma
+50,Male,362751,Gujarat,MBA,Entrepreneur,SC,No,Urban,Entrepreneur,Startup India
+19,Male,494259,Rajasthan,10th,Farmer,General,Yes,Urban,Farmer,PM Kisan Maan Dhan Yojana
+25,Male,507162,Gujarat,Graduate,Student,ST,Yes,Urban,Student,AICTE Pragati
+33,Male,917680,Maharashtra,12th,Entrepreneur,ST,Yes,Urban,Entrepreneur,Startup India
+32,Female,553522,Bihar,10th,Entrepreneur,General,Yes,Rural,Entrepreneur,CGTMSE
+54,Male,134845,Madhya Pradesh,10th,Farmer,SC,Yes,Rural,Farmer,PM Fasal Bima Yojana
+23,Female,165061,Karnataka,Graduate,Student,OBC,No,Rural,Student,NSP Scholarship
+22,Male,612816,Madhya Pradesh,10th,Entrepreneur,OBC,No,Rural,Entrepreneur,Mudra Loan Scheme
+22,Male,241469,Rajasthan,12th,Student,SC,No,Rural,Student,AICTE Saksham
+22,Male,461184,Madhya Pradesh,10th,Farmer,General,Yes,Urban,Farmer,Kisan Credit Card
+22,Female,191844,Gujarat,Graduate,Student,General,No,Urban,Student,AICTE Saksham
+19,Male,863231,Gujarat,12th,Entrepreneur,OBC,No,Rural,Entrepreneur,Stand Up India
+53,Female,271800,Madhya Pradesh,10th,Farmer,OBC,Yes,Rural,Farmer,PM Kisan
+20,Female,555308,Rajasthan,Diploma,Student,General,Yes,Rural,Student,PM YASASVI
+60,Female,449373,Karnataka,10th,Artisan,ST,No,Urban,Artisan,PM Vishwakarma
+25,Male,208719,Tamil Nadu,BTech,Student,General,Yes,Rural,Student,PM YASASVI
+27,Female,458715,Madhya Pradesh,10th,Farmer,General,Yes,Urban,Farmer,Kisan Credit Card
+53,Female,367614,Madhya Pradesh,5th,Artisan,OBC,Yes,Rural,Artisan,PM Vishwakarma
+64,Female,379789,Karnataka,10th,Farmer,ST,No,Rural,Farmer,Kisan Credit Card
+35,Male,342105,Maharashtra,5th,Farmer,ST,No,Rural,Farmer,PM Fasal Bima Yojana
+49,Female,419968,Bihar,10th,Farmer,OBC,No,Rural,Farmer,PM Kisan
+18,Male,243738,Rajasthan,Graduate,Entrepreneur,General,Yes,Urban,Entrepreneur,CGTMSE
+27,Female,179754,Madhya Pradesh,BTech,Student,SC,Yes,Urban,Student,PM YASASVI
+42,Male,252835,Karnataka,12th,Farmer,OBC,No,Urban,Farmer,PM Fasal Bima Yojana
+48,Female,164795,Madhya Pradesh,5th,Farmer,SC,No,Rural,Farmer,Kisan Credit Card
+34,Female,863410,Tamil Nadu,10th,Entrepreneur,SC,No,Urban,Entrepreneur,Stand Up India
+39,Male,426325,Gujarat,10th,Artisan,SC,Yes,Urban,Artisan,PM Vishwakarma
+30,Male,445013,Maharashtra,10th,Farmer,SC,No,Urban,Farmer,PM Kisan
+21,Female,660878,Bihar,BTech,Student,SC,Yes,Urban,Student,INSPIRE Scholarship
+18,Male,1057449,Bihar,MBA,Entrepreneur,General,Yes,Rural,Entrepreneur,Stand Up India
+39,Male,456153,Uttar Pradesh,5th,Farmer,General,No,Urban,Farmer,PM Kisan
+36,Female,513040,Rajasthan,12th,Entrepreneur,ST,No,Rural,Entrepreneur,Mudra Loan Scheme
+57,Female,709468,Karnataka,MBA,Entrepreneur,General,Yes,Rural,Entrepreneur,Stand Up India
+40,Female,331979,Bihar,5th,Artisan,OBC,No,Rural,Artisan,PM Vishwakarma
+65,Male,293343,Tamil Nadu,10th,Farmer,General,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+29,Male,1183524,Rajasthan,Graduate,Entrepreneur,SC,Yes,Rural,Entrepreneur,Stand Up India
+24,Male,318177,Rajasthan,12th,Entrepreneur,SC,No,Rural,Entrepreneur,Mudra Loan Scheme
+61,Female,326989,Bihar,10th,Farmer,OBC,Yes,Rural,Farmer,PM Fasal Bima Yojana
+28,Female,442042,Karnataka,Graduate,Student,OBC,Yes,Urban,Student,AICTE Pragati
+58,Male,420829,Madhya Pradesh,5th,Farmer,OBC,No,Urban,Farmer,Kisan Credit Card
+39,Female,743002,Maharashtra,MBA,Entrepreneur,ST,Yes,Urban,Entrepreneur,CGTMSE
+33,Male,498727,Madhya Pradesh,5th,Farmer,ST,Yes,Urban,Farmer,PM Fasal Bima Yojana
+60,Male,353751,Rajasthan,MBA,Entrepreneur,General,Yes,Urban,Entrepreneur,Startup India
+43,Male,431061,Maharashtra,12th,Farmer,OBC,Yes,Urban,Farmer,PM Fasal Bima Yojana
+19,Female,444069,Maharashtra,5th,Farmer,SC,No,Urban,Farmer,PM Kisan Maan Dhan Yojana
+60,Female,66139,Maharashtra,10th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+28,Female,314712,Madhya Pradesh,Diploma,Student,ST,No,Rural,Student,INSPIRE Scholarship
+23,Female,286219,Karnataka,10th,Artisan,SC,Yes,Urban,Artisan,PM Vishwakarma
+53,Male,186110,Bihar,5th,Farmer,ST,No,Urban,Farmer,PM Kisan Maan Dhan Yojana
+39,Male,300603,Maharashtra,10th,Artisan,SC,No,Urban,Artisan,PM Vishwakarma
+38,Female,551571,Maharashtra,5th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+24,Male,530503,Maharashtra,Diploma,Student,General,No,Urban,Student,AICTE Pragati
+26,Female,135436,Karnataka,12th,Farmer,SC,Yes,Rural,Farmer,Kisan Credit Card
+35,Female,115174,Madhya Pradesh,10th,Entrepreneur,OBC,No,Urban,Entrepreneur,CGTMSE
+17,Female,206368,Madhya Pradesh,Graduate,Student,ST,No,Urban,Student,INSPIRE Scholarship
+26,Female,270916,Uttar Pradesh,Graduate,Student,OBC,No,Rural,Student,AICTE Pragati
+18,Female,506228,Uttar Pradesh,Graduate,Student,OBC,No,Urban,Student,NSP Scholarship
+35,Male,278910,Gujarat,Graduate,Entrepreneur,General,Yes,Rural,Entrepreneur,PMEGP
+58,Female,77774,Tamil Nadu,10th,Artisan,General,Yes,Rural,Artisan,PM Vishwakarma
+21,Male,293979,Gujarat,12th,Artisan,SC,Yes,Urban,Artisan,PM Vishwakarma
+32,Female,376878,Maharashtra,10th,Farmer,General,No,Urban,Farmer,Kisan Credit Card
+21,Female,154931,Madhya Pradesh,10th,Farmer,SC,No,Urban,Farmer,PM Kisan Maan Dhan Yojana
+35,Male,487975,Bihar,10th,Artisan,SC,No,Rural,Artisan,PM Vishwakarma
+33,Male,975757,Karnataka,MBA,Entrepreneur,OBC,No,Urban,Entrepreneur,CGTMSE
+23,Male,360732,Uttar Pradesh,BTech,Student,General,Yes,Rural,Student,INSPIRE Scholarship
+22,Female,643380,Maharashtra,BTech,Student,General,Yes,Urban,Student,PM YASASVI
+54,Female,177036,Rajasthan,10th,Farmer,ST,Yes,Rural,Farmer,PM Kisan
+64,Male,50726,Madhya Pradesh,12th,Farmer,ST,No,Urban,Farmer,PM Fasal Bima Yojana
+22,Male,262034,Tamil Nadu,5th,Farmer,ST,Yes,Urban,Farmer,PM Kisan Maan Dhan Yojana
+50,Female,268067,Bihar,MBA,Entrepreneur,SC,No,Rural,Entrepreneur,Stand Up India
+38,Male,479681,Gujarat,5th,Farmer,General,Yes,Urban,Farmer,PM Fasal Bima Yojana
+17,Male,470001,Uttar Pradesh,BTech,Student,SC,Yes,Urban,Student,PM YASASVI
+56,Female,224925,Uttar Pradesh,12th,Farmer,ST,No,Urban,Farmer,PM Kisan
+50,Female,258641,Bihar,5th,Farmer,General,Yes,Rural,Farmer,Kisan Credit Card
+60,Male,956822,Karnataka,12th,Entrepreneur,ST,No,Rural,Entrepreneur,Mudra Loan Scheme
+27,Male,574627,Madhya Pradesh,12th,Student,SC,No,Rural,Student,PM YASASVI
+23,Female,774755,Bihar,Graduate,Student,General,Yes,Urban,Student,AICTE Saksham
+18,Male,1014576,Uttar Pradesh,Graduate,Entrepreneur,OBC,Yes,Rural,Entrepreneur,Stand Up India
+19,Male,612661,Karnataka,BTech,Student,ST,Yes,Rural,Student,NSP Scholarship
+30,Female,286111,Tamil Nadu,10th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+37,Male,874828,Tamil Nadu,MBA,Entrepreneur,ST,No,Rural,Entrepreneur,CGTMSE
+44,Female,98804,Madhya Pradesh,5th,Farmer,ST,Yes,Rural,Farmer,PM Fasal Bima Yojana
+26,Female,563259,Tamil Nadu,Diploma,Student,General,No,Rural,Student,AICTE Pragati
+39,Male,93330,Karnataka,5th,Farmer,OBC,No,Urban,Farmer,PM Kisan Maan Dhan Yojana
+34,Female,106021,Bihar,12th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+40,Male,489559,Karnataka,12th,Entrepreneur,General,No,Urban,Entrepreneur,PMEGP
+18,Male,691255,Maharashtra,Graduate,Entrepreneur,General,Yes,Rural,Entrepreneur,Stand Up India
+39,Female,902922,Rajasthan,MBA,Entrepreneur,SC,No,Urban,Entrepreneur,CGTMSE
+63,Female,325184,Uttar Pradesh,10th,Farmer,ST,No,Urban,Farmer,PM Fasal Bima Yojana
+32,Female,227029,Madhya Pradesh,5th,Farmer,General,Yes,Urban,Farmer,Kisan Credit Card
+54,Male,179342,Rajasthan,5th,Farmer,OBC,Yes,Urban,Farmer,PM Kisan
+22,Female,806712,Bihar,10th,Entrepreneur,General,No,Rural,Entrepreneur,Startup India
+35,Male,233017,Tamil Nadu,12th,Entrepreneur,SC,No,Urban,Entrepreneur,Stand Up India
+47,Male,206646,Uttar Pradesh,5th,Artisan,General,Yes,Rural,Artisan,PM Vishwakarma
+54,Female,719066,Bihar,MBA,Entrepreneur,SC,No,Urban,Entrepreneur,Mudra Loan Scheme
+31,Female,113740,Uttar Pradesh,5th,Farmer,OBC,Yes,Urban,Farmer,PM Kisan Maan Dhan Yojana
+62,Female,448859,Maharashtra,10th,Farmer,General,No,Rural,Farmer,Kisan Credit Card
+20,Female,539762,Karnataka,BTech,Student,OBC,Yes,Urban,Student,NSP Scholarship
+55,Male,1158316,Bihar,10th,Entrepreneur,ST,Yes,Rural,Entrepreneur,Mudra Loan Scheme
+20,Female,327233,Gujarat,12th,Student,SC,Yes,Rural,Student,Central Sector Scholarship
+17,Female,610117,Rajasthan,12th,Student,General,Yes,Rural,Student,INSPIRE Scholarship
+40,Female,141831,Tamil Nadu,5th,Farmer,ST,Yes,Rural,Farmer,PM Kisan
+23,Male,336931,Karnataka,12th,Farmer,SC,No,Urban,Farmer,Kisan Credit Card
+43,Female,1056631,Madhya Pradesh,Graduate,Entrepreneur,OBC,Yes,Rural,Entrepreneur,CGTMSE
+22,Male,445962,Bihar,12th,Student,General,Yes,Rural,Student,AICTE Saksham
+43,Female,384845,Rajasthan,MBA,Entrepreneur,ST,Yes,Urban,Entrepreneur,CGTMSE
+20,Female,335439,Bihar,5th,Farmer,OBC,Yes,Rural,Farmer,PM Kisan Maan Dhan Yojana
+18,Female,735263,Bihar,12th,Entrepreneur,OBC,No,Rural,Entrepreneur,Startup India
+43,Male,346514,Bihar,5th,Farmer,ST,Yes,Urban,Farmer,PM Kisan
+18,Male,288443,Gujarat,Diploma,Student,ST,Yes,Urban,Student,AICTE Saksham
+20,Female,329734,Bihar,5th,Farmer,ST,No,Urban,Farmer,Kisan Credit Card
+17,Female,567189,Karnataka,Graduate,Student,SC,Yes,Rural,Student,AICTE Pragati
+50,Female,312274,Gujarat,12th,Entrepreneur,General,No,Urban,Entrepreneur,Stand Up India
+18,Female,254028,Uttar Pradesh,12th,Student,OBC,Yes,Urban,Student,NSP Scholarship
+62,Male,273553,Uttar Pradesh,12th,Farmer,OBC,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+37,Male,252911,Maharashtra,5th,Farmer,General,Yes,Urban,Farmer,PM Fasal Bima Yojana
+33,Female,565111,Tamil Nadu,Graduate,Entrepreneur,SC,No,Urban,Entrepreneur,Mudra Loan Scheme
+23,Female,778192,Madhya Pradesh,Diploma,Student,OBC,No,Urban,Student,AICTE Pragati
+22,Female,787224,Rajasthan,Diploma,Student,OBC,Yes,Urban,Student,NSP Scholarship
+24,Male,380996,Karnataka,Graduate,Student,ST,Yes,Urban,Student,AICTE Saksham
+22,Female,203550,Bihar,10th,Farmer,SC,No,Urban,Farmer,Kisan Credit Card
+26,Female,183247,Madhya Pradesh,5th,Artisan,OBC,Yes,Rural,Artisan,PM Vishwakarma
+47,Female,871861,Rajasthan,10th,Entrepreneur,OBC,Yes,Rural,Entrepreneur,Mudra Loan Scheme
+50,Female,949217,Gujarat,Graduate,Entrepreneur,SC,Yes,Rural,Entrepreneur,Stand Up India
+37,Female,482329,Tamil Nadu,12th,Farmer,ST,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+61,Male,103326,Bihar,5th,Farmer,OBC,No,Urban,Farmer,PM Kisan
+47,Male,276286,Karnataka,12th,Farmer,ST,Yes,Urban,Farmer,PM Kisan
+48,Male,440754,Madhya Pradesh,10th,Farmer,ST,No,Urban,Farmer,PM Kisan
+17,Female,256443,Uttar Pradesh,12th,Student,OBC,Yes,Urban,Student,Central Sector Scholarship
+38,Female,855589,Maharashtra,MBA,Entrepreneur,ST,No,Rural,Entrepreneur,Startup India
+25,Female,208199,Rajasthan,BTech,Student,SC,Yes,Urban,Student,NSP Scholarship
+19,Male,473420,Tamil Nadu,12th,Artisan,SC,No,Urban,Artisan,PM Vishwakarma
+41,Female,286290,Karnataka,10th,Farmer,OBC,Yes,Rural,Farmer,Kisan Credit Card
+47,Female,179126,Maharashtra,5th,Farmer,OBC,No,Urban,Farmer,PM Kisan
+50,Female,451767,Bihar,10th,Farmer,SC,No,Rural,Farmer,PM Kisan
+19,Male,511348,Rajasthan,12th,Student,General,No,Rural,Student,AICTE Pragati
+19,Female,418088,Madhya Pradesh,12th,Artisan,OBC,No,Urban,Artisan,PM Vishwakarma
+19,Male,553164,Uttar Pradesh,10th,Entrepreneur,SC,Yes,Rural,Entrepreneur,Mudra Loan Scheme
+21,Female,766883,Bihar,12th,Student,General,Yes,Rural,Student,NSP Scholarship
+55,Male,88903,Karnataka,5th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+25,Female,736278,Madhya Pradesh,Diploma,Student,SC,Yes,Urban,Student,INSPIRE Scholarship
+36,Female,475006,Maharashtra,Graduate,Entrepreneur,OBC,Yes,Rural,Entrepreneur,Stand Up India
+25,Male,589027,Bihar,Graduate,Student,ST,Yes,Urban,Student,INSPIRE Scholarship
+29,Female,396483,Gujarat,12th,Artisan,ST,No,Urban,Artisan,PM Vishwakarma
+28,Male,150464,Madhya Pradesh,BTech,Student,SC,Yes,Rural,Student,PM YASASVI
+21,Male,1057249,Karnataka,12th,Entrepreneur,ST,No,Urban,Entrepreneur,Stand Up India
+49,Male,215679,Tamil Nadu,12th,Entrepreneur,SC,No,Urban,Entrepreneur,PMEGP
+39,Male,474807,Uttar Pradesh,10th,Entrepreneur,OBC,No,Rural,Entrepreneur,Mudra Loan Scheme
+58,Female,497462,Uttar Pradesh,12th,Entrepreneur,SC,Yes,Rural,Entrepreneur,CGTMSE
+24,Female,420773,Maharashtra,BTech,Student,SC,Yes,Rural,Student,INSPIRE Scholarship
+49,Female,406291,Bihar,MBA,Entrepreneur,OBC,Yes,Rural,Entrepreneur,CGTMSE
+18,Male,530585,Tamil Nadu,12th,Student,General,Yes,Urban,Student,NSP Scholarship
+47,Male,137917,Rajasthan,12th,Entrepreneur,OBC,No,Urban,Entrepreneur,Stand Up India
+58,Male,468729,Tamil Nadu,10th,Entrepreneur,ST,Yes,Rural,Entrepreneur,CGTMSE
+20,Male,932014,Bihar,MBA,Entrepreneur,OBC,Yes,Rural,Entrepreneur,PMEGP
+39,Female,352502,Maharashtra,5th,Artisan,SC,Yes,Urban,Artisan,PM Vishwakarma
+43,Female,724882,Karnataka,12th,Entrepreneur,OBC,Yes,Rural,Entrepreneur,PMEGP
+20,Female,83607,Gujarat,12th,Student,SC,No,Rural,Student,Central Sector Scholarship
+44,Female,603119,Uttar Pradesh,Graduate,Entrepreneur,SC,Yes,Rural,Entrepreneur,CGTMSE
+52,Male,1062129,Gujarat,10th,Entrepreneur,OBC,No,Rural,Entrepreneur,Mudra Loan Scheme
+21,Female,58673,Tamil Nadu,Graduate,Student,ST,No,Rural,Student,INSPIRE Scholarship
+34,Female,984114,Bihar,12th,Entrepreneur,OBC,Yes,Rural,Entrepreneur,Mudra Loan Scheme
+23,Female,172510,Uttar Pradesh,5th,Farmer,OBC,Yes,Urban,Farmer,PM Kisan Maan Dhan Yojana
+39,Male,261059,Tamil Nadu,5th,Artisan,SC,Yes,Urban,Artisan,PM Vishwakarma
+52,Male,514526,Bihar,10th,Artisan,SC,Yes,Rural,Artisan,PM Vishwakarma
+26,Female,426978,Tamil Nadu,BTech,Student,ST,No,Urban,Student,AICTE Saksham
+29,Male,340130,Tamil Nadu,12th,Entrepreneur,SC,Yes,Rural,Entrepreneur,CGTMSE
+28,Female,701870,Maharashtra,BTech,Student,SC,No,Rural,Student,AICTE Saksham
+17,Male,547809,Bihar,Graduate,Student,General,No,Urban,Student,INSPIRE Scholarship
+27,Female,500729,Bihar,BTech,Student,General,No,Rural,Student,NSP Scholarship
+38,Male,425426,Madhya Pradesh,12th,Farmer,SC,Yes,Rural,Farmer,PM Kisan
+59,Female,407821,Tamil Nadu,10th,Artisan,ST,No,Urban,Artisan,PM Vishwakarma
+26,Male,193550,Karnataka,BTech,Student,SC,Yes,Rural,Student,AICTE Pragati
+23,Male,244009,Gujarat,12th,Artisan,General,No,Rural,Artisan,PM Vishwakarma
+51,Male,281622,Tamil Nadu,12th,Farmer,General,No,Urban,Farmer,PM Fasal Bima Yojana
+50,Female,578755,Madhya Pradesh,MBA,Entrepreneur,SC,Yes,Urban,Entrepreneur,Startup India
+26,Male,240695,Madhya Pradesh,Diploma,Student,ST,No,Urban,Student,AICTE Saksham
+46,Female,152786,Rajasthan,12th,Artisan,ST,No,Urban,Artisan,PM Vishwakarma
+59,Male,287817,Maharashtra,MBA,Entrepreneur,ST,Yes,Rural,Entrepreneur,CGTMSE
+52,Male,692481,Gujarat,10th,Entrepreneur,SC,No,Urban,Entrepreneur,CGTMSE
+27,Male,381525,Maharashtra,MBA,Entrepreneur,OBC,No,Rural,Entrepreneur,Mudra Loan Scheme
+18,Male,195762,Bihar,10th,Farmer,SC,Yes,Rural,Farmer,PM Fasal Bima Yojana
+26,Female,171577,Tamil Nadu,12th,Farmer,OBC,No,Urban,Farmer,Kisan Credit Card
+61,Female,57495,Madhya Pradesh,12th,Farmer,SC,Yes,Rural,Farmer,PM Kisan
+60,Female,416541,Karnataka,10th,Artisan,SC,No,Rural,Artisan,PM Vishwakarma
+24,Male,267738,Gujarat,12th,Student,SC,Yes,Urban,Student,AICTE Pragati
+40,Female,181514,Tamil Nadu,10th,Artisan,SC,Yes,Rural,Artisan,PM Vishwakarma
+25,Female,504004,Bihar,10th,Entrepreneur,General,No,Urban,Entrepreneur,PMEGP
+38,Male,528847,Maharashtra,10th,Artisan,General,Yes,Rural,Artisan,PM Vishwakarma
+40,Female,239437,Rajasthan,10th,Entrepreneur,OBC,Yes,Rural,Entrepreneur,Mudra Loan Scheme
+24,Male,413100,Bihar,12th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+21,Female,550454,Maharashtra,BTech,Student,OBC,Yes,Rural,Student,AICTE Pragati
+52,Female,159429,Bihar,10th,Artisan,SC,No,Rural,Artisan,PM Vishwakarma
+42,Male,241318,Uttar Pradesh,10th,Artisan,SC,No,Rural,Artisan,PM Vishwakarma
+19,Female,1113194,Bihar,12th,Entrepreneur,SC,Yes,Urban,Entrepreneur,CGTMSE
+25,Female,314596,Rajasthan,12th,Artisan,OBC,No,Rural,Artisan,PM Vishwakarma
+54,Female,52146,Madhya Pradesh,5th,Artisan,OBC,Yes,Urban,Artisan,PM Vishwakarma
+22,Female,372187,Maharashtra,BTech,Student,General,Yes,Urban,Student,NSP Scholarship
+28,Female,309797,Bihar,BTech,Student,ST,No,Urban,Student,PM YASASVI
+38,Male,310592,Tamil Nadu,10th,Farmer,OBC,No,Urban,Farmer,PM Kisan
+27,Male,154729,Bihar,10th,Entrepreneur,SC,No,Urban,Entrepreneur,Stand Up India
+50,Female,482159,Tamil Nadu,12th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+27,Male,358981,Maharashtra,BTech,Student,OBC,No,Rural,Student,AICTE Saksham
+21,Female,313903,Rajasthan,BTech,Student,OBC,Yes,Urban,Student,INSPIRE Scholarship
+26,Male,967068,Madhya Pradesh,MBA,Entrepreneur,ST,Yes,Rural,Entrepreneur,Mudra Loan Scheme
+27,Female,361587,Gujarat,12th,Farmer,OBC,Yes,Urban,Farmer,PM Kisan
+43,Male,569892,Uttar Pradesh,12th,Entrepreneur,OBC,Yes,Urban,Entrepreneur,Startup India
+48,Female,196847,Rajasthan,12th,Artisan,OBC,No,Urban,Artisan,PM Vishwakarma
+22,Male,264232,Uttar Pradesh,5th,Artisan,General,Yes,Urban,Artisan,PM Vishwakarma
+34,Female,403346,Uttar Pradesh,12th,Farmer,General,No,Rural,Farmer,PM Kisan
+28,Female,784900,Tamil Nadu,10th,Entrepreneur,ST,Yes,Rural,Entrepreneur,PMEGP
+48,Female,544905,Gujarat,12th,Artisan,ST,No,Urban,Artisan,PM Vishwakarma
+19,Female,350404,Karnataka,Diploma,Student,OBC,No,Urban,Student,PM YASASVI
+57,Male,258101,Uttar Pradesh,10th,Farmer,SC,No,Urban,Farmer,Kisan Credit Card
+54,Male,290053,Rajasthan,12th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+27,Male,98472,Bihar,5th,Farmer,ST,No,Urban,Farmer,PM Kisan
+18,Male,462599,Uttar Pradesh,10th,Artisan,OBC,Yes,Rural,Artisan,PM Vishwakarma
+46,Female,238972,Rajasthan,10th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+28,Male,644553,Gujarat,BTech,Student,ST,No,Urban,Student,AICTE Pragati
+29,Male,474134,Karnataka,5th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+26,Female,545793,Karnataka,Diploma,Student,SC,No,Urban,Student,AICTE Saksham
+61,Female,419425,Bihar,10th,Farmer,General,No,Urban,Farmer,PM Kisan Maan Dhan Yojana
+51,Male,375537,Uttar Pradesh,5th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+52,Male,230687,Madhya Pradesh,10th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+25,Male,1114020,Tamil Nadu,10th,Entrepreneur,General,Yes,Rural,Entrepreneur,Stand Up India
+47,Female,587001,Gujarat,MBA,Entrepreneur,SC,Yes,Rural,Entrepreneur,Startup India
+43,Female,233803,Rajasthan,5th,Farmer,SC,Yes,Urban,Farmer,PM Fasal Bima Yojana
+50,Male,332229,Karnataka,10th,Artisan,General,Yes,Urban,Artisan,PM Vishwakarma
+29,Male,76119,Rajasthan,5th,Artisan,OBC,Yes,Urban,Artisan,PM Vishwakarma
+29,Female,409773,Maharashtra,12th,Farmer,ST,No,Rural,Farmer,PM Kisan
+26,Female,265988,Madhya Pradesh,12th,Artisan,General,No,Urban,Artisan,PM Vishwakarma
+24,Female,382117,Uttar Pradesh,Diploma,Student,General,Yes,Urban,Student,NSP Scholarship
+63,Female,171394,Tamil Nadu,5th,Farmer,OBC,Yes,Rural,Farmer,PM Kisan
+48,Male,455508,Karnataka,10th,Farmer,OBC,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+27,Female,311246,Maharashtra,Graduate,Entrepreneur,ST,No,Rural,Entrepreneur,Stand Up India
+43,Female,464833,Uttar Pradesh,12th,Artisan,SC,No,Rural,Artisan,PM Vishwakarma
+23,Female,780619,Gujarat,12th,Student,OBC,No,Urban,Student,Central Sector Scholarship
+28,Male,525357,Bihar,BTech,Student,ST,Yes,Urban,Student,AICTE Pragati
+26,Female,549302,Madhya Pradesh,5th,Artisan,General,No,Rural,Artisan,PM Vishwakarma
+30,Female,614611,Madhya Pradesh,Graduate,Entrepreneur,ST,Yes,Urban,Entrepreneur,CGTMSE
+39,Male,497802,Gujarat,5th,Farmer,SC,No,Rural,Farmer,Kisan Credit Card
+47,Male,427360,Gujarat,12th,Farmer,SC,No,Urban,Farmer,PM Fasal Bima Yojana
+54,Female,111336,Bihar,10th,Farmer,General,No,Urban,Farmer,PM Kisan
+42,Male,593704,Maharashtra,10th,Entrepreneur,SC,Yes,Urban,Entrepreneur,CGTMSE
+23,Male,232352,Uttar Pradesh,Diploma,Student,ST,Yes,Rural,Student,AICTE Pragati
+28,Male,650724,Karnataka,12th,Student,OBC,Yes,Urban,Student,AICTE Pragati
+57,Female,400605,Gujarat,10th,Entrepreneur,ST,No,Urban,Entrepreneur,Startup India
+48,Male,1134514,Gujarat,MBA,Entrepreneur,ST,Yes,Urban,Entrepreneur,CGTMSE
+30,Male,539030,Bihar,12th,Entrepreneur,SC,No,Urban,Entrepreneur,PMEGP
+19,Female,68738,Madhya Pradesh,Diploma,Student,General,No,Rural,Student,AICTE Saksham
+36,Male,63196,Gujarat,12th,Farmer,SC,No,Rural,Farmer,PM Kisan
+35,Male,76876,Gujarat,10th,Farmer,SC,No,Rural,Farmer,PM Kisan
+26,Male,383025,Uttar Pradesh,12th,Student,General,No,Rural,Student,PM YASASVI
+31,Male,788331,Rajasthan,Graduate,Entrepreneur,SC,No,Urban,Entrepreneur,Mudra Loan Scheme
+65,Female,411829,Bihar,12th,Farmer,ST,Yes,Rural,Farmer,PM Kisan Maan Dhan Yojana
+18,Female,134064,Rajasthan,5th,Artisan,OBC,No,Rural,Artisan,PM Vishwakarma
+18,Female,366197,Tamil Nadu,10th,Farmer,OBC,Yes,Urban,Farmer,PM Fasal Bima Yojana
+28,Male,361390,Rajasthan,Diploma,Student,SC,Yes,Urban,Student,AICTE Pragati
+45,Male,522446,Karnataka,12th,Artisan,General,No,Urban,Artisan,PM Vishwakarma
+21,Male,660600,Maharashtra,BTech,Student,General,Yes,Urban,Student,NSP Scholarship
+38,Female,1174228,Maharashtra,12th,Entrepreneur,OBC,No,Rural,Entrepreneur,Mudra Loan Scheme
+28,Female,346367,Tamil Nadu,Graduate,Student,SC,Yes,Rural,Student,NSP Scholarship
+18,Female,561867,Gujarat,5th,Artisan,OBC,No,Rural,Artisan,PM Vishwakarma
+59,Male,227068,Madhya Pradesh,12th,Artisan,OBC,Yes,Urban,Artisan,PM Vishwakarma
+52,Male,242414,Bihar,12th,Farmer,ST,No,Urban,Farmer,PM Fasal Bima Yojana
+26,Male,103577,Maharashtra,12th,Student,ST,No,Rural,Student,AICTE Pragati
+27,Female,639088,Madhya Pradesh,BTech,Student,General,No,Urban,Student,Central Sector Scholarship
+36,Male,681236,Uttar Pradesh,MBA,Entrepreneur,SC,No,Rural,Entrepreneur,Startup India
+24,Female,704995,Bihar,MBA,Entrepreneur,General,Yes,Rural,Entrepreneur,PMEGP
+28,Male,740870,Madhya Pradesh,BTech,Student,SC,No,Rural,Student,INSPIRE Scholarship
+22,Male,93184,Uttar Pradesh,12th,Artisan,SC,No,Urban,Artisan,PM Vishwakarma
+19,Female,451613,Madhya Pradesh,Diploma,Student,ST,Yes,Rural,Student,PM YASASVI
+46,Female,340864,Bihar,10th,Entrepreneur,General,Yes,Rural,Entrepreneur,Mudra Loan Scheme
+65,Female,81648,Gujarat,10th,Farmer,SC,No,Urban,Farmer,PM Kisan
+43,Male,510771,Madhya Pradesh,MBA,Entrepreneur,General,Yes,Urban,Entrepreneur,Stand Up India
+37,Female,483695,Gujarat,5th,Farmer,General,Yes,Rural,Farmer,PM Fasal Bima Yojana
+48,Male,1104803,Uttar Pradesh,12th,Entrepreneur,ST,Yes,Rural,Entrepreneur,Mudra Loan Scheme
+21,Male,433789,Madhya Pradesh,10th,Entrepreneur,ST,No,Urban,Entrepreneur,PMEGP
+25,Female,120110,Gujarat,5th,Farmer,General,No,Rural,Farmer,PM Fasal Bima Yojana
+22,Male,591302,Madhya Pradesh,BTech,Student,SC,No,Rural,Student,PM YASASVI
+19,Male,285511,Madhya Pradesh,BTech,Student,OBC,No,Urban,Student,NSP Scholarship
+20,Male,698455,Bihar,Graduate,Student,General,Yes,Urban,Student,AICTE Saksham
+17,Male,153327,Tamil Nadu,Diploma,Student,General,Yes,Rural,Student,PM YASASVI
+24,Female,270231,Rajasthan,5th,Artisan,SC,Yes,Urban,Artisan,PM Vishwakarma
+30,Female,422120,Rajasthan,10th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+25,Male,63943,Uttar Pradesh,Diploma,Student,ST,Yes,Urban,Student,NSP Scholarship
+40,Male,474770,Uttar Pradesh,5th,Farmer,ST,Yes,Urban,Farmer,PM Fasal Bima Yojana
+35,Male,310308,Madhya Pradesh,10th,Farmer,ST,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+25,Male,284735,Madhya Pradesh,12th,Student,OBC,No,Rural,Student,NSP Scholarship
+28,Male,795453,Bihar,Diploma,Student,SC,Yes,Rural,Student,AICTE Saksham
+33,Female,353713,Uttar Pradesh,12th,Entrepreneur,SC,No,Urban,Entrepreneur,CGTMSE
+54,Female,231674,Madhya Pradesh,10th,Artisan,SC,No,Rural,Artisan,PM Vishwakarma
+26,Male,772103,Gujarat,Diploma,Student,ST,Yes,Urban,Student,PM YASASVI
+26,Male,207091,Karnataka,12th,Artisan,OBC,Yes,Rural,Artisan,PM Vishwakarma
+54,Female,206475,Maharashtra,12th,Farmer,ST,No,Rural,Farmer,PM Fasal Bima Yojana
+28,Male,290299,Uttar Pradesh,12th,Farmer,General,Yes,Rural,Farmer,Kisan Credit Card
+20,Male,738504,Karnataka,12th,Student,General,Yes,Urban,Student,AICTE Pragati
+30,Male,471552,Karnataka,12th,Farmer,OBC,No,Rural,Farmer,PM Fasal Bima Yojana
+40,Male,1083632,Rajasthan,10th,Entrepreneur,OBC,Yes,Rural,Entrepreneur,Startup India
+18,Female,235462,Madhya Pradesh,BTech,Student,ST,No,Rural,Student,AICTE Saksham
+23,Female,932683,Rajasthan,10th,Entrepreneur,ST,Yes,Rural,Entrepreneur,Startup India
+41,Female,429077,Bihar,5th,Farmer,OBC,Yes,Rural,Farmer,PM Kisan Maan Dhan Yojana
+59,Male,404286,Bihar,12th,Farmer,General,No,Rural,Farmer,Kisan Credit Card
+26,Female,171311,Maharashtra,BTech,Student,OBC,Yes,Urban,Student,PM YASASVI
+25,Male,415623,Tamil Nadu,10th,Entrepreneur,ST,No,Rural,Entrepreneur,Mudra Loan Scheme
+21,Female,202873,Maharashtra,12th,Student,SC,No,Rural,Student,NSP Scholarship
+39,Female,553209,Karnataka,5th,Artisan,OBC,Yes,Urban,Artisan,PM Vishwakarma
+28,Female,367467,Tamil Nadu,10th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+36,Female,680400,Bihar,10th,Entrepreneur,OBC,Yes,Rural,Entrepreneur,CGTMSE
+26,Female,1146669,Bihar,MBA,Entrepreneur,General,No,Rural,Entrepreneur,Stand Up India
+36,Male,237495,Maharashtra,12th,Entrepreneur,ST,No,Rural,Entrepreneur,Mudra Loan Scheme
+62,Male,137314,Gujarat,5th,Farmer,OBC,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+60,Male,115451,Karnataka,5th,Farmer,General,Yes,Rural,Farmer,Kisan Credit Card
+22,Male,220496,Karnataka,12th,Farmer,OBC,Yes,Urban,Farmer,PM Fasal Bima Yojana
+38,Female,306108,Rajasthan,12th,Farmer,General,Yes,Urban,Farmer,PM Kisan Maan Dhan Yojana
+20,Female,211878,Rajasthan,12th,Farmer,SC,Yes,Rural,Farmer,PM Kisan Maan Dhan Yojana
+26,Male,127741,Madhya Pradesh,Graduate,Student,General,Yes,Rural,Student,NSP Scholarship
+55,Male,1025898,Tamil Nadu,12th,Entrepreneur,SC,No,Urban,Entrepreneur,PMEGP
+19,Male,599056,Gujarat,Graduate,Student,SC,No,Rural,Student,NSP Scholarship
+46,Male,400492,Uttar Pradesh,10th,Farmer,SC,Yes,Rural,Farmer,PM Kisan Maan Dhan Yojana
+21,Male,628939,Rajasthan,BTech,Student,General,Yes,Urban,Student,Central Sector Scholarship
+36,Female,525427,Madhya Pradesh,12th,Entrepreneur,OBC,No,Rural,Entrepreneur,Stand Up India
+27,Female,331448,Bihar,Diploma,Student,OBC,No,Urban,Student,Central Sector Scholarship
+58,Female,806885,Madhya Pradesh,10th,Entrepreneur,General,Yes,Rural,Entrepreneur,Stand Up India
+25,Female,285566,Maharashtra,Graduate,Student,ST,No,Rural,Student,INSPIRE Scholarship
+25,Male,1006139,Madhya Pradesh,Graduate,Entrepreneur,ST,Yes,Rural,Entrepreneur,Mudra Loan Scheme
+41,Male,291527,Bihar,12th,Artisan,OBC,Yes,Urban,Artisan,PM Vishwakarma
+22,Female,493888,Maharashtra,12th,Farmer,OBC,No,Rural,Farmer,PM Kisan
+55,Male,641702,Tamil Nadu,10th,Entrepreneur,OBC,No,Rural,Entrepreneur,Mudra Loan Scheme
+46,Female,542225,Tamil Nadu,5th,Artisan,General,No,Urban,Artisan,PM Vishwakarma
+27,Male,118751,Madhya Pradesh,Graduate,Entrepreneur,OBC,No,Urban,Entrepreneur,Mudra Loan Scheme
+31,Female,366834,Madhya Pradesh,12th,Artisan,OBC,No,Urban,Artisan,PM Vishwakarma
+23,Male,417733,Tamil Nadu,10th,Entrepreneur,OBC,No,Urban,Entrepreneur,PMEGP
+25,Female,632251,Karnataka,BTech,Student,ST,Yes,Rural,Student,AICTE Pragati
+34,Male,490140,Maharashtra,5th,Artisan,General,No,Rural,Artisan,PM Vishwakarma
+22,Female,519658,Bihar,Diploma,Student,General,No,Rural,Student,INSPIRE Scholarship
+24,Female,122572,Maharashtra,BTech,Student,General,Yes,Urban,Student,NSP Scholarship
+40,Female,311456,Uttar Pradesh,12th,Farmer,General,Yes,Rural,Farmer,PM Kisan
+18,Female,759888,Bihar,12th,Student,SC,Yes,Rural,Student,INSPIRE Scholarship
+33,Male,129949,Uttar Pradesh,10th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+49,Male,487653,Tamil Nadu,10th,Artisan,SC,No,Urban,Artisan,PM Vishwakarma
+39,Male,451839,Maharashtra,12th,Farmer,OBC,No,Urban,Farmer,PM Kisan
+45,Male,149599,Madhya Pradesh,12th,Entrepreneur,ST,Yes,Urban,Entrepreneur,Mudra Loan Scheme
+29,Female,1198493,Bihar,Graduate,Entrepreneur,ST,No,Urban,Entrepreneur,CGTMSE
+54,Female,163226,Gujarat,Graduate,Entrepreneur,General,No,Urban,Entrepreneur,PMEGP
+27,Female,723325,Gujarat,BTech,Student,SC,No,Urban,Student,NSP Scholarship
+40,Male,187379,Maharashtra,10th,Artisan,SC,Yes,Urban,Artisan,PM Vishwakarma
+47,Male,247172,Tamil Nadu,10th,Entrepreneur,ST,Yes,Urban,Entrepreneur,Mudra Loan Scheme
+39,Female,342217,Tamil Nadu,12th,Farmer,SC,No,Rural,Farmer,PM Fasal Bima Yojana
+41,Female,100625,Gujarat,12th,Artisan,General,No,Rural,Artisan,PM Vishwakarma
+23,Female,415339,Madhya Pradesh,5th,Artisan,General,Yes,Rural,Artisan,PM Vishwakarma
+60,Male,124658,Gujarat,12th,Farmer,SC,Yes,Urban,Farmer,PM Fasal Bima Yojana
+30,Female,938231,Tamil Nadu,12th,Entrepreneur,ST,Yes,Rural,Entrepreneur,CGTMSE
+26,Female,567597,Maharashtra,Diploma,Student,SC,Yes,Rural,Student,AICTE Pragati
+19,Male,257009,Madhya Pradesh,12th,Farmer,OBC,No,Urban,Farmer,PM Fasal Bima Yojana
+56,Male,101910,Gujarat,12th,Farmer,SC,No,Urban,Farmer,PM Fasal Bima Yojana
+52,Male,162164,Madhya Pradesh,12th,Artisan,General,No,Rural,Artisan,PM Vishwakarma
+24,Female,161367,Uttar Pradesh,12th,Farmer,ST,Yes,Rural,Farmer,Kisan Credit Card
+24,Female,193007,Bihar,12th,Farmer,OBC,Yes,Urban,Farmer,PM Kisan Maan Dhan Yojana
+52,Male,975454,Madhya Pradesh,12th,Entrepreneur,OBC,Yes,Rural,Entrepreneur,Startup India
+21,Female,1152205,Tamil Nadu,MBA,Entrepreneur,SC,Yes,Urban,Entrepreneur,Startup India
+28,Female,325154,Gujarat,Graduate,Student,OBC,Yes,Urban,Student,INSPIRE Scholarship
+20,Male,377543,Maharashtra,BTech,Student,OBC,Yes,Rural,Student,Central Sector Scholarship
+26,Male,83809,Bihar,Graduate,Student,ST,Yes,Urban,Student,AICTE Saksham
+20,Male,436456,Uttar Pradesh,Diploma,Student,SC,No,Rural,Student,Central Sector Scholarship
+17,Male,540155,Rajasthan,BTech,Student,General,Yes,Urban,Student,PM YASASVI
+26,Male,171149,Karnataka,12th,Student,ST,Yes,Urban,Student,PM YASASVI
+24,Male,339773,Rajasthan,5th,Artisan,OBC,Yes,Urban,Artisan,PM Vishwakarma
+35,Female,301829,Karnataka,5th,Farmer,SC,No,Rural,Farmer,Kisan Credit Card
+32,Female,261409,Maharashtra,12th,Farmer,SC,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+52,Male,334903,Gujarat,10th,Farmer,ST,Yes,Urban,Farmer,PM Fasal Bima Yojana
+18,Male,522901,Rajasthan,12th,Artisan,OBC,Yes,Urban,Artisan,PM Vishwakarma
+30,Female,485450,Uttar Pradesh,10th,Farmer,OBC,Yes,Urban,Farmer,PM Fasal Bima Yojana
+26,Female,1084336,Rajasthan,Graduate,Entrepreneur,SC,No,Rural,Entrepreneur,CGTMSE
+49,Female,753477,Madhya Pradesh,12th,Entrepreneur,General,No,Urban,Entrepreneur,CGTMSE
+27,Male,1032409,Uttar Pradesh,10th,Entrepreneur,OBC,No,Urban,Entrepreneur,CGTMSE
+33,Male,51784,Karnataka,12th,Artisan,General,No,Urban,Artisan,PM Vishwakarma
+37,Male,171841,Madhya Pradesh,5th,Farmer,General,Yes,Urban,Farmer,PM Kisan
+38,Male,426491,Bihar,12th,Artisan,General,Yes,Urban,Artisan,PM Vishwakarma
+29,Male,211821,Karnataka,12th,Artisan,ST,No,Urban,Artisan,PM Vishwakarma
+33,Male,624344,Uttar Pradesh,Graduate,Entrepreneur,General,Yes,Rural,Entrepreneur,PMEGP
+24,Male,221551,Tamil Nadu,12th,Student,General,Yes,Urban,Student,INSPIRE Scholarship
+35,Male,258681,Karnataka,12th,Farmer,General,No,Urban,Farmer,PM Kisan
+61,Female,108153,Madhya Pradesh,12th,Farmer,OBC,Yes,Rural,Farmer,PM Kisan
+21,Male,576848,Madhya Pradesh,BTech,Student,General,Yes,Urban,Student,AICTE Pragati
+27,Female,193562,Uttar Pradesh,Diploma,Student,ST,No,Urban,Student,PM YASASVI
+26,Male,337693,Bihar,12th,Student,SC,Yes,Rural,Student,AICTE Pragati
+23,Male,59060,Karnataka,Diploma,Student,ST,No,Urban,Student,AICTE Saksham
+32,Male,811890,Tamil Nadu,Graduate,Entrepreneur,General,Yes,Rural,Entrepreneur,Startup India
+26,Female,81993,Madhya Pradesh,10th,Artisan,General,Yes,Rural,Artisan,PM Vishwakarma
+23,Female,115782,Uttar Pradesh,10th,Artisan,SC,Yes,Urban,Artisan,PM Vishwakarma
+46,Female,461268,Maharashtra,5th,Artisan,General,No,Rural,Artisan,PM Vishwakarma
+50,Female,953995,Gujarat,12th,Entrepreneur,SC,No,Rural,Entrepreneur,Stand Up India
+27,Male,367528,Gujarat,12th,Student,OBC,No,Urban,Student,AICTE Saksham
+22,Male,709058,Karnataka,Diploma,Student,SC,Yes,Urban,Student,INSPIRE Scholarship
+19,Female,588336,Gujarat,10th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+49,Male,129024,Gujarat,10th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+36,Female,996482,Maharashtra,MBA,Entrepreneur,OBC,Yes,Urban,Entrepreneur,Mudra Loan Scheme
+40,Female,377231,Rajasthan,10th,Artisan,SC,Yes,Rural,Artisan,PM Vishwakarma
+25,Female,97441,Uttar Pradesh,12th,Artisan,General,No,Urban,Artisan,PM Vishwakarma
+58,Male,467877,Uttar Pradesh,10th,Farmer,SC,Yes,Rural,Farmer,PM Kisan
+36,Male,231762,Gujarat,12th,Farmer,General,Yes,Rural,Farmer,PM Kisan Maan Dhan Yojana
+23,Female,163887,Maharashtra,10th,Artisan,OBC,Yes,Rural,Artisan,PM Vishwakarma
+52,Male,875981,Madhya Pradesh,MBA,Entrepreneur,General,Yes,Rural,Entrepreneur,Mudra Loan Scheme
+25,Male,488627,Tamil Nadu,Graduate,Student,ST,Yes,Urban,Student,NSP Scholarship
+27,Female,276947,Uttar Pradesh,Diploma,Student,General,Yes,Rural,Student,AICTE Pragati
+57,Female,726212,Karnataka,12th,Entrepreneur,General,Yes,Urban,Entrepreneur,Stand Up India
+22,Female,401407,Gujarat,BTech,Student,General,Yes,Rural,Student,PM YASASVI
+22,Male,113875,Uttar Pradesh,12th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+37,Male,387159,Uttar Pradesh,10th,Artisan,General,Yes,Rural,Artisan,PM Vishwakarma
+33,Male,431086,Madhya Pradesh,12th,Artisan,OBC,Yes,Urban,Artisan,PM Vishwakarma
+33,Female,494896,Maharashtra,10th,Artisan,SC,No,Urban,Artisan,PM Vishwakarma
+44,Female,94151,Gujarat,10th,Artisan,SC,Yes,Rural,Artisan,PM Vishwakarma
+57,Female,239494,Tamil Nadu,5th,Artisan,OBC,No,Rural,Artisan,PM Vishwakarma
+48,Female,202774,Rajasthan,10th,Farmer,General,Yes,Urban,Farmer,PM Kisan
+54,Male,1130849,Maharashtra,12th,Entrepreneur,ST,No,Urban,Entrepreneur,PMEGP
+49,Male,459570,Uttar Pradesh,12th,Entrepreneur,ST,No,Urban,Entrepreneur,Mudra Loan Scheme
+18,Male,752108,Karnataka,Diploma,Student,SC,Yes,Rural,Student,AICTE Saksham
+55,Female,811685,Rajasthan,10th,Entrepreneur,General,Yes,Urban,Entrepreneur,CGTMSE
+26,Female,1091641,Bihar,10th,Entrepreneur,SC,Yes,Urban,Entrepreneur,Stand Up India
+50,Female,131816,Uttar Pradesh,12th,Farmer,OBC,Yes,Urban,Farmer,PM Kisan Maan Dhan Yojana
+19,Male,309568,Madhya Pradesh,12th,Student,OBC,No,Rural,Student,AICTE Pragati
+55,Male,346514,Rajasthan,10th,Farmer,ST,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+24,Male,177815,Rajasthan,5th,Artisan,OBC,Yes,Rural,Artisan,PM Vishwakarma
+20,Female,624978,Bihar,10th,Entrepreneur,OBC,Yes,Urban,Entrepreneur,PMEGP
+50,Female,124280,Tamil Nadu,5th,Farmer,General,No,Urban,Farmer,PM Kisan Maan Dhan Yojana
+28,Female,772894,Madhya Pradesh,MBA,Entrepreneur,General,No,Rural,Entrepreneur,Stand Up India
+56,Female,577925,Tamil Nadu,12th,Artisan,General,Yes,Urban,Artisan,PM Vishwakarma
+18,Male,686190,Gujarat,BTech,Student,General,No,Urban,Student,PM YASASVI
+46,Male,87423,Karnataka,12th,Farmer,SC,No,Rural,Farmer,PM Kisan
+21,Male,153307,Maharashtra,BTech,Student,ST,Yes,Rural,Student,AICTE Pragati
+31,Male,422118,Rajasthan,10th,Artisan,SC,Yes,Rural,Artisan,PM Vishwakarma
+20,Female,57922,Bihar,10th,Artisan,SC,Yes,Rural,Artisan,PM Vishwakarma
+19,Male,369760,Rajasthan,12th,Student,SC,Yes,Urban,Student,INSPIRE Scholarship
+44,Female,284338,Gujarat,5th,Farmer,General,No,Urban,Farmer,PM Kisan
+21,Male,559304,Maharashtra,5th,Artisan,SC,No,Rural,Artisan,PM Vishwakarma
+44,Male,998147,Madhya Pradesh,MBA,Entrepreneur,OBC,Yes,Urban,Entrepreneur,Startup India
+23,Male,531329,Madhya Pradesh,Diploma,Student,SC,No,Rural,Student,AICTE Pragati
+17,Male,411576,Tamil Nadu,BTech,Student,General,No,Rural,Student,Central Sector Scholarship
+53,Male,188490,Madhya Pradesh,Graduate,Entrepreneur,ST,Yes,Rural,Entrepreneur,Mudra Loan Scheme
+47,Female,123281,Maharashtra,10th,Farmer,OBC,Yes,Rural,Farmer,Kisan Credit Card
+27,Female,256002,Maharashtra,5th,Farmer,ST,No,Urban,Farmer,PM Kisan Maan Dhan Yojana
+36,Male,93095,Bihar,12th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+25,Male,170132,Maharashtra,12th,Student,ST,No,Rural,Student,NSP Scholarship
+20,Female,75682,Gujarat,Graduate,Student,OBC,Yes,Urban,Student,AICTE Saksham
+34,Female,401169,Karnataka,12th,Farmer,OBC,No,Rural,Farmer,PM Kisan
+39,Female,268519,Rajasthan,10th,Farmer,OBC,No,Rural,Farmer,Kisan Credit Card
+42,Male,125220,Uttar Pradesh,5th,Farmer,ST,No,Rural,Farmer,PM Fasal Bima Yojana
+43,Female,313338,Maharashtra,10th,Farmer,General,No,Rural,Farmer,PM Kisan
+22,Female,510825,Rajasthan,BTech,Student,ST,No,Rural,Student,Central Sector Scholarship
+17,Female,195999,Bihar,Diploma,Student,General,Yes,Urban,Student,Central Sector Scholarship
+46,Male,525427,Karnataka,10th,Entrepreneur,OBC,No,Rural,Entrepreneur,Stand Up India
+59,Male,498992,Maharashtra,12th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+58,Female,422454,Karnataka,5th,Farmer,General,No,Urban,Farmer,PM Kisan
+27,Male,369088,Rajasthan,12th,Farmer,General,No,Urban,Farmer,Kisan Credit Card
+27,Male,423415,Rajasthan,BTech,Student,General,Yes,Rural,Student,INSPIRE Scholarship
+57,Male,1084241,Bihar,10th,Entrepreneur,General,Yes,Rural,Entrepreneur,Stand Up India
+58,Male,227611,Bihar,5th,Farmer,SC,No,Rural,Farmer,Kisan Credit Card
+19,Male,340962,Rajasthan,5th,Farmer,SC,No,Urban,Farmer,Kisan Credit Card
+21,Female,734670,Karnataka,12th,Student,OBC,Yes,Rural,Student,NSP Scholarship
+50,Female,367893,Maharashtra,12th,Farmer,SC,No,Urban,Farmer,PM Kisan Maan Dhan Yojana
+30,Female,989322,Bihar,12th,Entrepreneur,SC,Yes,Rural,Entrepreneur,Startup India
+25,Male,669341,Karnataka,BTech,Student,OBC,Yes,Urban,Student,AICTE Saksham
+45,Male,378356,Karnataka,5th,Artisan,OBC,Yes,Urban,Artisan,PM Vishwakarma
+26,Male,510424,Madhya Pradesh,12th,Student,ST,Yes,Urban,Student,NSP Scholarship
+35,Female,149989,Uttar Pradesh,Graduate,Entrepreneur,OBC,No,Rural,Entrepreneur,PMEGP
+27,Male,441418,Uttar Pradesh,12th,Student,SC,No,Rural,Student,NSP Scholarship
+36,Male,701384,Tamil Nadu,12th,Entrepreneur,General,No,Rural,Entrepreneur,Startup India
+27,Female,787974,Tamil Nadu,10th,Entrepreneur,General,No,Urban,Entrepreneur,Stand Up India
+54,Male,243841,Gujarat,5th,Farmer,SC,Yes,Rural,Farmer,PM Kisan
+17,Female,242814,Gujarat,Diploma,Student,SC,No,Urban,Student,NSP Scholarship
+19,Male,612592,Karnataka,Graduate,Student,SC,No,Rural,Student,NSP Scholarship
+20,Male,397853,Karnataka,12th,Student,ST,No,Rural,Student,NSP Scholarship
+59,Female,329493,Maharashtra,12th,Farmer,OBC,Yes,Rural,Farmer,PM Kisan
+28,Male,187252,Karnataka,Graduate,Student,SC,No,Urban,Student,INSPIRE Scholarship
+46,Male,924324,Madhya Pradesh,12th,Entrepreneur,ST,Yes,Urban,Entrepreneur,Stand Up India
+50,Female,357703,Gujarat,10th,Farmer,General,Yes,Rural,Farmer,Kisan Credit Card
+27,Male,526601,Rajasthan,12th,Student,SC,No,Urban,Student,AICTE Saksham
+47,Female,313068,Bihar,5th,Farmer,SC,No,Urban,Farmer,PM Kisan Maan Dhan Yojana
+22,Female,203326,Rajasthan,MBA,Entrepreneur,SC,No,Rural,Entrepreneur,Mudra Loan Scheme
+27,Male,1137535,Karnataka,MBA,Entrepreneur,General,No,Urban,Entrepreneur,CGTMSE
+51,Male,1116622,Maharashtra,MBA,Entrepreneur,General,Yes,Rural,Entrepreneur,Mudra Loan Scheme
+21,Male,448725,Madhya Pradesh,Diploma,Student,General,No,Rural,Student,AICTE Saksham
+33,Female,244281,Gujarat,5th,Artisan,General,No,Urban,Artisan,PM Vishwakarma
+24,Male,918184,Gujarat,10th,Entrepreneur,ST,No,Rural,Entrepreneur,Startup India
+23,Female,381817,Bihar,Diploma,Student,SC,Yes,Rural,Student,Central Sector Scholarship
+59,Male,955000,Bihar,Graduate,Entrepreneur,ST,Yes,Rural,Entrepreneur,Mudra Loan Scheme
+17,Female,144528,Tamil Nadu,BTech,Student,ST,No,Rural,Student,PM YASASVI
+23,Female,558296,Gujarat,Diploma,Student,General,Yes,Urban,Student,AICTE Pragati
+47,Female,132041,Uttar Pradesh,10th,Artisan,OBC,Yes,Rural,Artisan,PM Vishwakarma
+47,Female,74881,Gujarat,5th,Farmer,OBC,No,Rural,Farmer,PM Kisan
+51,Female,104988,Karnataka,5th,Farmer,OBC,Yes,Rural,Farmer,Kisan Credit Card
+24,Male,732123,Maharashtra,Diploma,Student,SC,No,Rural,Student,PM YASASVI
+27,Female,364001,Madhya Pradesh,Graduate,Student,General,Yes,Rural,Student,Central Sector Scholarship
+25,Male,125605,Uttar Pradesh,10th,Farmer,SC,Yes,Rural,Farmer,PM Fasal Bima Yojana
+36,Male,373986,Bihar,12th,Artisan,General,No,Rural,Artisan,PM Vishwakarma
+49,Male,334385,Tamil Nadu,5th,Farmer,SC,No,Urban,Farmer,PM Kisan
+46,Female,107161,Bihar,12th,Entrepreneur,General,No,Urban,Entrepreneur,PMEGP
+29,Female,432260,Gujarat,10th,Farmer,ST,No,Urban,Farmer,PM Fasal Bima Yojana
+30,Female,391395,Madhya Pradesh,12th,Farmer,SC,Yes,Urban,Farmer,PM Kisan Maan Dhan Yojana
+44,Female,242595,Karnataka,10th,Artisan,General,No,Rural,Artisan,PM Vishwakarma
+41,Male,558648,Maharashtra,5th,Artisan,ST,No,Urban,Artisan,PM Vishwakarma
+57,Female,147595,Madhya Pradesh,5th,Farmer,ST,Yes,Rural,Farmer,PM Kisan
+43,Male,172678,Rajasthan,10th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+27,Female,731115,Karnataka,12th,Student,ST,Yes,Rural,Student,NSP Scholarship
+51,Female,183825,Karnataka,Graduate,Entrepreneur,General,Yes,Rural,Entrepreneur,Stand Up India
+41,Male,84725,Bihar,10th,Farmer,SC,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+41,Female,1069599,Tamil Nadu,12th,Entrepreneur,OBC,No,Rural,Entrepreneur,CGTMSE
+57,Male,314267,Tamil Nadu,12th,Farmer,ST,Yes,Rural,Farmer,PM Kisan Maan Dhan Yojana
+54,Male,155084,Karnataka,12th,Artisan,OBC,Yes,Rural,Artisan,PM Vishwakarma
+22,Male,1031304,Rajasthan,Graduate,Entrepreneur,OBC,No,Urban,Entrepreneur,PMEGP
+36,Male,488446,Gujarat,Graduate,Entrepreneur,General,No,Rural,Entrepreneur,CGTMSE
+51,Female,569079,Tamil Nadu,Graduate,Entrepreneur,OBC,Yes,Rural,Entrepreneur,PMEGP
+24,Female,203971,Rajasthan,Diploma,Student,ST,No,Rural,Student,AICTE Saksham
+26,Female,213719,Tamil Nadu,12th,Artisan,General,Yes,Urban,Artisan,PM Vishwakarma
+32,Female,251467,Gujarat,10th,Farmer,General,No,Rural,Farmer,PM Fasal Bima Yojana
+34,Female,163551,Karnataka,10th,Farmer,General,No,Urban,Farmer,PM Kisan Maan Dhan Yojana
+28,Female,140508,Gujarat,Diploma,Student,ST,Yes,Rural,Student,NSP Scholarship
+24,Female,454758,Madhya Pradesh,5th,Artisan,SC,Yes,Urban,Artisan,PM Vishwakarma
+28,Female,53610,Karnataka,5th,Artisan,SC,Yes,Rural,Artisan,PM Vishwakarma
+22,Female,320649,Gujarat,5th,Artisan,General,No,Rural,Artisan,PM Vishwakarma
+20,Male,568753,Bihar,Graduate,Student,General,No,Urban,Student,INSPIRE Scholarship
+17,Male,193625,Maharashtra,12th,Student,ST,Yes,Urban,Student,Central Sector Scholarship
+34,Female,806828,Bihar,Graduate,Entrepreneur,OBC,Yes,Rural,Entrepreneur,Stand Up India
+38,Female,81145,Uttar Pradesh,12th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+47,Male,278778,Madhya Pradesh,5th,Artisan,SC,No,Urban,Artisan,PM Vishwakarma
+55,Male,99962,Madhya Pradesh,5th,Farmer,ST,Yes,Rural,Farmer,PM Fasal Bima Yojana
+29,Female,372686,Bihar,12th,Entrepreneur,OBC,Yes,Rural,Entrepreneur,CGTMSE
+40,Male,437141,Gujarat,10th,Farmer,ST,No,Urban,Farmer,Kisan Credit Card
+22,Male,63481,Karnataka,BTech,Student,ST,Yes,Rural,Student,PM YASASVI
+23,Male,662807,Tamil Nadu,Graduate,Student,SC,No,Rural,Student,Central Sector Scholarship
+25,Male,179936,Maharashtra,BTech,Student,SC,No,Rural,Student,AICTE Saksham
+59,Female,113411,Madhya Pradesh,5th,Farmer,SC,No,Rural,Farmer,Kisan Credit Card
+37,Male,569109,Madhya Pradesh,MBA,Entrepreneur,SC,Yes,Urban,Entrepreneur,Startup India
+20,Male,201465,Rajasthan,12th,Farmer,OBC,Yes,Urban,Farmer,PM Kisan
+50,Male,209337,Maharashtra,12th,Farmer,SC,Yes,Rural,Farmer,Kisan Credit Card
+47,Male,391128,Bihar,12th,Artisan,General,Yes,Urban,Artisan,PM Vishwakarma
+27,Male,51141,Tamil Nadu,10th,Artisan,General,No,Urban,Artisan,PM Vishwakarma
+50,Female,121298,Bihar,12th,Artisan,SC,No,Rural,Artisan,PM Vishwakarma
+46,Male,553519,Rajasthan,Graduate,Entrepreneur,SC,Yes,Rural,Entrepreneur,Stand Up India
+51,Female,52851,Karnataka,5th,Artisan,General,No,Urban,Artisan,PM Vishwakarma
+55,Male,352970,Maharashtra,MBA,Entrepreneur,ST,Yes,Rural,Entrepreneur,Startup India
+33,Female,340181,Karnataka,10th,Farmer,General,No,Urban,Farmer,PM Kisan Maan Dhan Yojana
+18,Female,535604,Uttar Pradesh,Graduate,Student,ST,No,Rural,Student,AICTE Pragati
+20,Female,238835,Bihar,12th,Student,OBC,Yes,Urban,Student,AICTE Pragati
+27,Female,204243,Tamil Nadu,Graduate,Student,General,Yes,Urban,Student,Central Sector Scholarship
+54,Female,627318,Gujarat,MBA,Entrepreneur,OBC,No,Urban,Entrepreneur,Mudra Loan Scheme
+50,Female,523914,Tamil Nadu,12th,Entrepreneur,OBC,No,Rural,Entrepreneur,PMEGP
+27,Female,200282,Gujarat,5th,Artisan,General,No,Urban,Artisan,PM Vishwakarma
+54,Female,225690,Karnataka,Graduate,Entrepreneur,SC,No,Rural,Entrepreneur,CGTMSE
+42,Female,242835,Uttar Pradesh,10th,Artisan,ST,Yes,Urban,Artisan,PM Vishwakarma
+29,Male,744658,Karnataka,MBA,Entrepreneur,OBC,Yes,Urban,Entrepreneur,Mudra Loan Scheme
+58,Female,546757,Karnataka,5th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+45,Female,109295,Bihar,12th,Entrepreneur,General,No,Rural,Entrepreneur,CGTMSE
+36,Male,385244,Karnataka,10th,Artisan,General,Yes,Rural,Artisan,PM Vishwakarma
+34,Male,546402,Karnataka,10th,Entrepreneur,OBC,Yes,Rural,Entrepreneur,Stand Up India
+21,Female,305307,Madhya Pradesh,12th,Student,SC,Yes,Urban,Student,AICTE Saksham
+56,Female,374355,Bihar,5th,Farmer,General,Yes,Urban,Farmer,PM Kisan
+37,Male,109252,Tamil Nadu,5th,Artisan,ST,Yes,Urban,Artisan,PM Vishwakarma
+19,Male,557737,Uttar Pradesh,12th,Student,General,No,Urban,Student,INSPIRE Scholarship
+36,Female,562940,Rajasthan,12th,Entrepreneur,General,Yes,Urban,Entrepreneur,CGTMSE
+32,Female,194176,Uttar Pradesh,5th,Artisan,OBC,Yes,Rural,Artisan,PM Vishwakarma
+26,Male,524370,Tamil Nadu,Graduate,Entrepreneur,OBC,No,Rural,Entrepreneur,Stand Up India
+62,Male,376513,Bihar,5th,Farmer,ST,No,Urban,Farmer,PM Kisan Maan Dhan Yojana
+18,Female,510310,Bihar,Diploma,Student,OBC,No,Rural,Student,NSP Scholarship
+42,Male,790262,Madhya Pradesh,Graduate,Entrepreneur,SC,No,Urban,Entrepreneur,CGTMSE
+50,Female,323612,Uttar Pradesh,5th,Artisan,General,Yes,Rural,Artisan,PM Vishwakarma
+55,Female,870564,Tamil Nadu,Graduate,Entrepreneur,General,No,Urban,Entrepreneur,PMEGP
+26,Male,377993,Madhya Pradesh,Diploma,Student,General,No,Rural,Student,AICTE Pragati
+24,Female,93845,Karnataka,Diploma,Student,General,No,Urban,Student,NSP Scholarship
+21,Female,230750,Karnataka,12th,Farmer,OBC,Yes,Urban,Farmer,PM Kisan
+18,Female,273817,Uttar Pradesh,5th,Farmer,SC,Yes,Urban,Farmer,PM Kisan Maan Dhan Yojana
+30,Male,84277,Karnataka,10th,Farmer,SC,Yes,Urban,Farmer,PM Kisan Maan Dhan Yojana
+41,Female,390384,Maharashtra,10th,Artisan,General,No,Urban,Artisan,PM Vishwakarma
+62,Male,359129,Gujarat,12th,Farmer,ST,Yes,Rural,Farmer,PM Fasal Bima Yojana
+38,Male,784371,Uttar Pradesh,12th,Entrepreneur,General,No,Rural,Entrepreneur,PMEGP
+28,Female,198499,Bihar,12th,Student,ST,Yes,Rural,Student,INSPIRE Scholarship
+24,Female,589891,Bihar,12th,Student,ST,No,Rural,Student,PM YASASVI
+26,Female,232751,Rajasthan,Diploma,Student,SC,Yes,Rural,Student,AICTE Saksham
+51,Male,229263,Rajasthan,10th,Artisan,SC,No,Rural,Artisan,PM Vishwakarma
+23,Female,354288,Uttar Pradesh,Diploma,Student,OBC,No,Rural,Student,AICTE Pragati
+18,Female,239756,Gujarat,5th,Farmer,OBC,No,Rural,Farmer,PM Kisan Maan Dhan Yojana
+20,Male,532443,Rajasthan,Diploma,Student,SC,Yes,Urban,Student,AICTE Pragati
+25,Female,448857,Karnataka,12th,Farmer,OBC,No,Urban,Farmer,PM Fasal Bima Yojana
+17,Female,302039,Uttar Pradesh,Graduate,Student,SC,Yes,Rural,Student,AICTE Pragati
+27,Male,1063507,Uttar Pradesh,MBA,Entrepreneur,OBC,Yes,Urban,Entrepreneur,Startup India
+49,Male,403593,Karnataka,MBA,Entrepreneur,General,Yes,Urban,Entrepreneur,CGTMSE
+22,Female,345619,Uttar Pradesh,10th,Farmer,OBC,No,Urban,Farmer,PM Fasal Bima Yojana
+22,Male,373465,Karnataka,12th,Artisan,SC,Yes,Urban,Artisan,PM Vishwakarma
+45,Female,178077,Madhya Pradesh,5th,Farmer,General,Yes,Rural,Farmer,PM Fasal Bima Yojana
+24,Male,215405,Maharashtra,5th,Farmer,SC,No,Rural,Farmer,PM Fasal Bima Yojana
+22,Female,723115,Madhya Pradesh,Graduate,Student,ST,No,Urban,Student,Central Sector Scholarship
+23,Male,419250,Maharashtra,Graduate,Student,ST,No,Rural,Student,NSP Scholarship
+57,Female,444890,Karnataka,5th,Farmer,SC,No,Urban,Farmer,Kisan Credit Card
+36,Male,456383,Madhya Pradesh,5th,Artisan,General,Yes,Urban,Artisan,PM Vishwakarma
+54,Male,711216,Tamil Nadu,MBA,Entrepreneur,OBC,Yes,Urban,Entrepreneur,PMEGP
+56,Male,716250,Bihar,10th,Entrepreneur,ST,No,Rural,Entrepreneur,PMEGP
+28,Male,156493,Karnataka,BTech,Student,SC,No,Urban,Student,PM YASASVI
+24,Female,752841,Madhya Pradesh,BTech,Student,ST,Yes,Rural,Student,PM YASASVI
+43,Male,363613,Rajasthan,10th,Farmer,SC,No,Urban,Farmer,PM Fasal Bima Yojana
+60,Female,221337,Rajasthan,10th,Artisan,SC,No,Rural,Artisan,PM Vishwakarma
+30,Male,125660,Madhya Pradesh,10th,Farmer,ST,No,Urban,Farmer,PM Kisan Maan Dhan Yojana
+45,Male,253991,Maharashtra,12th,Artisan,SC,No,Urban,Artisan,PM Vishwakarma
+35,Female,243055,Karnataka,10th,Entrepreneur,OBC,Yes,Urban,Entrepreneur,Stand Up India
+26,Female,547720,Maharashtra,Graduate,Student,SC,No,Urban,Student,PM YASASVI
+20,Male,316173,Uttar Pradesh,12th,Student,SC,No,Urban,Student,AICTE Pragati
+25,Male,183055,Bihar,BTech,Student,SC,Yes,Rural,Student,Central Sector Scholarship
+17,Female,54067,Karnataka,Graduate,Student,OBC,Yes,Urban,Student,AICTE Saksham
+24,Male,232079,Rajasthan,BTech,Student,OBC,No,Rural,Student,PM YASASVI
+56,Female,277485,Uttar Pradesh,10th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+49,Female,416327,Rajasthan,5th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+39,Female,263680,Madhya Pradesh,5th,Farmer,ST,Yes,Urban,Farmer,PM Fasal Bima Yojana
+55,Female,412724,Tamil Nadu,MBA,Entrepreneur,General,Yes,Rural,Entrepreneur,Startup India
+41,Female,103262,Karnataka,12th,Farmer,General,No,Rural,Farmer,PM Fasal Bima Yojana
+59,Male,666774,Gujarat,10th,Entrepreneur,OBC,No,Urban,Entrepreneur,PMEGP
+30,Female,971199,Maharashtra,10th,Entrepreneur,OBC,Yes,Rural,Entrepreneur,Mudra Loan Scheme
+20,Female,369088,Madhya Pradesh,BTech,Student,OBC,No,Rural,Student,PM YASASVI
+56,Male,111185,Maharashtra,12th,Entrepreneur,General,Yes,Rural,Entrepreneur,CGTMSE
+18,Male,916553,Karnataka,MBA,Entrepreneur,OBC,Yes,Rural,Entrepreneur,Startup India
+20,Male,744046,Maharashtra,Graduate,Student,General,No,Urban,Student,AICTE Pragati
+31,Male,76753,Uttar Pradesh,10th,Farmer,ST,No,Urban,Farmer,PM Kisan Maan Dhan Yojana
+22,Female,375175,Rajasthan,BTech,Student,SC,Yes,Urban,Student,Central Sector Scholarship
+18,Male,448229,Karnataka,10th,Farmer,General,No,Urban,Farmer,PM Kisan Maan Dhan Yojana
+26,Male,403183,Maharashtra,BTech,Student,General,Yes,Rural,Student,Central Sector Scholarship
+33,Female,551410,Karnataka,12th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+38,Female,324097,Bihar,12th,Artisan,ST,No,Rural,Artisan,PM Vishwakarma
+27,Male,481432,Karnataka,5th,Farmer,OBC,Yes,Rural,Farmer,PM Kisan Maan Dhan Yojana
+25,Male,571084,Rajasthan,Diploma,Student,SC,Yes,Rural,Student,NSP Scholarship
+44,Male,322397,Rajasthan,10th,Artisan,SC,No,Urban,Artisan,PM Vishwakarma
+42,Male,406066,Tamil Nadu,10th,Farmer,ST,Yes,Urban,Farmer,PM Kisan
+63,Female,206883,Tamil Nadu,10th,Farmer,SC,No,Urban,Farmer,Kisan Credit Card
+23,Female,281455,Karnataka,10th,Farmer,OBC,No,Urban,Farmer,PM Kisan
+45,Female,231944,Gujarat,10th,Artisan,General,Yes,Urban,Artisan,PM Vishwakarma
+21,Female,712073,Tamil Nadu,Diploma,Student,General,Yes,Urban,Student,INSPIRE Scholarship
+25,Female,529934,Gujarat,BTech,Student,OBC,Yes,Rural,Student,Central Sector Scholarship
+49,Male,580974,Tamil Nadu,10th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+49,Female,114386,Uttar Pradesh,10th,Artisan,General,Yes,Rural,Artisan,PM Vishwakarma
+56,Male,222574,Uttar Pradesh,10th,Farmer,ST,Yes,Rural,Farmer,PM Kisan
+28,Female,249039,Gujarat,12th,Student,General,No,Urban,Student,Central Sector Scholarship
+32,Male,91398,Tamil Nadu,10th,Farmer,ST,Yes,Urban,Farmer,Kisan Credit Card
+28,Male,396770,Karnataka,5th,Artisan,OBC,Yes,Urban,Artisan,PM Vishwakarma
+42,Female,700700,Karnataka,10th,Entrepreneur,ST,Yes,Urban,Entrepreneur,Startup India
+17,Female,192036,Bihar,12th,Student,SC,No,Urban,Student,AICTE Pragati
+51,Male,173799,Gujarat,12th,Farmer,OBC,Yes,Urban,Farmer,PM Fasal Bima Yojana
+21,Female,466846,Madhya Pradesh,12th,Farmer,ST,Yes,Urban,Farmer,PM Kisan Maan Dhan Yojana
+55,Female,323869,Madhya Pradesh,12th,Farmer,SC,Yes,Rural,Farmer,PM Kisan
+36,Male,462547,Rajasthan,12th,Farmer,SC,No,Urban,Farmer,PM Kisan
+25,Female,770410,Gujarat,BTech,Student,SC,No,Urban,Student,Central Sector Scholarship
+39,Female,1153198,Gujarat,Graduate,Entrepreneur,ST,No,Rural,Entrepreneur,PMEGP
+28,Female,149681,Karnataka,Diploma,Student,General,No,Rural,Student,INSPIRE Scholarship
+50,Male,409957,Tamil Nadu,12th,Farmer,OBC,Yes,Urban,Farmer,Kisan Credit Card
+28,Female,682895,Rajasthan,Diploma,Student,OBC,Yes,Urban,Student,NSP Scholarship
+22,Male,421776,Uttar Pradesh,BTech,Student,ST,No,Urban,Student,INSPIRE Scholarship
+50,Male,137242,Rajasthan,10th,Farmer,ST,No,Urban,Farmer,PM Kisan Maan Dhan Yojana
+20,Female,691349,Bihar,12th,Entrepreneur,General,Yes,Rural,Entrepreneur,Mudra Loan Scheme
+50,Female,487242,Rajasthan,5th,Artisan,ST,Yes,Rural,Artisan,PM Vishwakarma
+28,Male,351754,Bihar,Graduate,Entrepreneur,General,Yes,Urban,Entrepreneur,Stand Up India
+46,Female,269254,Rajasthan,10th,Artisan,ST,Yes,Urban,Artisan,PM Vishwakarma
+41,Female,348387,Bihar,10th,Entrepreneur,General,No,Urban,Entrepreneur,Startup India
+65,Female,213243,Bihar,12th,Farmer,ST,No,Rural,Farmer,PM Fasal Bima Yojana
+33,Female,376672,Tamil Nadu,10th,Artisan,OBC,No,Rural,Artisan,PM Vishwakarma
+17,Male,797532,Gujarat,Diploma,Student,General,No,Urban,Student,NSP Scholarship
+59,Male,1128905,Rajasthan,12th,Entrepreneur,SC,No,Urban,Entrepreneur,Mudra Loan Scheme
+30,Female,307915,Madhya Pradesh,10th,Artisan,OBC,No,Rural,Artisan,PM Vishwakarma
+22,Female,411082,Gujarat,Graduate,Student,General,No,Rural,Student,PM YASASVI
+28,Female,280547,Karnataka,Graduate,Student,General,No,Rural,Student,Central Sector Scholarship
+55,Female,443912,Karnataka,10th,Artisan,SC,Yes,Rural,Artisan,PM Vishwakarma
+27,Male,664241,Rajasthan,12th,Student,ST,No,Urban,Student,AICTE Pragati
+43,Male,349571,Karnataka,12th,Farmer,SC,No,Urban,Farmer,Kisan Credit Card
+44,Female,83805,Karnataka,5th,Farmer,OBC,Yes,Rural,Farmer,PM Fasal Bima Yojana
+28,Male,610125,Rajasthan,12th,Student,ST,No,Urban,Student,AICTE Pragati
+36,Male,237226,Karnataka,10th,Farmer,OBC,No,Rural,Farmer,PM Fasal Bima Yojana
+20,Male,556753,Bihar,Diploma,Student,General,No,Urban,Student,AICTE Saksham
+59,Female,495782,Madhya Pradesh,MBA,Entrepreneur,OBC,No,Urban,Entrepreneur,PMEGP
+25,Male,1092268,Uttar Pradesh,12th,Entrepreneur,ST,Yes,Urban,Entrepreneur,CGTMSE
+22,Male,575819,Tamil Nadu,BTech,Student,General,Yes,Rural,Student,INSPIRE Scholarship
+25,Female,121806,Uttar Pradesh,Diploma,Student,OBC,No,Rural,Student,NSP Scholarship
+39,Male,182622,Uttar Pradesh,12th,Farmer,SC,Yes,Urban,Farmer,PM Kisan Maan Dhan Yojana
+19,Male,461853,Maharashtra,12th,Artisan,OBC,No,Urban,Artisan,PM Vishwakarma
+60,Male,1164728,Gujarat,MBA,Entrepreneur,General,Yes,Urban,Entrepreneur,Mudra Loan Scheme

@@ -1,0 +1,52 @@
+{
+    "feature_columns": [
+        "Age",
+        "Income",
+        "Gender_enc",
+        "State_enc",
+        "Education_enc",
+        "Occupation_enc",
+        "Category_enc",
+        "Disability_Status_enc",
+        "Rural_Urban_enc",
+        "Employment_Status_enc",
+        "Is_Low_Income",
+        "Is_Youth",
+        "Is_Vulnerable"
+    ],
+    "categorical_cols": [
+        "Gender",
+        "State",
+        "Education",
+        "Occupation",
+        "Category",
+        "Disability_Status",
+        "Rural_Urban",
+        "Employment_Status",
+        "Income_Group",
+        "Age_Group"
+    ],
+    "target_col": "Recommended_Scheme",
+    "scheme_classes": [
+        "AICTE Pragati",
+        "AICTE Saksham",
+        "CGTMSE",
+        "Central Sector Scholarship",
+        "INSPIRE Scholarship",
+        "Kisan Credit Card",
+        "Mudra Loan Scheme",
+        "NSP Scholarship",
+        "PM Fasal Bima Yojana",
+        "PM Kisan",
+        "PM Kisan Maan Dhan Yojana",
+        "PM Vishwakarma",
+        "PM YASASVI",
+        "PMEGP",
+        "Stand Up India",
+        "Startup India"
+    ],
+    "test_size": 0.2,
+    "random_seed": 42,
+    "n_train": 1200,
+    "n_test": 300
+}

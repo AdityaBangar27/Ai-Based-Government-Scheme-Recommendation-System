@@ -1,0 +1,8 @@
+Model,Accuracy (%),F1-Score (%),Precision (%),Recall (%),CV Mean (%),CV Std (%),Train Time (s),Selected
+Random Forest (100 trees),38.67,38.36,38.42,38.67,35.92,1.57,0.285,True
+Support Vector Machine (RBF),38.67,37.21,38.01,38.67,38.08,2.45,0.097,False
+Decision Tree,36.67,36.57,36.7,36.67,39.33,3.7,0.006,False
+Gradient Boosting,36.33,35.99,36.36,36.33,38.25,1.89,5.787,False
+Logistic Regression,36.33,35.82,36.42,36.33,34.5,2.24,0.05,False
+K-Nearest Neighbors (K=7),34.67,33.21,32.52,34.67,36.17,3.27,0.004,False
+Naive Bayes,27.33,15.23,11.82,27.33,26.92,1.14,0.003,False

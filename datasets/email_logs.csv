@@ -1,0 +1,1 @@
+email_id,user_id,recipient_email,subject,email_type,status,sent_at,delivery_status,error_message,created_at
